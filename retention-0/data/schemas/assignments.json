@@ -1,0 +1,6 @@
+{
+    "project_number": "int64",
+    "employee_number": "int64",
+    "assignment_start": "datetime64[ns]",
+    "assignment_end": "datetime64[ns]"
+}

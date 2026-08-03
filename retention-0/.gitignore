@@ -1,0 +1,32 @@
+# Dataiku defaults
+.journal
+.mainlock
+.wlock
+.ts
+git-info.json
+.git
+version-tags.json
+*.pyc
+.coverage
+.htmlcov
+.DS_Store
+.idea
+
+# Notebook noise
+ipython_notebooks/.ipynb_checkpoints/
+
+# VScode artifacts
+.vscode/
+
+# Dataset exploration settings
+explore/
+
+# Statistical analysis on datasets
+statistics_worksheets/
+
+# environments
+.env
+merge-requests.json
+
+# Datasets
+artifacts/

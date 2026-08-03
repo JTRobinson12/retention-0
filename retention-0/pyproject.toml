@@ -1,0 +1,24 @@
+[project]
+name = "retention-0"
+version = "0.1.0"
+description = "project to retain operations employees"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "numpy==2.0.2",
+    "pandas==2.2.2",
+    "plotly[express]==6.1.2",
+    "scikit-learn==1.7.2",
+    "scikit-optimize==0.10.2",
+    "shap[plots]==0.47.2",
+    "xgboost==3.0.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel==6.29.5",
+    "statsmodels==0.14.5",
+    "ruff==0.11.6",
+    "kaleido==1.0.0rc15",
+]

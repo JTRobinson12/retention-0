@@ -1,0 +1,2001 @@
+employee_number,terminated,age,tenure_years,male,ethnicity,role,rehire,home_location,employment_start,employment_end
+10001,True,55.0,1.83,True,White,Superintendent,False,"Atlanta, GA",2023-10-12,2025-08-12
+10002,True,30.0,0.08,True,White,Superintendent,False,"Atlanta, GA",2017-05-01,2017-05-31
+10003,False,53.0,7.71,False,Black or African American,Safety Manager,False,"St. Louis, MO",2018-10-16,
+10004,True,42.0,0.5,True,White,Safety Manager,False,"St. Louis, MO",2021-09-01,2022-03-03
+10005,False,53.0,4.55,False,Two or More Races,Project Manager,False,"St. Louis, MO",2021-12-13,
+10006,True,44.0,1.67,True,Black or African American,Project Engineer,False,"St. Louis, MO",2021-01-22,2022-09-23
+10007,True,63.0,1.08,True,Hispanic or Latino,Safety Manager,False,"Columbus, OH",2015-04-02,2016-05-02
+10008,False,38.0,2.04,False,White,Superintendent,False,"St. Louis, MO",2024-06-17,
+10009,True,36.0,1.92,True,White,Superintendent,False,"Columbus, OH",2021-07-10,2023-06-10
+10010,False,43.0,1.9,True,Asian,Safety Manager,False,"St. Louis, MO",2024-08-05,
+10011,False,43.0,3.28,True,Black or African American,Superintendent,False,"Chicago, IL",2023-03-20,
+10012,False,35.0,2.45,True,White,Project Engineer,False,"Phoenix, AZ",2024-01-18,
+10013,True,45.0,0.67,True,White,Safety Manager,False,"St. Louis, MO",2015-08-29,2016-04-29
+10014,True,48.0,0.58,True,Asian,Superintendent,False,"Chicago, IL",2020-03-31,2020-10-30
+10015,False,45.0,2.62,True,Asian,Project Manager,False,"St. Louis, MO",2023-11-16,
+10016,True,42.0,1.92,True,White,Superintendent,False,"Dallas, TX",2016-11-11,2018-10-12
+10017,True,38.0,3.33,False,White,Safety Manager,True,"Dallas, TX",2021-05-18,2024-09-17
+10018,True,31.0,4.92,True,White,Project Engineer,False,"Chicago, IL",2016-07-15,2021-06-15
+10019,False,57.0,6.19,True,White,Superintendent,True,"Dallas, TX",2020-04-22,
+10020,True,38.0,1.0,True,White,Superintendent,False,"Chicago, IL",2022-07-09,2023-07-09
+10021,False,49.0,1.12,True,White,Project Engineer,False,"St. Louis, MO",2025-05-17,
+10022,True,47.0,2.5,True,White,Project Manager,False,"Chicago, IL",2019-11-17,2022-05-18
+10023,False,59.0,5.95,True,White,Project Engineer,False,"St. Louis, MO",2020-07-17,
+10024,True,57.0,3.08,True,White,Safety Manager,False,"Phoenix, AZ",2019-09-19,2022-10-19
+10025,False,41.0,2.2,True,White,Superintendent,False,"Dallas, TX",2024-04-18,
+10026,False,50.0,0.93,True,White,Superintendent,True,"Chicago, IL",2025-07-28,
+10027,True,35.0,1.0,False,White,Superintendent,False,"Chicago, IL",2018-09-02,2019-09-02
+10028,False,49.0,1.8,True,White,Project Manager,False,"Chicago, IL",2024-09-12,
+10029,True,26.0,0.5,False,White,Project Manager,False,"Phoenix, AZ",2023-09-06,2024-03-07
+10030,True,43.0,2.75,True,White,Superintendent,False,"Chicago, IL",2022-09-30,2025-07-01
+10031,True,52.0,4.17,True,White,Project Manager,False,"Phoenix, AZ",2020-03-28,2024-05-28
+10032,True,46.0,1.25,True,Two or More Races,Superintendent,False,"Chicago, IL",2018-04-08,2019-07-09
+10033,True,39.0,0.75,True,Black or African American,Superintendent,False,"Chicago, IL",2020-08-22,2021-05-23
+10034,True,35.0,1.0,True,Asian,Safety Manager,True,"St. Louis, MO",2020-05-25,2021-05-25
+10035,True,39.0,1.0,True,Hispanic or Latino,Project Engineer,False,"Columbus, OH",2020-04-27,2021-04-27
+10036,True,55.0,5.5,True,White,Project Engineer,False,"Denver, CO",2016-06-03,2021-12-03
+10037,True,47.0,0.08,True,White,Superintendent,False,"Denver, CO",2023-01-16,2023-02-15
+10038,True,39.0,2.0,False,White,Safety Manager,False,"Chicago, IL",2021-04-05,2023-04-06
+10039,False,29.0,3.94,True,White,Project Manager,False,"Chicago, IL",2022-07-24,
+10040,True,52.0,3.58,True,White,Project Manager,False,"Dallas, TX",2016-08-05,2020-03-06
+10041,True,30.0,5.83,False,White,Superintendent,False,"St. Louis, MO",2019-04-11,2025-02-09
+10042,True,35.0,0.83,True,Black or African American,Project Manager,False,"Columbus, OH",2022-10-12,2023-08-12
+10043,False,33.0,3.84,True,White,Project Engineer,False,"Chicago, IL",2022-08-28,
+10044,True,52.0,7.5,False,White,Superintendent,False,"Denver, CO",2017-12-17,2025-06-18
+10045,False,44.0,5.98,True,Asian,Safety Manager,False,"Chicago, IL",2020-07-07,
+10046,True,50.0,0.25,True,White,Superintendent,False,"St. Louis, MO",2016-01-29,2016-04-29
+10047,False,40.0,1.92,False,White,Project Manager,True,"St. Louis, MO",2024-07-28,
+10048,True,35.0,0.67,True,White,Project Engineer,False,"Chicago, IL",2021-03-19,2021-11-18
+10049,True,44.0,0.92,False,White,Project Engineer,False,"Denver, CO",2023-09-26,2024-08-26
+10050,True,52.0,1.5,True,White,Project Manager,False,"Denver, CO",2023-05-07,2024-11-05
+10051,False,44.0,8.41,False,White,Safety Manager,False,"St. Louis, MO",2018-02-03,
+10052,False,53.0,11.5,True,White,Superintendent,False,"Atlanta, GA",2015-01-01,
+10053,False,38.0,3.39,False,White,Safety Manager,False,"St. Louis, MO",2023-02-07,
+10054,True,48.0,0.5,True,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2023-09-03,2024-03-04
+10055,True,43.0,0.67,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2025-01-24,2025-09-25
+10056,False,45.0,0.67,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2025-10-30,
+10057,True,48.0,0.83,True,White,Safety Manager,False,"St. Louis, MO",2017-01-06,2017-11-06
+10058,True,61.0,0.33,True,White,Safety Manager,False,"Columbus, OH",2016-11-03,2017-03-05
+10059,True,43.0,3.67,True,White,Safety Manager,False,"Chicago, IL",2016-03-27,2019-11-26
+10060,False,34.0,0.91,False,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2025-08-01,
+10061,True,37.0,1.92,False,Hispanic or Latino,Superintendent,False,"Columbus, OH",2020-03-29,2022-02-27
+10062,False,46.0,5.27,True,White,Superintendent,False,"St. Louis, MO",2021-03-25,
+10063,True,36.0,0.92,True,White,Project Engineer,False,"Phoenix, AZ",2020-05-29,2021-04-29
+10064,True,39.0,5.25,True,White,Safety Manager,False,"St. Louis, MO",2017-10-30,2023-01-30
+10065,True,51.0,2.5,True,White,Project Manager,False,"Phoenix, AZ",2018-05-17,2020-11-15
+10066,True,55.0,8.17,True,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2017-06-12,2025-08-12
+10067,True,51.0,0.33,True,Asian,Project Manager,False,"Denver, CO",2016-01-12,2016-05-13
+10068,False,22.0,0.88,True,White,Superintendent,False,"Atlanta, GA",2025-08-15,
+10069,True,30.0,2.42,True,Asian,Superintendent,False,"Chicago, IL",2023-10-16,2026-03-17
+10070,True,32.0,1.83,True,White,Project Manager,False,"St. Louis, MO",2020-06-22,2022-04-23
+10071,True,28.0,2.75,False,White,Safety Manager,False,"St. Louis, MO",2023-05-02,2026-01-31
+10072,False,35.0,2.77,False,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2023-09-22,
+10073,False,59.0,7.25,False,White,Project Manager,False,"Atlanta, GA",2019-04-01,
+10074,True,42.0,0.75,True,Asian,Project Manager,False,"St. Louis, MO",2017-11-11,2018-08-12
+10075,True,39.0,0.83,True,White,Superintendent,False,"Phoenix, AZ",2016-01-28,2016-11-27
+10076,False,43.0,1.03,True,White,Superintendent,False,"Phoenix, AZ",2025-06-20,
+10077,True,38.0,0.58,True,White,Project Manager,False,"Columbus, OH",2025-04-19,2025-11-18
+10078,True,42.0,2.58,True,Hispanic or Latino,Project Engineer,False,"Phoenix, AZ",2021-02-17,2023-09-19
+10079,True,41.0,1.0,True,Asian,Project Manager,False,"Atlanta, GA",2015-06-30,2016-06-29
+10080,True,38.0,0.67,False,Asian,Project Engineer,False,"St. Louis, MO",2024-10-26,2025-06-27
+10081,True,44.0,2.5,True,White,Superintendent,False,"Chicago, IL",2022-12-04,2025-06-04
+10082,True,27.0,0.25,True,White,Project Engineer,False,"Columbus, OH",2020-11-02,2021-02-01
+10083,True,23.0,0.25,False,White,Project Engineer,False,"St. Louis, MO",2025-10-10,2026-01-09
+10084,True,51.0,3.0,False,White,Superintendent,False,"Chicago, IL",2021-07-09,2024-07-09
+10085,False,46.0,1.98,False,White,Safety Manager,False,"Dallas, TX",2024-07-06,
+10086,False,32.0,0.93,True,Asian,Project Engineer,False,"Chicago, IL",2025-07-27,
+10087,False,30.0,2.59,False,White,Project Engineer,False,"Chicago, IL",2023-11-27,
+10088,True,42.0,5.08,True,White,Safety Manager,False,"St. Louis, MO",2018-02-22,2023-03-25
+10089,True,29.0,2.83,True,White,Superintendent,False,"Chicago, IL",2022-01-30,2024-11-30
+10090,False,36.0,3.08,False,Hispanic or Latino,Project Engineer,False,"Phoenix, AZ",2023-06-03,
+10091,False,56.0,4.69,True,White,Superintendent,False,"St. Louis, MO",2021-10-21,
+10092,True,41.0,1.67,True,White,Project Engineer,False,"Columbus, OH",2022-04-25,2023-12-25
+10093,False,46.0,0.06,True,White,Project Manager,False,"Columbus, OH",2026-06-08,
+10094,False,39.0,5.16,True,White,Project Engineer,False,"Dallas, TX",2021-05-02,
+10095,False,45.0,5.68,True,White,Project Engineer,False,"Chicago, IL",2020-10-25,
+10096,True,53.0,0.83,False,White,Project Engineer,False,"Phoenix, AZ",2021-06-29,2022-04-29
+10097,False,27.0,2.53,False,White,Superintendent,False,"St. Louis, MO",2023-12-19,
+10098,False,33.0,0.48,True,White,Superintendent,True,"Atlanta, GA",2026-01-07,
+10099,True,41.0,4.17,False,Black or African American,Superintendent,False,"Chicago, IL",2020-11-06,2025-01-06
+10100,True,49.0,7.17,True,White,Superintendent,False,"Denver, CO",2016-03-17,2023-05-18
+10101,False,56.0,6.29,True,White,Project Manager,False,"Columbus, OH",2020-03-15,
+10102,True,52.0,5.17,True,Two or More Races,Superintendent,False,"Phoenix, AZ",2016-07-24,2021-09-23
+10103,True,25.0,0.83,True,White,Superintendent,False,"St. Louis, MO",2024-08-29,2025-06-29
+10104,True,42.0,2.25,True,Hispanic or Latino,Superintendent,False,"Dallas, TX",2018-04-14,2020-07-14
+10105,True,35.0,1.67,True,White,Project Engineer,False,"Atlanta, GA",2019-09-28,2021-05-29
+10106,True,33.0,0.75,True,White,Safety Manager,False,"St. Louis, MO",2021-04-17,2022-01-16
+10107,False,60.0,5.84,False,White,Project Engineer,False,"Atlanta, GA",2020-08-29,
+10108,True,37.0,0.75,False,Two or More Races,Project Engineer,False,"St. Louis, MO",2015-10-11,2016-07-11
+10109,False,39.0,1.34,True,White,Project Engineer,False,"St. Louis, MO",2025-02-28,
+10110,False,31.0,0.91,False,White,Project Manager,False,"Dallas, TX",2025-08-04,
+10111,True,53.0,8.5,False,White,Project Manager,False,"St. Louis, MO",2017-06-23,2025-12-23
+10112,True,47.0,8.25,True,White,Project Manager,False,"Chicago, IL",2018-02-28,2026-05-31
+10113,True,44.0,1.92,False,White,Superintendent,False,"Chicago, IL",2019-08-11,2021-07-11
+10114,True,38.0,1.0,False,White,Project Manager,False,"Phoenix, AZ",2023-03-31,2024-03-30
+10115,True,50.0,1.17,True,White,Superintendent,False,"St. Louis, MO",2022-08-15,2023-10-15
+10116,True,38.0,1.75,False,Hispanic or Latino,Superintendent,False,"Chicago, IL",2016-06-18,2018-03-19
+10117,True,34.0,2.33,True,White,Project Manager,False,"Dallas, TX",2021-01-08,2023-05-10
+10118,False,33.0,6.97,False,Asian,Project Manager,False,"Phoenix, AZ",2019-07-13,
+10119,True,59.0,5.92,True,White,Superintendent,False,"Phoenix, AZ",2015-11-24,2021-10-24
+10120,True,37.0,0.75,True,Hispanic or Latino,Superintendent,False,"Denver, CO",2022-03-21,2022-12-20
+10121,True,37.0,2.5,True,White,Project Manager,True,"Atlanta, GA",2016-10-07,2019-04-08
+10122,True,42.0,1.08,True,White,Safety Manager,False,"St. Louis, MO",2016-04-09,2017-05-10
+10123,False,67.0,8.98,False,Black or African American,Safety Manager,False,"Phoenix, AZ",2017-07-09,
+10124,False,44.0,8.7,True,White,Project Manager,False,"St. Louis, MO",2017-10-19,
+10125,True,54.0,5.17,True,White,Safety Manager,False,"St. Louis, MO",2016-06-21,2021-08-21
+10126,False,47.0,7.21,True,White,Project Manager,False,"Chicago, IL",2019-04-15,
+10127,True,43.0,0.08,False,Hispanic or Latino,Superintendent,False,"Phoenix, AZ",2019-02-03,2019-03-05
+10128,True,33.0,0.08,True,White,Superintendent,False,"Atlanta, GA",2023-01-09,2023-02-08
+10129,True,37.0,2.42,False,White,Superintendent,False,"Atlanta, GA",2022-05-01,2024-09-30
+10130,True,39.0,0.67,False,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2020-11-06,2021-07-08
+10131,True,30.0,0.67,True,Black or African American,Superintendent,False,"St. Louis, MO",2017-10-05,2018-06-06
+10132,False,61.0,1.56,False,Two or More Races,Safety Manager,False,"Dallas, TX",2024-12-09,
+10133,True,52.0,4.92,True,White,Superintendent,False,"St. Louis, MO",2018-09-10,2023-08-11
+10134,True,48.0,2.42,True,Black or African American,Superintendent,False,"St. Louis, MO",2015-09-17,2018-02-16
+10135,True,43.0,4.25,False,Hispanic or Latino,Project Manager,False,"Phoenix, AZ",2017-05-26,2021-08-25
+10136,False,36.0,6.86,True,White,Superintendent,True,"St. Louis, MO",2019-08-22,
+10137,False,47.0,1.66,False,White,Project Manager,False,"St. Louis, MO",2024-11-02,
+10138,False,36.0,1.52,True,White,Project Manager,False,"Phoenix, AZ",2024-12-21,
+10139,False,40.0,0.14,False,White,Project Manager,False,"St. Louis, MO",2026-05-10,
+10140,False,28.0,4.41,False,Black or African American,Project Engineer,False,"Chicago, IL",2022-02-01,
+10141,False,42.0,3.07,True,White,Superintendent,True,"Chicago, IL",2023-06-05,
+10142,True,63.0,2.42,False,White,Superintendent,False,"Chicago, IL",2017-05-30,2019-10-30
+10143,False,40.0,6.64,True,White,Superintendent,False,"Dallas, TX",2019-11-10,
+10144,True,46.0,2.25,True,White,Project Engineer,False,"St. Louis, MO",2023-12-11,2026-03-12
+10145,True,44.0,0.83,False,Two or More Races,Superintendent,False,"Chicago, IL",2018-10-03,2019-08-03
+10146,True,53.0,5.08,True,White,Superintendent,False,"Atlanta, GA",2019-05-26,2024-06-25
+10147,False,52.0,5.79,False,White,Superintendent,False,"Dallas, TX",2020-09-15,
+10148,True,39.0,1.5,True,White,Superintendent,False,"Chicago, IL",2024-05-11,2025-11-10
+10149,True,37.0,0.08,False,White,Safety Manager,False,"St. Louis, MO",2020-12-09,2021-01-08
+10150,True,46.0,0.25,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2019-06-16,2019-09-15
+10151,False,37.0,1.45,False,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2025-01-17,
+10152,True,33.0,0.08,True,White,Superintendent,False,"St. Louis, MO",2023-04-25,2023-05-25
+10153,False,44.0,3.76,False,White,Project Engineer,False,"Phoenix, AZ",2022-09-27,
+10154,True,51.0,1.42,True,Asian,Project Manager,False,"St. Louis, MO",2015-12-21,2017-05-21
+10155,True,34.0,2.08,False,White,Project Manager,False,"Dallas, TX",2020-08-21,2022-09-21
+10156,False,38.0,3.48,True,White,Project Engineer,False,"St. Louis, MO",2023-01-06,
+10157,True,70.0,1.5,True,White,Project Manager,False,"Dallas, TX",2016-10-28,2018-04-29
+10158,True,54.0,0.58,True,Black or African American,Superintendent,False,"Atlanta, GA",2015-01-05,2015-08-06
+10159,True,46.0,4.17,True,Asian,Project Manager,False,"St. Louis, MO",2017-10-26,2021-12-26
+10160,True,62.0,0.83,True,Asian,Safety Manager,False,"Atlanta, GA",2023-10-06,2024-08-05
+10161,False,34.0,1.51,True,Hispanic or Latino,Safety Manager,True,"Atlanta, GA",2024-12-28,
+10162,True,22.0,0.42,True,Hispanic or Latino,Superintendent,False,"Dallas, TX",2025-09-16,2026-02-15
+10163,True,32.0,1.33,True,Hispanic or Latino,Project Manager,False,"Denver, CO",2015-05-22,2016-09-20
+10164,True,28.0,4.42,True,White,Safety Manager,False,"Columbus, OH",2020-12-28,2025-05-29
+10165,True,48.0,0.17,True,Black or African American,Safety Manager,True,"Phoenix, AZ",2016-09-10,2016-11-10
+10166,True,56.0,6.83,False,White,Safety Manager,False,"Dallas, TX",2015-05-14,2022-03-14
+10167,True,25.0,2.25,False,White,Superintendent,False,"Dallas, TX",2022-09-02,2024-12-02
+10168,True,54.0,1.0,True,Hispanic or Latino,Project Engineer,True,"Chicago, IL",2018-11-14,2019-11-14
+10169,True,36.0,0.08,False,Black or African American,Project Manager,False,"Dallas, TX",2015-03-28,2015-04-27
+10170,True,48.0,3.17,True,White,Project Manager,False,"Atlanta, GA",2016-11-25,2020-01-26
+10171,False,50.0,9.68,True,Two or More Races,Project Engineer,False,"Columbus, OH",2016-10-26,
+10172,True,51.0,1.42,False,Asian,Project Manager,False,"Columbus, OH",2015-09-12,2017-02-10
+10173,True,47.0,3.92,False,Black or African American,Superintendent,False,"St. Louis, MO",2015-06-28,2019-05-29
+10174,True,49.0,2.0,False,Black or African American,Safety Manager,False,"Dallas, TX",2015-05-21,2017-05-21
+10175,True,32.0,3.17,False,White,Project Manager,False,"Denver, CO",2020-09-25,2023-11-26
+10176,True,41.0,0.08,True,White,Superintendent,False,"St. Louis, MO",2024-11-06,2024-12-06
+10177,False,46.0,1.28,False,White,Project Engineer,False,"Dallas, TX",2025-03-21,
+10178,False,44.0,0.45,True,White,Superintendent,False,"St. Louis, MO",2026-01-18,
+10179,True,65.0,2.75,True,Hispanic or Latino,Project Manager,False,"Dallas, TX",2021-03-27,2023-12-27
+10180,True,56.0,3.33,False,Two or More Races,Project Engineer,False,"Chicago, IL",2016-12-26,2020-04-27
+10181,True,47.0,1.25,True,Hispanic or Latino,Safety Manager,False,"Columbus, OH",2022-01-17,2023-04-19
+10182,True,57.0,4.25,True,Hispanic or Latino,Project Engineer,False,"Denver, CO",2020-03-23,2024-06-22
+10183,True,42.0,1.17,True,Hispanic or Latino,Project Engineer,False,"Phoenix, AZ",2022-03-13,2023-05-13
+10184,True,29.0,0.08,False,Black or African American,Project Manager,False,"Denver, CO",2021-04-13,2021-05-13
+10185,True,30.0,3.0,True,Hispanic or Latino,Superintendent,False,"Phoenix, AZ",2017-10-17,2020-10-17
+10186,False,48.0,0.91,False,White,Superintendent,False,"Chicago, IL",2025-08-01,
+10187,False,49.0,7.94,True,White,Project Manager,False,"Denver, CO",2018-07-24,
+10188,False,45.0,0.65,True,White,Project Manager,False,"St. Louis, MO",2025-11-04,
+10189,False,37.0,4.06,True,White,Superintendent,False,"Chicago, IL",2022-06-09,
+10190,True,43.0,2.5,True,White,Superintendent,False,"Atlanta, GA",2022-07-11,2025-01-09
+10191,True,57.0,0.08,True,White,Project Engineer,False,"Columbus, OH",2022-12-14,2023-01-13
+10192,True,50.0,1.42,True,Black or African American,Safety Manager,False,"St. Louis, MO",2015-07-31,2016-12-29
+10193,True,36.0,1.75,True,Hispanic or Latino,Project Manager,False,"Chicago, IL",2016-11-16,2018-08-17
+10194,True,43.0,1.25,True,Black or African American,Safety Manager,False,"Chicago, IL",2015-08-25,2016-11-24
+10195,True,59.0,7.33,True,White,Superintendent,False,"Phoenix, AZ",2015-12-10,2023-04-11
+10196,False,26.0,0.19,True,White,Superintendent,False,"St. Louis, MO",2026-04-22,
+10197,True,26.0,3.08,True,Black or African American,Project Manager,False,"St. Louis, MO",2021-07-12,2024-08-11
+10198,True,21.0,0.33,True,White,Project Manager,False,"Dallas, TX",2026-01-30,2026-06-01
+10199,True,35.0,1.17,True,White,Superintendent,False,"Chicago, IL",2015-11-24,2017-01-23
+10200,True,51.0,1.83,True,White,Superintendent,False,"Phoenix, AZ",2018-02-05,2019-12-07
+10201,False,37.0,0.31,True,White,Project Manager,False,"Chicago, IL",2026-03-09,
+10202,True,37.0,2.08,False,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2018-02-06,2020-03-08
+10203,True,31.0,3.25,True,White,Project Manager,False,"St. Louis, MO",2019-10-22,2023-01-21
+10204,True,42.0,2.0,True,White,Superintendent,False,"Columbus, OH",2019-01-21,2021-01-21
+10205,True,45.0,0.58,True,White,Project Engineer,False,"St. Louis, MO",2016-01-23,2016-08-23
+10206,True,40.0,1.25,True,White,Project Engineer,False,"Denver, CO",2017-09-27,2018-12-28
+10207,True,39.0,3.25,True,Black or African American,Safety Manager,False,"St. Louis, MO",2021-01-23,2024-04-24
+10208,False,31.0,1.55,True,White,Project Manager,False,"Atlanta, GA",2024-12-13,
+10209,True,63.0,0.42,True,White,Superintendent,False,"St. Louis, MO",2015-01-14,2015-06-15
+10210,True,30.0,0.17,True,White,Project Manager,True,"St. Louis, MO",2017-01-03,2017-03-05
+10211,True,39.0,0.83,True,White,Project Manager,False,"St. Louis, MO",2024-12-19,2025-10-19
+10212,True,38.0,1.33,False,White,Project Manager,False,"Phoenix, AZ",2015-09-03,2017-01-02
+10213,True,48.0,3.33,True,White,Project Engineer,True,"Denver, CO",2020-12-12,2024-04-13
+10214,True,36.0,0.08,True,Asian,Superintendent,True,"Dallas, TX",2024-06-15,2024-07-15
+10215,False,42.0,2.66,True,White,Project Engineer,False,"Columbus, OH",2023-11-03,
+10216,True,44.0,0.75,True,White,Project Manager,False,"St. Louis, MO",2023-12-22,2024-09-21
+10217,True,48.0,3.25,True,White,Project Engineer,False,"St. Louis, MO",2016-11-19,2020-02-19
+10218,True,54.0,3.92,False,Black or African American,Project Manager,False,"St. Louis, MO",2017-06-24,2021-05-25
+10219,True,30.0,2.75,False,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2019-02-04,2021-11-05
+10220,False,50.0,4.9,False,Two or More Races,Superintendent,False,"Columbus, OH",2021-08-06,
+10221,True,39.0,1.75,True,White,Project Manager,False,"Columbus, OH",2021-03-04,2022-12-03
+10222,True,50.0,2.5,True,White,Project Manager,False,"Denver, CO",2015-08-20,2018-02-18
+10223,True,59.0,0.33,True,White,Project Engineer,False,"Atlanta, GA",2017-03-02,2017-07-02
+10224,True,55.0,7.33,True,White,Safety Manager,False,"Dallas, TX",2017-08-12,2024-12-12
+10225,False,58.0,4.43,False,White,Project Manager,False,"Denver, CO",2022-01-25,
+10226,True,30.0,0.67,True,White,Superintendent,False,"Denver, CO",2017-08-02,2018-04-03
+10227,True,38.0,3.17,True,Black or African American,Project Engineer,False,"Columbus, OH",2015-04-02,2018-06-02
+10228,False,50.0,5.37,True,White,Superintendent,True,"Phoenix, AZ",2021-02-17,
+10229,False,26.0,0.08,True,White,Safety Manager,False,"St. Louis, MO",2026-06-02,
+10230,True,41.0,4.67,True,Black or African American,Project Engineer,False,"St. Louis, MO",2019-10-04,2024-06-04
+10231,True,56.0,1.58,True,White,Superintendent,False,"Dallas, TX",2021-03-14,2022-10-13
+10232,True,51.0,3.33,True,Asian,Project Engineer,False,"Atlanta, GA",2019-06-18,2022-10-18
+10233,True,37.0,0.92,False,Hispanic or Latino,Superintendent,False,"Chicago, IL",2016-02-28,2017-01-28
+10234,True,46.0,4.67,True,Asian,Safety Manager,False,"Phoenix, AZ",2020-01-05,2024-09-05
+10235,True,48.0,2.17,True,Hispanic or Latino,Superintendent,False,"Dallas, TX",2020-05-21,2022-07-21
+10236,True,47.0,3.67,True,Two or More Races,Project Manager,False,"St. Louis, MO",2016-07-09,2020-03-09
+10237,True,43.0,0.58,False,White,Superintendent,False,"Columbus, OH",2018-11-24,2019-06-25
+10238,True,44.0,1.17,False,White,Superintendent,False,"Atlanta, GA",2019-01-22,2020-03-23
+10239,False,22.0,0.47,True,White,Project Engineer,False,"St. Louis, MO",2026-01-11,
+10240,False,40.0,2.78,True,White,Safety Manager,False,"St. Louis, MO",2023-09-19,
+10241,True,37.0,1.92,False,White,Project Engineer,False,"St. Louis, MO",2016-04-13,2018-03-14
+10242,True,46.0,2.25,False,Black or African American,Project Manager,False,"Dallas, TX",2020-05-14,2022-08-14
+10243,False,42.0,1.62,True,White,Superintendent,False,"Dallas, TX",2024-11-17,
+10244,True,34.0,1.5,True,Black or African American,Project Manager,False,"Atlanta, GA",2020-07-08,2022-01-07
+10245,False,44.0,1.55,True,Hispanic or Latino,Safety Manager,True,"Columbus, OH",2024-12-12,
+10246,True,48.0,4.92,True,Asian,Superintendent,False,"Atlanta, GA",2017-07-07,2022-06-07
+10247,True,46.0,2.67,False,White,Superintendent,False,"Chicago, IL",2016-03-25,2018-11-24
+10248,False,53.0,9.65,True,White,Safety Manager,False,"Dallas, TX",2016-11-04,
+10249,True,42.0,1.0,True,Black or African American,Project Manager,False,"Chicago, IL",2017-11-22,2018-11-22
+10250,True,41.0,0.67,True,White,Safety Manager,False,"Denver, CO",2018-06-14,2019-02-13
+10251,True,40.0,0.83,True,White,Superintendent,False,"Phoenix, AZ",2023-11-12,2024-09-11
+10252,True,38.0,0.83,False,White,Project Manager,False,"St. Louis, MO",2023-11-01,2024-08-31
+10253,True,54.0,0.25,True,White,Safety Manager,False,"St. Louis, MO",2018-06-27,2018-09-26
+10254,True,27.0,4.58,True,White,Superintendent,False,"Chicago, IL",2020-02-11,2024-09-11
+10255,False,34.0,0.66,True,White,Project Manager,False,"Chicago, IL",2025-11-03,
+10256,True,27.0,0.75,True,White,Project Manager,False,"Chicago, IL",2020-05-04,2021-02-02
+10257,True,39.0,0.75,True,White,Superintendent,False,"St. Louis, MO",2018-12-18,2019-09-18
+10258,False,41.0,2.54,False,White,Project Engineer,False,"Chicago, IL",2023-12-15,
+10259,False,36.0,0.11,True,Two or More Races,Project Engineer,False,"St. Louis, MO",2026-05-21,
+10260,True,55.0,4.17,False,White,Superintendent,False,"Denver, CO",2015-12-15,2020-02-14
+10261,True,50.0,2.42,False,White,Project Engineer,False,"St. Louis, MO",2015-10-24,2018-03-25
+10262,False,23.0,1.69,True,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2024-10-23,
+10263,False,27.0,0.61,False,White,Superintendent,False,"St. Louis, MO",2025-11-22,
+10264,True,55.0,2.92,True,White,Project Manager,False,"St. Louis, MO",2021-08-27,2024-07-27
+10265,True,60.0,4.0,True,White,Project Manager,False,"Chicago, IL",2016-03-23,2020-03-23
+10266,False,37.0,0.51,True,White,Project Manager,False,"St. Louis, MO",2025-12-26,
+10267,True,31.0,0.75,True,White,Safety Manager,True,"St. Louis, MO",2017-10-10,2018-07-11
+10268,True,58.0,2.42,True,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2023-07-29,2025-12-28
+10269,False,23.0,1.87,True,White,Superintendent,False,"Columbus, OH",2024-08-18,
+10270,True,47.0,0.33,True,White,Superintendent,False,"Dallas, TX",2017-09-20,2018-01-20
+10271,True,46.0,1.92,False,Hispanic or Latino,Superintendent,False,"Denver, CO",2015-09-30,2017-08-30
+10272,True,48.0,0.92,True,White,Superintendent,False,"St. Louis, MO",2016-08-13,2017-07-14
+10273,True,32.0,0.92,False,White,Project Manager,False,"St. Louis, MO",2019-04-25,2020-03-25
+10274,False,32.0,0.44,True,Hispanic or Latino,Project Engineer,False,"Columbus, OH",2026-01-23,
+10275,True,48.0,1.83,True,White,Project Manager,False,"Chicago, IL",2023-09-27,2025-07-28
+10276,True,35.0,1.08,True,White,Superintendent,True,"Dallas, TX",2022-12-27,2024-01-27
+10277,True,29.0,0.5,True,White,Safety Manager,False,"Denver, CO",2020-02-13,2020-08-14
+10278,False,36.0,1.45,True,White,Project Manager,False,"Chicago, IL",2025-01-19,
+10279,True,46.0,1.25,True,White,Project Manager,False,"St. Louis, MO",2016-02-19,2017-05-21
+10280,True,44.0,0.67,True,White,Project Manager,False,"Columbus, OH",2016-06-16,2017-02-15
+10281,True,34.0,2.42,False,White,Safety Manager,False,"Dallas, TX",2020-03-12,2022-08-12
+10282,True,48.0,0.17,False,White,Safety Manager,False,"St. Louis, MO",2018-11-07,2019-01-07
+10283,False,40.0,5.9,True,White,Superintendent,False,"Phoenix, AZ",2020-08-07,
+10284,True,30.0,0.25,True,Hispanic or Latino,Superintendent,False,"Dallas, TX",2021-09-12,2021-12-12
+10285,False,38.0,0.91,True,Hispanic or Latino,Superintendent,False,"Phoenix, AZ",2025-08-04,
+10286,True,40.0,0.42,True,White,Superintendent,False,"Phoenix, AZ",2021-01-24,2021-06-25
+10287,True,47.0,0.92,False,White,Superintendent,False,"Columbus, OH",2016-06-24,2017-05-25
+10288,True,23.0,0.67,True,Black or African American,Project Engineer,False,"Denver, CO",2024-07-23,2025-03-24
+10289,True,32.0,0.75,True,Asian,Safety Manager,False,"Atlanta, GA",2022-09-14,2023-06-15
+10290,False,40.0,0.72,True,White,Superintendent,False,"Columbus, OH",2025-10-12,
+10291,True,52.0,4.08,True,Asian,Project Manager,False,"St. Louis, MO",2018-10-15,2022-11-15
+10292,True,44.0,2.33,True,White,Project Manager,False,"Dallas, TX",2020-09-10,2023-01-10
+10293,True,41.0,2.17,False,White,Project Engineer,True,"Columbus, OH",2022-11-01,2024-12-31
+10294,False,43.0,1.22,True,White,Safety Manager,False,"St. Louis, MO",2025-04-12,
+10295,True,49.0,3.08,True,Black or African American,Superintendent,False,"St. Louis, MO",2021-08-28,2024-09-27
+10296,False,54.0,3.4,True,Hispanic or Latino,Safety Manager,False,"St. Louis, MO",2023-02-05,
+10297,True,51.0,0.17,True,Hispanic or Latino,Project Manager,False,"Dallas, TX",2015-07-15,2015-09-14
+10298,True,36.0,1.67,True,White,Project Manager,False,"Phoenix, AZ",2020-10-16,2022-06-17
+10299,False,42.0,2.17,True,White,Safety Manager,False,"St. Louis, MO",2024-04-29,
+10300,True,28.0,0.5,True,White,Project Manager,False,"St. Louis, MO",2019-05-04,2019-11-03
+10301,False,39.0,2.52,True,White,Project Engineer,False,"Chicago, IL",2023-12-22,
+10302,True,38.0,0.25,True,Black or African American,Superintendent,False,"Dallas, TX",2020-12-25,2021-03-26
+10303,True,47.0,0.33,True,White,Project Manager,False,"St. Louis, MO",2015-07-31,2015-11-30
+10304,True,45.0,0.33,True,Hispanic or Latino,Safety Manager,False,"St. Louis, MO",2021-03-30,2021-07-30
+10305,True,42.0,0.92,True,White,Project Manager,False,"Chicago, IL",2020-12-14,2021-11-14
+10306,False,24.0,0.91,False,White,Project Engineer,False,"Phoenix, AZ",2025-08-01,
+10307,True,44.0,3.58,True,White,Superintendent,True,"Dallas, TX",2015-08-05,2019-03-06
+10308,True,31.0,0.67,True,White,Superintendent,False,"Columbus, OH",2024-12-02,2025-08-03
+10309,False,37.0,0.67,True,Hispanic or Latino,Safety Manager,False,"Columbus, OH",2025-10-28,
+10310,True,48.0,0.75,False,Black or African American,Project Manager,False,"Dallas, TX",2017-12-05,2018-09-05
+10311,True,33.0,0.42,True,White,Superintendent,False,"St. Louis, MO",2020-09-24,2021-02-23
+10312,True,54.0,1.92,False,White,Project Engineer,False,"Denver, CO",2015-06-01,2017-05-01
+10313,True,52.0,1.83,False,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2022-06-15,2024-04-15
+10314,True,36.0,0.83,True,Black or African American,Superintendent,False,"Columbus, OH",2023-11-07,2024-09-06
+10315,True,50.0,5.67,False,White,Superintendent,False,"St. Louis, MO",2018-05-05,2024-01-04
+10316,True,26.0,1.67,True,White,Safety Manager,False,"St. Louis, MO",2023-04-14,2024-12-13
+10317,False,34.0,2.96,False,White,Superintendent,False,"Columbus, OH",2023-07-16,
+10318,True,53.0,0.33,True,White,Project Manager,False,"Denver, CO",2018-05-21,2018-09-20
+10319,False,21.0,0.01,True,White,Superintendent,False,"Dallas, TX",2026-06-29,
+10320,True,35.0,2.33,True,White,Project Engineer,True,"Phoenix, AZ",2022-05-02,2024-08-31
+10321,True,36.0,1.33,True,Black or African American,Project Engineer,True,"Phoenix, AZ",2018-07-28,2019-11-27
+10322,True,53.0,6.42,True,White,Project Engineer,False,"Chicago, IL",2019-02-06,2025-07-08
+10323,False,50.0,4.39,True,White,Project Manager,True,"Atlanta, GA",2022-02-08,
+10324,True,33.0,1.67,True,White,Superintendent,False,"St. Louis, MO",2023-10-27,2025-06-27
+10325,False,42.0,4.52,True,White,Project Manager,False,"St. Louis, MO",2021-12-23,
+10326,True,32.0,4.5,False,White,Project Manager,False,"Phoenix, AZ",2015-12-09,2020-06-09
+10327,True,49.0,2.5,True,White,Project Engineer,False,"Chicago, IL",2021-07-19,2024-01-18
+10328,True,47.0,1.5,True,White,Project Engineer,False,"St. Louis, MO",2018-02-15,2019-08-17
+10329,True,55.0,4.17,True,White,Superintendent,False,"Phoenix, AZ",2019-07-15,2023-09-14
+10330,True,25.0,0.83,True,Asian,Safety Manager,False,"St. Louis, MO",2022-01-30,2022-11-30
+10331,False,39.0,0.18,False,White,Project Engineer,False,"St. Louis, MO",2026-04-27,
+10332,True,36.0,0.17,False,White,Superintendent,False,"Chicago, IL",2023-09-17,2023-11-17
+10333,True,22.0,1.08,False,White,Project Manager,False,"St. Louis, MO",2025-02-18,2026-03-21
+10334,True,34.0,1.5,True,White,Safety Manager,False,"St. Louis, MO",2022-09-07,2024-03-08
+10335,True,38.0,0.17,True,White,Superintendent,False,"Dallas, TX",2023-02-04,2023-04-06
+10336,True,54.0,1.33,True,White,Project Manager,True,"Dallas, TX",2015-12-29,2017-04-29
+10337,True,46.0,1.92,True,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2018-12-12,2020-11-11
+10338,True,36.0,0.58,True,White,Project Manager,False,"St. Louis, MO",2021-10-27,2022-05-28
+10339,False,42.0,2.06,True,Hispanic or Latino,Superintendent,True,"Atlanta, GA",2024-06-10,
+10340,True,42.0,0.5,True,White,Superintendent,False,"Phoenix, AZ",2019-11-06,2020-05-07
+10341,True,38.0,0.5,False,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2018-11-10,2019-05-12
+10342,True,35.0,1.67,True,White,Superintendent,False,"Atlanta, GA",2018-06-21,2020-02-20
+10343,True,47.0,0.42,False,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2016-12-22,2017-05-23
+10344,True,41.0,0.67,True,White,Project Engineer,False,"St. Louis, MO",2022-07-16,2023-03-17
+10345,True,58.0,2.42,True,White,Superintendent,False,"Denver, CO",2021-11-13,2024-04-14
+10346,False,34.0,2.38,True,White,Superintendent,False,"St. Louis, MO",2024-02-11,
+10347,False,51.0,0.73,True,Hispanic or Latino,Project Manager,False,"Columbus, OH",2025-10-09,
+10348,True,40.0,0.5,False,Hispanic or Latino,Project Manager,False,"Dallas, TX",2025-10-07,2026-04-08
+10349,True,58.0,0.67,True,Hispanic or Latino,Superintendent,False,"Denver, CO",2015-06-03,2016-02-02
+10350,False,29.0,0.72,False,White,Project Engineer,False,"Phoenix, AZ",2025-10-10,
+10351,True,36.0,2.75,False,White,Project Engineer,False,"Denver, CO",2018-01-19,2020-10-20
+10352,False,34.0,0.67,False,White,Safety Manager,False,"Atlanta, GA",2025-10-30,
+10353,True,54.0,7.42,True,Hispanic or Latino,Project Engineer,False,"Denver, CO",2015-12-31,2023-06-01
+10354,False,45.0,6.53,True,White,Superintendent,False,"Atlanta, GA",2019-12-21,
+10355,True,49.0,2.5,True,White,Superintendent,True,"Chicago, IL",2020-03-07,2022-09-06
+10356,True,46.0,1.42,True,Hispanic or Latino,Safety Manager,False,"Chicago, IL",2019-11-25,2021-04-25
+10357,False,45.0,0.27,True,Asian,Project Manager,False,"Chicago, IL",2026-03-25,
+10358,True,48.0,2.5,True,White,Superintendent,False,"Dallas, TX",2016-07-18,2019-01-17
+10359,True,42.0,2.08,True,White,Superintendent,False,"Atlanta, GA",2015-06-05,2017-07-05
+10360,True,43.0,0.83,True,Asian,Safety Manager,False,"Columbus, OH",2024-02-16,2024-12-16
+10361,True,45.0,0.67,False,White,Superintendent,False,"Columbus, OH",2018-01-30,2018-10-01
+10362,True,54.0,1.17,True,White,Project Manager,False,"Denver, CO",2024-11-17,2026-01-17
+10363,True,46.0,4.92,True,Hispanic or Latino,Superintendent,False,"Phoenix, AZ",2015-03-12,2020-02-10
+10364,False,38.0,1.17,False,Black or African American,Project Engineer,False,"Columbus, OH",2025-04-30,
+10365,True,39.0,1.25,True,White,Safety Manager,False,"Chicago, IL",2020-05-26,2021-08-26
+10366,True,49.0,1.58,True,Hispanic or Latino,Project Manager,False,"Chicago, IL",2023-07-12,2025-02-09
+10367,False,46.0,2.14,True,White,Safety Manager,True,"Atlanta, GA",2024-05-10,
+10368,False,42.0,0.25,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2026-03-30,
+10369,True,31.0,0.67,True,White,Superintendent,False,"Chicago, IL",2020-12-02,2021-08-03
+10370,True,26.0,0.67,False,Hispanic or Latino,Project Manager,True,"Chicago, IL",2022-08-09,2023-04-10
+10371,True,41.0,1.08,False,Black or African American,Project Manager,True,"Dallas, TX",2023-10-25,2024-11-24
+10372,False,42.0,0.34,False,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2026-02-27,
+10373,False,56.0,6.56,True,White,Superintendent,False,"St. Louis, MO",2019-12-09,
+10374,True,26.0,0.67,True,White,Project Manager,False,"Dallas, TX",2021-05-26,2022-01-25
+10375,True,43.0,1.92,False,Two or More Races,Project Manager,False,"Denver, CO",2017-06-16,2019-05-17
+10376,False,23.0,1.51,True,Two or More Races,Superintendent,False,"St. Louis, MO",2024-12-25,
+10377,True,30.0,3.17,True,White,Project Manager,False,"Chicago, IL",2023-01-29,2026-03-31
+10378,True,41.0,3.17,False,White,Project Engineer,False,"Atlanta, GA",2019-10-30,2022-12-30
+10379,True,49.0,0.83,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2022-05-12,2023-03-12
+10380,False,32.0,0.62,False,White,Safety Manager,False,"St. Louis, MO",2025-11-15,
+10381,True,38.0,6.42,False,White,Project Manager,False,"Columbus, OH",2018-03-01,2024-07-31
+10382,True,36.0,2.33,True,White,Superintendent,False,"Chicago, IL",2023-02-14,2025-06-15
+10383,True,54.0,0.25,True,Black or African American,Superintendent,False,"Columbus, OH",2019-03-23,2019-06-22
+10384,False,67.0,9.26,False,White,Superintendent,False,"St. Louis, MO",2017-03-27,
+10385,True,33.0,2.42,True,White,Project Manager,False,"St. Louis, MO",2015-11-24,2018-04-25
+10386,True,45.0,5.58,True,Hispanic or Latino,Project Manager,False,"Chicago, IL",2015-06-17,2021-01-15
+10387,True,38.0,2.67,True,White,Project Engineer,False,"St. Louis, MO",2020-05-19,2023-01-18
+10388,False,53.0,6.39,True,White,Project Engineer,False,"St. Louis, MO",2020-02-09,
+10389,True,43.0,1.75,True,White,Superintendent,False,"Columbus, OH",2023-09-11,2025-06-11
+10390,True,56.0,0.08,True,Black or African American,Safety Manager,False,"Atlanta, GA",2020-03-07,2020-04-06
+10391,True,30.0,1.17,False,White,Superintendent,False,"Dallas, TX",2023-02-24,2024-04-25
+10392,True,40.0,2.83,True,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2022-11-03,2025-09-03
+10393,True,41.0,1.08,False,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2017-05-19,2018-06-19
+10394,True,37.0,2.75,False,Hispanic or Latino,Project Manager,False,"Chicago, IL",2015-01-07,2017-10-08
+10395,True,40.0,0.42,False,Hispanic or Latino,Safety Manager,False,"Dallas, TX",2021-03-03,2021-08-02
+10396,True,33.0,6.25,False,White,Project Engineer,False,"St. Louis, MO",2018-06-16,2024-09-15
+10397,False,58.0,2.45,True,White,Superintendent,False,"St. Louis, MO",2024-01-19,
+10398,True,42.0,1.75,True,White,Superintendent,False,"Denver, CO",2024-01-29,2025-10-29
+10399,True,34.0,2.33,True,Hispanic or Latino,Project Manager,True,"Columbus, OH",2019-07-27,2021-11-25
+10400,True,32.0,0.5,True,Black or African American,Project Engineer,False,"St. Louis, MO",2025-06-13,2025-12-13
+10401,True,59.0,1.92,True,White,Project Manager,True,"Dallas, TX",2019-01-16,2020-12-16
+10402,True,40.0,0.67,True,White,Safety Manager,False,"Dallas, TX",2018-04-29,2018-12-29
+10403,False,44.0,2.27,True,White,Project Manager,False,"Columbus, OH",2024-03-24,
+10404,True,52.0,4.0,True,Asian,Superintendent,False,"Chicago, IL",2015-04-30,2019-04-30
+10405,True,52.0,0.17,True,White,Project Manager,False,"Chicago, IL",2020-01-22,2020-03-23
+10406,True,53.0,0.75,False,Black or African American,Safety Manager,False,"Phoenix, AZ",2015-10-02,2016-07-02
+10407,True,40.0,1.42,True,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2020-02-04,2021-07-05
+10408,True,38.0,2.83,False,White,Superintendent,False,"Dallas, TX",2019-04-12,2022-02-10
+10409,True,25.0,2.08,False,White,Superintendent,False,"Dallas, TX",2022-10-29,2024-11-28
+10410,True,44.0,5.67,True,Black or African American,Project Manager,False,"Phoenix, AZ",2018-05-01,2023-12-31
+10411,True,40.0,1.42,True,White,Superintendent,False,"St. Louis, MO",2023-08-19,2025-01-17
+10412,True,43.0,2.75,True,Asian,Project Manager,False,"St. Louis, MO",2016-01-02,2018-10-03
+10413,True,44.0,1.67,True,White,Project Engineer,False,"St. Louis, MO",2017-01-15,2018-09-16
+10414,True,34.0,4.84,False,White,Project Manager,False,"Denver, CO",2017-11-30,2022-10-01
+10415,True,64.0,3.92,True,White,Project Manager,False,"St. Louis, MO",2018-01-10,2021-12-11
+10416,False,33.0,1.52,True,White,Project Manager,False,"Atlanta, GA",2024-12-24,
+10417,True,38.0,0.75,True,White,Project Manager,False,"Chicago, IL",2015-08-31,2016-05-31
+10418,False,34.0,3.11,True,Black or African American,Superintendent,False,"St. Louis, MO",2023-05-21,
+10419,True,45.0,0.75,True,Hispanic or Latino,Project Engineer,False,"Denver, CO",2015-04-04,2016-01-03
+10420,True,46.0,1.08,True,White,Project Manager,False,"St. Louis, MO",2023-12-19,2025-01-18
+10421,True,24.0,0.17,False,White,Superintendent,False,"Phoenix, AZ",2023-10-12,2023-12-12
+10422,True,45.0,3.33,True,White,Superintendent,True,"Denver, CO",2022-12-12,2026-04-13
+10423,True,38.0,0.67,True,White,Superintendent,False,"Phoenix, AZ",2018-08-05,2019-04-06
+10424,True,43.0,1.67,True,White,Superintendent,False,"St. Louis, MO",2017-10-17,2019-06-18
+10425,False,46.0,0.85,True,White,Safety Manager,False,"Chicago, IL",2025-08-23,
+10426,True,53.0,0.83,True,White,Project Manager,False,"Chicago, IL",2016-11-19,2017-09-19
+10427,True,40.0,8.75,False,Black or African American,Project Manager,False,"St. Louis, MO",2016-07-11,2025-04-11
+10428,True,40.0,0.75,False,White,Superintendent,False,"Chicago, IL",2021-06-19,2022-03-20
+10429,False,60.0,6.98,True,Two or More Races,Safety Manager,False,"St. Louis, MO",2019-07-10,
+10430,True,58.0,0.67,False,Hispanic or Latino,Safety Manager,False,"Columbus, OH",2016-03-13,2016-11-12
+10431,True,45.0,0.25,True,White,Project Engineer,False,"Atlanta, GA",2025-12-01,2026-03-02
+10432,True,39.0,2.83,False,White,Project Engineer,False,"Denver, CO",2023-02-25,2025-12-26
+10433,True,50.0,5.17,True,Hispanic or Latino,Superintendent,True,"St. Louis, MO",2021-02-08,2026-04-10
+10434,True,51.0,1.58,False,White,Project Engineer,False,"St. Louis, MO",2015-07-17,2017-02-14
+10435,True,41.0,4.08,True,Black or African American,Project Manager,False,"St. Louis, MO",2016-08-13,2020-09-13
+10436,True,37.0,0.67,True,White,Superintendent,False,"Dallas, TX",2016-05-01,2016-12-31
+10437,True,50.0,4.0,False,White,Safety Manager,False,"St. Louis, MO",2017-09-11,2021-09-11
+10438,True,44.0,2.83,True,White,Project Engineer,False,"St. Louis, MO",2021-09-29,2024-07-30
+10439,False,49.0,2.35,True,White,Safety Manager,False,"Phoenix, AZ",2024-02-24,
+10440,True,41.0,0.75,True,White,Superintendent,False,"Atlanta, GA",2017-10-03,2018-07-04
+10441,True,51.0,1.17,True,White,Project Manager,False,"St. Louis, MO",2024-03-15,2025-05-15
+10442,False,34.0,0.71,True,White,Project Engineer,False,"Atlanta, GA",2025-10-15,
+10443,False,58.0,10.78,False,White,Superintendent,False,"St. Louis, MO",2015-09-19,
+10444,True,44.0,2.42,False,White,Project Manager,False,"Chicago, IL",2023-08-15,2026-01-14
+10445,True,38.0,3.83,True,White,Project Manager,False,"St. Louis, MO",2019-11-21,2023-09-21
+10446,True,31.0,1.25,True,Hispanic or Latino,Safety Manager,False,"Atlanta, GA",2023-04-17,2024-07-17
+10447,True,44.0,0.5,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2017-11-15,2018-05-17
+10448,True,44.0,2.42,False,White,Superintendent,False,"Phoenix, AZ",2016-05-28,2018-10-28
+10449,True,55.0,4.25,False,White,Superintendent,False,"St. Louis, MO",2015-10-04,2020-01-03
+10450,False,31.0,1.09,True,Black or African American,Superintendent,False,"St. Louis, MO",2025-05-29,
+10451,True,27.0,0.75,False,White,Project Manager,False,"St. Louis, MO",2022-05-02,2023-01-31
+10452,True,43.0,0.92,True,Black or African American,Superintendent,True,"Phoenix, AZ",2019-08-29,2020-07-29
+10453,True,60.0,1.83,True,Hispanic or Latino,Project Manager,True,"Atlanta, GA",2019-09-25,2021-07-26
+10454,True,58.0,1.08,True,Hispanic or Latino,Superintendent,True,"St. Louis, MO",2019-10-11,2020-11-10
+10455,True,40.0,1.83,True,White,Superintendent,False,"Atlanta, GA",2016-01-12,2017-11-12
+10456,True,36.0,1.08,True,White,Project Engineer,False,"Dallas, TX",2024-05-15,2025-06-15
+10457,True,41.0,1.42,True,White,Superintendent,True,"St. Louis, MO",2024-10-19,2026-03-20
+10458,True,39.0,5.83,True,White,Safety Manager,False,"Chicago, IL",2017-07-14,2023-05-15
+10459,False,35.0,1.4,True,White,Superintendent,False,"Chicago, IL",2025-02-04,
+10460,False,35.0,0.85,False,Asian,Project Manager,False,"Dallas, TX",2025-08-25,
+10461,False,28.0,0.88,True,White,Superintendent,False,"Atlanta, GA",2025-08-13,
+10462,False,30.0,0.02,False,Hispanic or Latino,Superintendent,False,"Dallas, TX",2026-06-25,
+10463,True,33.0,0.17,True,White,Project Engineer,False,"Chicago, IL",2025-11-17,2026-01-17
+10464,True,47.0,2.17,True,Asian,Superintendent,False,"Denver, CO",2017-12-12,2020-02-11
+10465,True,28.0,0.42,True,White,Project Manager,False,"Dallas, TX",2023-08-27,2024-01-26
+10466,True,46.0,2.25,True,Two or More Races,Superintendent,False,"St. Louis, MO",2017-06-27,2019-09-27
+10467,True,31.0,1.58,True,Black or African American,Superintendent,False,"Chicago, IL",2022-03-07,2023-10-06
+10468,False,29.0,0.02,True,Black or African American,Project Engineer,False,"Phoenix, AZ",2026-06-24,
+10469,True,36.0,0.42,False,White,Superintendent,False,"Denver, CO",2016-02-08,2016-07-09
+10470,True,70.0,6.17,True,Asian,Superintendent,False,"Phoenix, AZ",2016-06-11,2022-08-12
+10471,True,57.0,3.42,False,White,Project Engineer,False,"St. Louis, MO",2016-10-17,2020-03-18
+10472,True,58.0,7.08,True,White,Project Engineer,False,"Chicago, IL",2016-09-13,2023-10-14
+10473,False,45.0,1.79,True,White,Project Manager,False,"Dallas, TX",2024-09-17,
+10474,True,45.0,1.58,True,White,Superintendent,False,"Dallas, TX",2015-12-09,2017-07-09
+10475,True,40.0,0.33,True,White,Safety Manager,True,"St. Louis, MO",2023-01-14,2023-05-16
+10476,True,45.0,1.83,False,Black or African American,Safety Manager,True,"Atlanta, GA",2020-07-22,2022-05-23
+10477,True,50.0,2.25,True,White,Superintendent,False,"Chicago, IL",2016-04-06,2018-07-07
+10478,True,52.0,3.67,False,Two or More Races,Project Manager,True,"St. Louis, MO",2015-01-07,2018-09-07
+10479,False,52.0,2.0,False,Hispanic or Latino,Project Manager,False,"Chicago, IL",2024-06-29,
+10480,True,28.0,0.67,True,White,Project Manager,False,"St. Louis, MO",2019-10-16,2020-06-16
+10481,False,34.0,3.21,False,White,Project Manager,False,"St. Louis, MO",2023-04-15,
+10482,True,46.0,1.25,True,White,Project Manager,False,"St. Louis, MO",2022-12-27,2024-03-28
+10483,False,35.0,1.75,True,White,Superintendent,False,"St. Louis, MO",2024-09-29,
+10484,True,46.0,2.58,False,Black or African American,Superintendent,False,"Denver, CO",2015-07-05,2018-02-03
+10485,True,58.0,9.33,True,White,Superintendent,False,"St. Louis, MO",2017-01-03,2026-05-05
+10486,True,47.0,0.83,True,White,Project Engineer,True,"Denver, CO",2017-12-04,2018-10-04
+10487,False,53.0,1.09,True,White,Superintendent,False,"St. Louis, MO",2025-05-30,
+10488,False,46.0,10.21,True,White,Superintendent,False,"Atlanta, GA",2016-04-16,
+10489,True,43.0,0.92,True,White,Project Manager,False,"Chicago, IL",2021-10-26,2022-09-26
+10490,True,27.0,0.5,True,Black or African American,Project Engineer,True,"Phoenix, AZ",2025-10-20,2026-04-21
+10491,True,23.0,1.08,True,White,Project Engineer,False,"Denver, CO",2024-05-04,2025-06-04
+10492,True,43.0,1.33,True,White,Project Manager,False,"Phoenix, AZ",2015-05-14,2016-09-12
+10493,False,38.0,1.05,False,Black or African American,Superintendent,False,"Columbus, OH",2025-06-13,
+10494,True,35.0,0.5,True,White,Superintendent,False,"Phoenix, AZ",2024-06-24,2024-12-24
+10495,True,31.0,2.0,True,White,Project Manager,False,"St. Louis, MO",2019-08-13,2021-08-13
+10496,False,53.0,11.15,True,White,Project Manager,False,"Phoenix, AZ",2015-05-09,
+10497,True,43.0,0.75,False,Hispanic or Latino,Project Engineer,False,"Denver, CO",2020-07-19,2021-04-19
+10498,False,43.0,7.08,True,Hispanic or Latino,Project Manager,False,"Chicago, IL",2019-06-02,
+10499,True,33.0,0.5,True,White,Safety Manager,False,"Atlanta, GA",2022-03-04,2022-09-03
+10500,False,60.0,8.79,False,Two or More Races,Project Manager,False,"St. Louis, MO",2017-09-14,
+10501,True,54.0,2.58,True,White,Superintendent,False,"Atlanta, GA",2021-08-09,2024-03-10
+10502,True,48.0,3.75,True,Asian,Project Manager,False,"Phoenix, AZ",2017-04-04,2021-01-03
+10503,True,44.0,1.67,True,White,Project Manager,False,"Chicago, IL",2017-01-16,2018-09-17
+10504,True,47.0,1.83,True,White,Project Manager,False,"St. Louis, MO",2017-11-21,2019-09-22
+10505,False,57.0,6.27,True,White,Superintendent,False,"Phoenix, AZ",2020-03-24,
+10506,True,68.0,2.5,True,Black or African American,Superintendent,False,"Dallas, TX",2018-03-25,2020-09-23
+10507,True,47.0,0.83,False,Black or African American,Project Manager,False,"St. Louis, MO",2015-10-12,2016-08-11
+10508,False,33.0,1.14,True,Black or African American,Safety Manager,False,"Denver, CO",2025-05-09,
+10509,True,30.0,0.42,True,Black or African American,Project Manager,True,"Dallas, TX",2017-06-02,2017-11-01
+10510,False,69.0,8.55,True,White,Superintendent,False,"St. Louis, MO",2017-12-11,
+10511,True,36.0,0.5,True,White,Project Manager,False,"St. Louis, MO",2016-08-27,2017-02-26
+10512,True,51.0,2.75,True,Hispanic or Latino,Project Manager,False,"Denver, CO",2019-01-23,2021-10-24
+10513,False,45.0,3.97,False,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2022-07-11,
+10514,True,52.0,0.58,True,Black or African American,Safety Manager,False,"Phoenix, AZ",2022-02-12,2022-09-13
+10515,True,38.0,1.0,False,White,Project Engineer,False,"St. Louis, MO",2016-11-17,2017-11-17
+10516,True,26.0,0.08,True,White,Superintendent,False,"Denver, CO",2021-07-04,2021-08-03
+10517,True,44.0,2.42,True,Black or African American,Project Manager,False,"St. Louis, MO",2019-08-29,2022-01-28
+10518,True,48.0,4.08,True,White,Project Manager,False,"Chicago, IL",2018-06-08,2022-07-09
+10519,False,48.0,1.97,True,White,Superintendent,False,"St. Louis, MO",2024-07-12,
+10520,True,32.0,0.83,True,White,Superintendent,False,"Chicago, IL",2015-04-06,2016-02-04
+10521,True,39.0,2.33,True,White,Superintendent,False,"Chicago, IL",2019-05-29,2021-09-27
+10522,False,35.0,1.14,True,White,Superintendent,False,"Denver, CO",2025-05-10,
+10523,True,30.0,4.33,True,Hispanic or Latino,Superintendent,False,"Dallas, TX",2020-01-10,2024-05-11
+10524,True,40.0,2.33,True,White,Project Manager,False,"Columbus, OH",2021-02-21,2023-06-23
+10525,True,54.0,2.42,True,White,Superintendent,False,"Denver, CO",2015-10-13,2018-03-14
+10526,True,46.0,1.92,False,Asian,Superintendent,False,"Chicago, IL",2016-10-31,2018-10-01
+10527,True,31.0,1.33,True,Black or African American,Project Manager,True,"Dallas, TX",2018-08-24,2019-12-24
+10528,False,40.0,0.63,True,White,Superintendent,False,"Chicago, IL",2025-11-13,
+10529,True,53.0,8.0,True,White,Superintendent,False,"Atlanta, GA",2017-02-20,2025-02-20
+10530,False,43.0,2.35,True,White,Safety Manager,False,"Phoenix, AZ",2024-02-25,
+10531,True,50.0,0.58,True,White,Superintendent,False,"St. Louis, MO",2019-11-09,2020-06-09
+10532,True,23.0,0.08,True,White,Project Engineer,False,"St. Louis, MO",2024-08-10,2024-09-09
+10533,False,47.0,7.27,False,White,Superintendent,False,"Dallas, TX",2019-03-24,
+10534,True,50.0,0.75,True,Hispanic or Latino,Safety Manager,False,"Dallas, TX",2017-09-15,2018-06-16
+10535,False,35.0,1.68,True,White,Project Manager,False,"St. Louis, MO",2024-10-25,
+10536,True,40.0,3.42,True,White,Project Manager,False,"Chicago, IL",2022-03-25,2025-08-24
+10537,True,29.0,0.08,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2026-05-02,2026-06-01
+10538,True,54.0,3.83,True,White,Safety Manager,False,"St. Louis, MO",2019-11-02,2023-09-02
+10539,False,41.0,8.29,True,Black or African American,Superintendent,False,"Dallas, TX",2018-03-18,
+10540,True,37.0,0.83,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2017-09-28,2018-07-29
+10541,True,46.0,0.17,True,White,Project Manager,False,"Columbus, OH",2018-10-21,2018-12-21
+10542,True,44.0,5.17,True,White,Project Engineer,False,"Phoenix, AZ",2019-01-14,2024-03-15
+10543,False,46.0,3.78,True,White,Safety Manager,False,"Phoenix, AZ",2022-09-18,
+10544,True,40.0,7.17,True,White,Project Manager,False,"St. Louis, MO",2015-02-15,2022-04-17
+10545,False,35.0,4.57,False,Two or More Races,Superintendent,False,"Columbus, OH",2021-12-06,
+10546,True,50.0,8.5,False,White,Project Manager,False,"Phoenix, AZ",2015-02-07,2023-08-09
+10547,False,59.0,2.73,True,White,Safety Manager,False,"Columbus, OH",2023-10-08,
+10548,True,47.0,0.83,True,White,Superintendent,False,"Atlanta, GA",2019-07-21,2020-05-20
+10549,False,25.0,1.31,True,White,Superintendent,True,"Columbus, OH",2025-03-09,
+10550,True,48.0,2.5,True,White,Project Manager,False,"Atlanta, GA",2016-02-25,2018-08-26
+10551,False,29.0,0.33,True,Black or African American,Safety Manager,True,"Denver, CO",2026-03-04,
+10552,True,30.0,0.58,True,Black or African American,Superintendent,False,"Denver, CO",2017-09-29,2018-04-30
+10553,True,37.0,1.25,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2019-06-21,2020-09-20
+10554,False,37.0,5.59,True,Asian,Superintendent,False,"St. Louis, MO",2020-11-27,
+10555,True,48.0,3.33,False,White,Project Manager,False,"Chicago, IL",2018-02-10,2021-06-12
+10556,True,55.0,0.33,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2019-10-21,2020-02-20
+10557,False,46.0,0.26,False,White,Project Manager,False,"St. Louis, MO",2026-03-28,
+10558,True,50.0,6.83,True,Asian,Project Manager,False,"St. Louis, MO",2019-07-28,2026-05-28
+10559,True,42.0,0.5,True,Black or African American,Superintendent,False,"St. Louis, MO",2016-06-29,2016-12-29
+10560,False,38.0,0.84,True,Asian,Safety Manager,False,"Atlanta, GA",2025-08-29,
+10561,False,37.0,0.7,True,White,Project Engineer,False,"Columbus, OH",2025-10-19,
+10562,True,54.0,1.58,True,White,Safety Manager,False,"Columbus, OH",2021-03-04,2022-10-03
+10563,False,33.0,3.15,True,White,Project Manager,False,"Columbus, OH",2023-05-08,
+10564,True,34.0,1.0,True,White,Superintendent,False,"Chicago, IL",2023-12-28,2024-12-27
+10565,True,52.0,0.17,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2024-02-07,2024-04-08
+10566,False,43.0,1.72,False,White,Project Engineer,False,"Columbus, OH",2024-10-12,
+10567,True,33.0,0.83,False,White,Project Engineer,False,"St. Louis, MO",2025-07-13,2026-05-13
+10568,True,40.0,0.75,True,White,Safety Manager,False,"Columbus, OH",2024-05-30,2025-02-28
+10569,True,42.0,1.33,True,Hispanic or Latino,Superintendent,False,"Columbus, OH",2021-02-01,2022-06-03
+10570,True,42.0,0.42,False,White,Superintendent,False,"Columbus, OH",2022-04-12,2022-09-11
+10571,True,51.0,3.33,True,White,Superintendent,False,"Atlanta, GA",2018-09-21,2022-01-21
+10572,True,50.0,0.5,True,Asian,Safety Manager,True,"Dallas, TX",2015-08-16,2016-02-15
+10573,True,44.0,5.5,False,Hispanic or Latino,Superintendent,False,"Chicago, IL",2016-05-14,2021-11-13
+10574,True,33.0,1.17,False,Asian,Superintendent,False,"St. Louis, MO",2024-09-15,2025-11-15
+10575,True,29.0,0.25,True,Hispanic or Latino,Superintendent,False,"Columbus, OH",2018-07-27,2018-10-26
+10576,True,36.0,1.08,False,White,Project Engineer,False,"Atlanta, GA",2022-04-27,2023-05-28
+10577,True,50.0,0.08,True,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2022-02-21,2022-03-23
+10578,False,45.0,6.75,True,White,Project Engineer,False,"Chicago, IL",2019-09-29,
+10579,True,38.0,0.33,True,Hispanic or Latino,Superintendent,False,"Columbus, OH",2018-01-12,2018-05-14
+10580,True,43.0,3.08,True,White,Project Engineer,False,"Denver, CO",2017-06-08,2020-07-08
+10581,False,28.0,0.22,False,Black or African American,Superintendent,False,"Dallas, TX",2026-04-10,
+10582,True,47.0,0.25,True,White,Project Manager,False,"Atlanta, GA",2018-09-25,2018-12-25
+10583,True,60.0,4.75,True,White,Project Manager,False,"Chicago, IL",2020-01-10,2024-10-10
+10584,False,61.0,9.13,True,White,Superintendent,False,"Dallas, TX",2017-05-14,
+10585,False,50.0,3.2,False,Black or African American,Superintendent,True,"St. Louis, MO",2023-04-19,
+10586,True,46.0,2.67,True,White,Superintendent,False,"Chicago, IL",2023-03-20,2025-11-18
+10587,False,42.0,8.35,True,Hispanic or Latino,Superintendent,False,"Phoenix, AZ",2018-02-23,
+10588,True,29.0,1.08,True,White,Project Manager,False,"Dallas, TX",2022-12-06,2024-01-06
+10589,True,37.0,0.25,False,Black or African American,Project Manager,False,"Denver, CO",2025-06-12,2025-09-11
+10590,True,34.0,1.08,True,Hispanic or Latino,Superintendent,False,"Dallas, TX",2024-07-11,2025-08-11
+10591,True,48.0,1.83,True,Two or More Races,Superintendent,False,"Phoenix, AZ",2022-12-13,2024-10-13
+10592,True,44.0,3.08,False,Hispanic or Latino,Project Engineer,False,"Denver, CO",2020-09-25,2023-10-26
+10593,True,39.0,7.75,False,White,Project Manager,True,"St. Louis, MO",2018-07-15,2026-04-15
+10594,True,49.0,4.67,True,White,Project Manager,False,"Dallas, TX",2017-04-21,2021-12-21
+10595,True,69.0,3.75,False,White,Superintendent,False,"St. Louis, MO",2017-10-14,2021-07-15
+10596,True,33.0,2.42,True,White,Safety Manager,False,"Dallas, TX",2021-04-13,2023-09-13
+10597,False,47.0,0.57,True,Black or African American,Superintendent,True,"Columbus, OH",2025-12-06,
+10598,True,50.0,2.58,False,Hispanic or Latino,Superintendent,False,"Phoenix, AZ",2017-12-07,2020-07-08
+10599,True,46.0,4.17,True,White,Safety Manager,False,"Columbus, OH",2015-04-20,2019-06-20
+10600,True,40.0,4.5,True,White,Safety Manager,False,"Atlanta, GA",2015-11-18,2020-05-19
+10601,True,42.0,5.25,False,White,Project Manager,False,"Dallas, TX",2020-03-29,2025-06-29
+10602,False,45.0,7.11,True,White,Project Manager,True,"St. Louis, MO",2019-05-22,
+10603,True,47.0,2.5,False,Black or African American,Safety Manager,False,"Chicago, IL",2022-10-05,2025-04-05
+10604,True,46.0,1.58,False,Hispanic or Latino,Safety Manager,False,"Phoenix, AZ",2022-04-15,2023-11-14
+10605,True,48.0,3.92,False,White,Project Manager,False,"St. Louis, MO",2017-04-15,2021-03-16
+10606,True,37.0,0.33,True,White,Project Manager,False,"St. Louis, MO",2019-10-25,2020-02-24
+10607,False,40.0,0.95,True,White,Project Engineer,False,"Columbus, OH",2025-07-18,
+10608,True,38.0,0.83,True,White,Superintendent,False,"Dallas, TX",2020-03-22,2021-01-20
+10609,True,38.0,0.25,True,White,Superintendent,False,"Phoenix, AZ",2015-08-21,2015-11-20
+10610,True,54.0,1.42,True,White,Project Manager,False,"Phoenix, AZ",2016-05-13,2017-10-12
+10611,True,41.0,2.58,True,White,Project Manager,False,"Chicago, IL",2015-09-22,2018-04-23
+10612,True,33.0,2.83,True,Black or African American,Project Manager,False,"Denver, CO",2018-04-03,2021-02-01
+10613,True,45.0,0.58,True,White,Project Engineer,False,"Columbus, OH",2018-09-14,2019-04-15
+10614,True,22.0,0.08,True,White,Project Engineer,False,"Atlanta, GA",2025-01-13,2025-02-12
+10615,True,40.0,0.25,True,White,Project Manager,False,"St. Louis, MO",2022-10-09,2023-01-08
+10616,True,43.0,1.67,True,Asian,Project Manager,False,"St. Louis, MO",2023-06-12,2025-02-10
+10617,False,37.0,5.11,True,White,Project Engineer,True,"Atlanta, GA",2021-05-23,
+10618,True,46.0,7.17,True,White,Project Manager,False,"St. Louis, MO",2018-03-13,2025-05-13
+10619,True,59.0,1.83,True,White,Project Manager,False,"Chicago, IL",2023-10-16,2025-08-16
+10620,True,55.0,1.08,True,White,Project Manager,False,"Atlanta, GA",2020-08-06,2021-09-06
+10621,True,53.0,3.58,True,White,Superintendent,False,"Phoenix, AZ",2017-03-07,2020-10-06
+10622,True,51.0,5.58,True,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2016-09-15,2022-04-16
+10623,True,38.0,5.58,True,White,Project Engineer,False,"Chicago, IL",2019-08-21,2025-03-21
+10624,True,46.0,3.5,True,White,Superintendent,False,"Dallas, TX",2015-03-07,2018-09-05
+10625,True,38.0,5.25,True,White,Superintendent,False,"Columbus, OH",2021-02-08,2026-05-11
+10626,True,45.0,1.08,True,White,Superintendent,False,"Atlanta, GA",2017-05-17,2018-06-17
+10627,True,46.0,0.17,True,White,Project Manager,False,"St. Louis, MO",2017-07-31,2017-09-30
+10628,True,40.0,1.83,True,White,Project Manager,False,"St. Louis, MO",2015-02-25,2016-12-26
+10629,True,60.0,1.42,True,White,Superintendent,False,"St. Louis, MO",2017-08-24,2019-01-23
+10630,True,30.0,1.08,False,White,Safety Manager,False,"St. Louis, MO",2023-01-03,2024-02-03
+10631,True,48.0,0.33,False,White,Project Manager,True,"Phoenix, AZ",2017-06-16,2017-10-16
+10632,True,52.0,0.42,True,Hispanic or Latino,Safety Manager,False,"Chicago, IL",2019-11-03,2020-04-03
+10633,True,43.0,0.92,True,White,Superintendent,False,"Dallas, TX",2019-10-06,2020-09-05
+10634,True,41.0,3.33,True,Black or African American,Superintendent,False,"St. Louis, MO",2015-12-15,2019-04-16
+10635,True,45.0,2.67,True,White,Project Manager,False,"St. Louis, MO",2017-12-02,2020-08-02
+10636,False,55.0,1.79,True,Black or African American,Project Manager,False,"Atlanta, GA",2024-09-16,
+10637,False,44.0,1.66,False,Black or African American,Project Manager,False,"St. Louis, MO",2024-11-02,
+10638,False,37.0,4.11,False,White,Safety Manager,False,"Dallas, TX",2022-05-23,
+10639,True,49.0,4.25,False,White,Project Manager,False,"St. Louis, MO",2018-09-03,2022-12-03
+10640,True,39.0,4.0,True,White,Project Manager,False,"Atlanta, GA",2021-04-06,2025-04-06
+10641,True,28.0,2.5,True,White,Project Engineer,False,"St. Louis, MO",2019-08-25,2022-02-23
+10642,True,47.0,1.17,True,White,Project Engineer,False,"Atlanta, GA",2017-03-21,2018-05-21
+10643,True,51.0,2.58,True,Hispanic or Latino,Project Manager,False,"Denver, CO",2020-05-14,2022-12-14
+10644,False,53.0,6.58,False,White,Safety Manager,False,"Denver, CO",2019-11-30,
+10645,True,38.0,1.92,False,White,Project Engineer,False,"Denver, CO",2023-04-06,2025-03-06
+10646,False,25.0,1.79,False,White,Superintendent,False,"Phoenix, AZ",2024-09-16,
+10647,True,56.0,2.75,False,Asian,Project Manager,False,"St. Louis, MO",2017-09-26,2020-06-27
+10648,True,37.0,0.25,False,Black or African American,Superintendent,False,"Dallas, TX",2024-06-21,2024-09-20
+10649,True,54.0,2.08,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2015-11-11,2017-12-11
+10650,True,57.0,0.25,True,White,Project Engineer,False,"St. Louis, MO",2015-02-07,2015-05-09
+10651,False,40.0,0.77,False,White,Superintendent,False,"Dallas, TX",2025-09-23,
+10652,True,46.0,0.33,True,Hispanic or Latino,Superintendent,False,"Phoenix, AZ",2015-05-04,2015-09-03
+10653,False,32.0,2.03,True,White,Project Engineer,False,"St. Louis, MO",2024-06-21,
+10654,False,32.0,0.15,False,Asian,Superintendent,False,"Dallas, TX",2026-05-09,
+10655,True,40.0,0.17,True,White,Superintendent,False,"St. Louis, MO",2022-01-02,2022-03-04
+10656,True,42.0,3.17,True,White,Superintendent,False,"St. Louis, MO",2016-01-12,2019-03-14
+10657,True,49.0,0.92,False,White,Superintendent,False,"Dallas, TX",2016-07-05,2017-06-05
+10658,True,28.0,2.25,False,White,Project Engineer,False,"St. Louis, MO",2019-04-30,2021-07-30
+10659,True,35.0,0.17,False,White,Project Engineer,False,"St. Louis, MO",2018-07-28,2018-09-27
+10660,True,41.0,2.33,True,White,Project Manager,False,"St. Louis, MO",2021-10-28,2024-02-27
+10661,True,33.0,1.33,True,Asian,Project Engineer,False,"Phoenix, AZ",2023-12-04,2025-04-04
+10662,False,34.0,3.49,False,Hispanic or Latino,Safety Manager,False,"Chicago, IL",2023-01-05,
+10663,True,33.0,3.83,True,Asian,Superintendent,False,"Atlanta, GA",2019-11-29,2023-09-29
+10664,True,52.0,2.42,True,White,Project Engineer,False,"Dallas, TX",2016-04-16,2018-09-16
+10665,True,57.0,1.42,True,Hispanic or Latino,Safety Manager,False,"Dallas, TX",2020-06-23,2021-11-22
+10666,False,30.0,2.83,False,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2023-09-01,
+10667,False,47.0,1.1,True,Hispanic or Latino,Project Manager,False,"Dallas, TX",2025-05-25,
+10668,True,30.0,1.17,True,White,Superintendent,False,"Columbus, OH",2019-05-17,2020-07-16
+10669,True,43.0,2.67,False,Two or More Races,Safety Manager,False,"Phoenix, AZ",2020-08-19,2023-04-20
+10670,True,28.0,1.42,False,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2019-03-11,2020-08-09
+10671,False,41.0,1.13,True,Asian,Project Manager,False,"Chicago, IL",2025-05-14,
+10672,True,40.0,0.08,True,White,Superintendent,False,"Atlanta, GA",2022-10-30,2022-11-29
+10673,False,38.0,0.84,True,White,Project Manager,True,"Chicago, IL",2025-08-27,
+10674,True,54.0,0.75,False,Hispanic or Latino,Project Manager,True,"Denver, CO",2019-05-12,2020-02-10
+10675,True,44.0,0.33,True,Black or African American,Safety Manager,False,"Chicago, IL",2023-03-11,2023-07-11
+10676,True,46.0,3.5,True,Two or More Races,Superintendent,False,"Atlanta, GA",2016-01-25,2019-07-26
+10677,True,36.0,3.25,True,White,Project Engineer,False,"Atlanta, GA",2018-09-17,2021-12-17
+10678,True,44.0,2.92,True,Black or African American,Project Manager,False,"St. Louis, MO",2018-01-26,2020-12-26
+10679,True,35.0,2.33,False,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2021-01-29,2023-05-31
+10680,True,36.0,3.58,True,Asian,Superintendent,False,"Denver, CO",2022-04-25,2025-11-24
+10681,True,56.0,1.42,True,Asian,Superintendent,False,"Columbus, OH",2019-06-02,2020-10-31
+10682,True,47.0,0.08,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2023-10-22,2023-11-21
+10683,True,46.0,0.75,True,Two or More Races,Project Manager,False,"Chicago, IL",2018-08-04,2019-05-05
+10684,True,52.0,1.83,False,White,Superintendent,False,"Columbus, OH",2015-04-29,2017-02-27
+10685,True,31.0,0.25,True,White,Superintendent,False,"Chicago, IL",2018-07-25,2018-10-24
+10686,False,37.0,0.04,False,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2026-06-16,
+10687,True,32.0,1.0,True,Hispanic or Latino,Project Manager,False,"Chicago, IL",2015-03-11,2016-03-10
+10688,True,31.0,0.5,True,White,Superintendent,False,"Dallas, TX",2025-05-26,2025-11-25
+10689,True,44.0,1.5,True,White,Project Engineer,False,"St. Louis, MO",2021-01-04,2022-07-06
+10690,False,50.0,11.19,True,Hispanic or Latino,Safety Manager,False,"Phoenix, AZ",2015-04-23,
+10691,True,45.0,2.33,False,White,Safety Manager,False,"St. Louis, MO",2023-05-16,2025-09-14
+10692,True,40.0,0.08,True,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2023-11-21,2023-12-21
+10693,True,45.0,2.08,True,White,Safety Manager,False,"Phoenix, AZ",2017-04-08,2019-05-09
+10694,True,42.0,4.25,True,Hispanic or Latino,Safety Manager,False,"Denver, CO",2020-10-11,2025-01-10
+10695,True,51.0,0.75,True,White,Project Manager,False,"Atlanta, GA",2023-01-15,2023-10-16
+10696,True,57.0,7.0,True,Hispanic or Latino,Project Manager,True,"Atlanta, GA",2016-05-22,2023-05-23
+10697,True,27.0,0.42,False,White,Superintendent,False,"Chicago, IL",2021-07-12,2021-12-11
+10698,True,47.0,3.75,False,White,Superintendent,False,"St. Louis, MO",2016-07-04,2020-04-04
+10699,True,54.0,2.42,False,White,Safety Manager,False,"Chicago, IL",2019-07-04,2021-12-03
+10700,True,41.0,0.5,True,White,Superintendent,True,"Denver, CO",2018-05-10,2018-11-09
+10701,True,38.0,0.17,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2025-05-25,2025-07-25
+10702,True,38.0,1.0,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2018-07-11,2019-07-11
+10703,False,25.0,0.47,False,Two or More Races,Superintendent,False,"St. Louis, MO",2026-01-10,
+10704,True,44.0,0.17,False,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2019-12-17,2020-02-16
+10705,False,36.0,3.99,True,White,Project Manager,False,"Phoenix, AZ",2022-07-03,
+10706,True,43.0,4.17,True,White,Project Manager,False,"Dallas, TX",2017-01-22,2021-03-24
+10707,True,27.0,2.17,True,White,Superintendent,False,"Dallas, TX",2021-12-15,2024-02-14
+10708,False,27.0,2.16,True,White,Project Manager,False,"St. Louis, MO",2024-05-04,
+10709,True,35.0,0.42,True,White,Superintendent,False,"Columbus, OH",2025-06-06,2025-11-05
+10710,False,33.0,2.02,True,White,Superintendent,False,"St. Louis, MO",2024-06-22,
+10711,False,40.0,0.49,True,White,Superintendent,False,"Chicago, IL",2026-01-03,
+10712,True,33.0,2.0,False,Hispanic or Latino,Superintendent,False,"Chicago, IL",2019-04-10,2021-04-10
+10713,True,42.0,0.42,True,White,Superintendent,False,"Chicago, IL",2025-11-29,2026-04-30
+10714,True,49.0,0.58,True,Asian,Project Manager,False,"Phoenix, AZ",2017-01-30,2017-08-31
+10715,False,39.0,2.55,True,White,Safety Manager,False,"St. Louis, MO",2023-12-11,
+10716,True,44.0,0.17,True,Black or African American,Safety Manager,False,"St. Louis, MO",2023-07-17,2023-09-16
+10717,False,37.0,2.51,False,White,Safety Manager,False,"St. Louis, MO",2023-12-28,
+10718,True,39.0,4.0,True,White,Project Manager,False,"St. Louis, MO",2020-08-28,2024-08-28
+10719,True,40.0,1.92,True,White,Superintendent,False,"St. Louis, MO",2020-11-23,2022-10-24
+10720,True,31.0,0.67,True,Two or More Races,Project Engineer,False,"Phoenix, AZ",2018-11-29,2019-07-31
+10721,True,39.0,0.33,False,Black or African American,Project Engineer,False,"Dallas, TX",2021-08-15,2021-12-15
+10722,False,53.0,11.15,True,White,Project Engineer,False,"Dallas, TX",2015-05-07,
+10723,True,25.0,1.58,True,White,Project Engineer,False,"Denver, CO",2022-11-05,2024-06-05
+10724,True,45.0,4.0,True,White,Project Engineer,False,"St. Louis, MO",2022-01-30,2026-01-30
+10725,True,33.0,1.92,True,White,Superintendent,False,"Chicago, IL",2022-04-11,2024-03-11
+10726,True,42.0,2.25,True,White,Project Engineer,False,"St. Louis, MO",2015-09-09,2017-12-09
+10727,False,36.0,0.7,True,White,Project Manager,False,"Atlanta, GA",2025-10-19,
+10728,False,38.0,1.47,False,White,Project Manager,True,"St. Louis, MO",2025-01-10,
+10729,False,49.0,2.01,False,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2024-06-26,
+10730,True,39.0,0.5,True,White,Safety Manager,False,"Denver, CO",2020-11-25,2021-05-27
+10731,False,52.0,2.35,False,White,Project Manager,False,"St. Louis, MO",2024-02-24,
+10732,False,39.0,4.15,True,Black or African American,Safety Manager,False,"Dallas, TX",2022-05-08,
+10733,True,49.0,2.83,True,White,Project Engineer,True,"Denver, CO",2016-01-21,2018-11-21
+10734,True,46.0,0.75,True,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2021-09-25,2022-06-26
+10735,True,30.0,0.17,True,White,Project Engineer,False,"Atlanta, GA",2025-11-22,2026-01-22
+10736,True,31.0,3.25,True,Hispanic or Latino,Project Manager,False,"Denver, CO",2020-12-19,2024-03-20
+10737,True,45.0,2.0,True,Hispanic or Latino,Superintendent,False,"Columbus, OH",2017-06-06,2019-06-07
+10738,False,46.0,5.48,True,White,Project Manager,False,"Atlanta, GA",2021-01-08,
+10739,False,49.0,6.53,True,White,Superintendent,False,"St. Louis, MO",2019-12-20,
+10740,False,40.0,7.72,True,Black or African American,Project Manager,False,"Chicago, IL",2018-10-13,
+10741,True,62.0,2.67,False,Asian,Superintendent,False,"Atlanta, GA",2015-01-30,2017-09-30
+10742,True,44.0,0.5,True,Hispanic or Latino,Project Manager,False,"Columbus, OH",2016-11-18,2017-05-20
+10743,True,38.0,0.42,True,White,Safety Manager,False,"Chicago, IL",2017-11-21,2018-04-22
+10744,True,55.0,0.33,True,Black or African American,Superintendent,True,"Denver, CO",2016-10-13,2017-02-12
+10745,True,55.0,3.67,True,Black or African American,Project Engineer,False,"Chicago, IL",2017-11-30,2021-07-31
+10746,True,37.0,3.67,True,White,Superintendent,False,"Columbus, OH",2016-11-28,2020-07-29
+10747,True,51.0,0.17,False,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2018-03-13,2018-05-13
+10748,True,33.0,5.0,True,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2017-04-10,2022-04-10
+10749,True,45.0,3.08,True,Hispanic or Latino,Safety Manager,False,"Phoenix, AZ",2017-12-21,2021-01-20
+10750,False,57.0,0.68,False,White,Superintendent,False,"Denver, CO",2025-10-25,
+10751,True,58.0,7.17,True,White,Project Manager,False,"Chicago, IL",2015-01-13,2022-03-15
+10752,False,42.0,0.2,False,White,Superintendent,False,"Atlanta, GA",2026-04-18,
+10753,True,49.0,4.17,True,White,Project Manager,False,"Dallas, TX",2019-07-14,2023-09-13
+10754,True,31.0,0.25,True,White,Project Manager,False,"Chicago, IL",2024-11-08,2025-02-07
+10755,True,46.0,3.33,True,White,Project Manager,False,"St. Louis, MO",2019-07-20,2022-11-19
+10756,True,51.0,4.33,True,Hispanic or Latino,Project Manager,False,"Chicago, IL",2015-06-14,2019-10-14
+10757,True,37.0,5.58,False,Black or African American,Project Manager,False,"Chicago, IL",2016-06-29,2022-01-28
+10758,False,42.0,3.92,True,White,Safety Manager,False,"Denver, CO",2022-07-31,
+10759,True,44.0,0.92,True,White,Project Engineer,False,"Phoenix, AZ",2023-05-18,2024-04-17
+10760,True,47.0,2.5,False,White,Project Manager,False,"Chicago, IL",2016-12-31,2019-07-02
+10761,True,51.0,4.08,True,White,Project Manager,False,"St. Louis, MO",2015-02-16,2019-03-19
+10762,True,41.0,4.25,True,White,Project Manager,False,"Chicago, IL",2019-05-14,2023-08-13
+10763,True,33.0,5.25,True,White,Project Engineer,False,"St. Louis, MO",2019-01-31,2024-05-02
+10764,True,47.0,0.25,True,White,Project Engineer,False,"St. Louis, MO",2016-07-28,2016-10-27
+10765,True,23.0,0.83,True,Asian,Safety Manager,False,"Atlanta, GA",2023-12-31,2024-10-30
+10766,False,31.0,1.17,True,White,Project Manager,False,"Atlanta, GA",2025-04-28,
+10767,True,57.0,4.17,True,Two or More Races,Project Engineer,False,"Chicago, IL",2015-05-11,2019-07-11
+10768,True,57.0,4.33,True,Black or African American,Project Manager,False,"St. Louis, MO",2021-03-08,2025-07-08
+10769,True,43.0,0.92,False,White,Project Engineer,False,"Atlanta, GA",2023-03-09,2024-02-07
+10770,True,27.0,0.58,False,White,Superintendent,False,"Dallas, TX",2020-02-22,2020-09-22
+10771,False,53.0,4.98,True,White,Project Manager,False,"Chicago, IL",2021-07-08,
+10772,True,44.0,1.75,True,White,Safety Manager,False,"Chicago, IL",2023-12-19,2025-09-18
+10773,False,36.0,0.56,True,Hispanic or Latino,Project Manager,True,"Atlanta, GA",2025-12-09,
+10774,False,44.0,0.65,True,White,Superintendent,False,"St. Louis, MO",2025-11-07,
+10775,False,42.0,1.2,True,White,Superintendent,False,"Atlanta, GA",2025-04-20,
+10776,True,32.0,2.25,True,White,Superintendent,False,"Dallas, TX",2020-07-15,2022-10-15
+10777,True,27.0,0.42,True,White,Superintendent,False,"Dallas, TX",2024-04-21,2024-09-20
+10778,True,57.0,3.25,True,White,Safety Manager,False,"St. Louis, MO",2015-04-29,2018-07-29
+10779,True,26.0,4.42,True,White,Project Manager,False,"Dallas, TX",2021-07-27,2025-12-26
+10780,False,43.0,1.39,False,Black or African American,Project Engineer,False,"St. Louis, MO",2025-02-10,
+10781,True,43.0,1.33,False,Two or More Races,Project Manager,False,"Atlanta, GA",2022-12-30,2024-04-30
+10782,True,53.0,5.33,True,White,Project Engineer,False,"Denver, CO",2018-05-13,2023-09-12
+10783,True,57.0,3.58,True,White,Superintendent,False,"Dallas, TX",2021-02-18,2024-09-19
+10784,True,56.0,7.08,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2019-04-30,2026-05-30
+10785,True,60.0,5.08,False,Hispanic or Latino,Safety Manager,False,"St. Louis, MO",2017-02-12,2022-03-15
+10786,True,54.0,1.42,False,Asian,Superintendent,False,"St. Louis, MO",2016-09-05,2018-02-04
+10787,True,43.0,1.17,True,Two or More Races,Project Manager,False,"Chicago, IL",2024-02-28,2025-04-29
+10788,True,57.0,1.58,True,Asian,Project Engineer,False,"St. Louis, MO",2015-08-03,2017-03-03
+10789,True,45.0,0.75,True,Black or African American,Superintendent,False,"Denver, CO",2018-09-22,2019-06-23
+10790,True,37.0,1.92,True,Asian,Project Engineer,False,"Denver, CO",2017-07-28,2019-06-28
+10791,True,43.0,1.17,False,White,Project Engineer,False,"Columbus, OH",2019-02-20,2020-04-21
+10792,False,25.0,3.18,False,White,Safety Manager,False,"St. Louis, MO",2023-04-26,
+10793,True,38.0,0.42,True,White,Superintendent,False,"Chicago, IL",2020-04-03,2020-09-02
+10794,True,58.0,1.0,True,Black or African American,Safety Manager,False,"Phoenix, AZ",2023-07-29,2024-07-28
+10795,False,41.0,0.27,True,White,Project Manager,False,"St. Louis, MO",2026-03-23,
+10796,True,39.0,0.42,False,White,Safety Manager,False,"Denver, CO",2022-03-21,2022-08-20
+10797,True,38.0,0.17,True,White,Project Manager,True,"St. Louis, MO",2019-09-20,2019-11-20
+10798,True,23.0,1.58,True,Hispanic or Latino,Project Manager,False,"Phoenix, AZ",2024-02-12,2025-09-12
+10799,True,33.0,0.67,True,White,Safety Manager,False,"Chicago, IL",2025-07-15,2026-03-16
+10800,False,31.0,0.76,True,White,Project Manager,False,"St. Louis, MO",2025-09-27,
+10801,True,46.0,0.17,True,White,Project Engineer,False,"Denver, CO",2017-10-14,2017-12-14
+10802,True,43.0,3.17,True,White,Superintendent,False,"St. Louis, MO",2020-12-15,2024-02-15
+10803,True,47.0,2.0,True,Asian,Project Manager,False,"St. Louis, MO",2015-02-26,2017-02-26
+10804,True,24.0,0.5,False,White,Superintendent,False,"St. Louis, MO",2023-03-19,2023-09-18
+10805,True,56.0,2.17,True,White,Project Engineer,False,"Denver, CO",2020-11-05,2023-01-05
+10806,True,47.0,0.08,True,White,Safety Manager,False,"Atlanta, GA",2019-09-02,2019-10-02
+10807,True,47.0,0.5,True,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2016-08-02,2017-02-01
+10808,False,39.0,5.36,True,Black or African American,Safety Manager,False,"Atlanta, GA",2021-02-19,
+10809,True,46.0,0.17,True,White,Superintendent,False,"Atlanta, GA",2020-11-17,2021-01-17
+10810,True,51.0,2.08,True,White,Superintendent,False,"Denver, CO",2023-02-10,2025-03-12
+10811,False,44.0,2.15,False,White,Superintendent,False,"Chicago, IL",2024-05-07,
+10812,True,28.0,0.58,True,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2024-02-23,2024-09-23
+10813,True,36.0,3.08,True,White,Project Manager,False,"Chicago, IL",2015-02-08,2018-03-10
+10814,True,26.0,3.83,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2021-03-18,2025-01-16
+10815,True,40.0,0.83,True,White,Project Engineer,False,"St. Louis, MO",2023-01-25,2023-11-25
+10816,True,52.0,4.25,False,Hispanic or Latino,Superintendent,False,"Phoenix, AZ",2017-05-22,2021-08-21
+10817,True,49.0,1.0,True,White,Superintendent,False,"St. Louis, MO",2024-04-04,2025-04-04
+10818,True,38.0,1.0,True,White,Superintendent,False,"Dallas, TX",2025-01-10,2026-01-10
+10819,True,51.0,0.17,True,White,Project Manager,False,"Columbus, OH",2019-05-23,2019-07-23
+10820,True,32.0,2.58,False,White,Project Manager,False,"St. Louis, MO",2022-11-03,2025-06-04
+10821,True,45.0,1.25,False,White,Safety Manager,False,"Denver, CO",2022-10-10,2024-01-10
+10822,True,45.0,0.25,True,White,Superintendent,False,"Chicago, IL",2016-07-14,2016-10-13
+10823,True,40.0,1.58,False,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2016-01-13,2017-08-13
+10824,True,31.0,0.67,True,White,Project Manager,False,"St. Louis, MO",2016-10-25,2017-06-26
+10825,True,53.0,5.17,True,White,Superintendent,False,"Columbus, OH",2019-04-27,2024-06-26
+10826,False,22.0,1.09,True,White,Project Manager,False,"St. Louis, MO",2025-05-29,
+10827,True,48.0,4.67,True,White,Project Engineer,False,"Columbus, OH",2020-11-18,2025-07-20
+10828,False,34.0,4.91,True,White,Safety Manager,True,"St. Louis, MO",2021-08-02,
+10829,True,46.0,2.0,True,White,Project Engineer,True,"Columbus, OH",2021-07-05,2023-07-06
+10830,True,41.0,0.08,True,White,Superintendent,False,"Columbus, OH",2016-02-22,2016-03-23
+10831,True,52.0,6.58,True,Black or African American,Superintendent,False,"St. Louis, MO",2017-02-27,2023-09-29
+10832,False,35.0,1.26,True,Hispanic or Latino,Superintendent,True,"Chicago, IL",2025-03-29,
+10833,True,38.0,1.25,True,Black or African American,Project Manager,False,"Chicago, IL",2015-05-19,2016-08-18
+10834,False,33.0,1.78,False,White,Project Engineer,False,"Chicago, IL",2024-09-18,
+10835,True,24.0,1.0,True,White,Superintendent,False,"Dallas, TX",2023-09-22,2024-09-21
+10836,True,41.0,0.33,False,Hispanic or Latino,Project Engineer,False,"Atlanta, GA",2023-11-27,2024-03-28
+10837,False,47.0,1.83,False,White,Project Engineer,False,"St. Louis, MO",2024-09-02,
+10838,False,49.0,8.57,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2017-12-03,
+10839,False,37.0,0.24,True,Black or African American,Project Manager,False,"Chicago, IL",2026-04-03,
+10840,True,56.0,0.25,True,Black or African American,Project Engineer,False,"St. Louis, MO",2018-01-23,2018-04-24
+10841,True,36.0,1.58,True,White,Project Manager,False,"Phoenix, AZ",2015-05-14,2016-12-12
+10842,False,42.0,1.24,True,White,Project Engineer,False,"Dallas, TX",2025-04-03,
+10843,True,37.0,0.83,True,Black or African American,Safety Manager,False,"Chicago, IL",2025-04-12,2026-02-10
+10844,True,36.0,0.58,True,White,Project Engineer,False,"Chicago, IL",2022-11-25,2023-06-26
+10845,True,50.0,0.58,True,White,Safety Manager,False,"Dallas, TX",2017-09-01,2018-04-02
+10846,True,36.0,4.5,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2016-06-11,2020-12-11
+10847,True,44.0,0.42,True,White,Safety Manager,False,"Chicago, IL",2017-11-11,2018-04-12
+10848,True,49.0,3.92,True,White,Project Manager,False,"Denver, CO",2016-09-23,2020-08-24
+10849,True,35.0,0.83,True,White,Safety Manager,False,"St. Louis, MO",2016-09-13,2017-07-14
+10850,True,42.0,3.58,True,White,Superintendent,False,"St. Louis, MO",2018-06-08,2022-01-07
+10851,True,49.0,1.92,False,White,Superintendent,False,"St. Louis, MO",2018-03-16,2020-02-14
+10852,True,53.0,0.75,True,White,Superintendent,False,"Atlanta, GA",2018-04-20,2019-01-19
+10853,False,28.0,1.4,True,White,Project Manager,False,"Phoenix, AZ",2025-02-04,
+10854,True,50.0,3.33,True,White,Superintendent,False,"Columbus, OH",2020-06-10,2023-10-11
+10855,True,40.0,0.33,True,Hispanic or Latino,Safety Manager,False,"St. Louis, MO",2019-12-03,2020-04-03
+10856,True,45.0,0.25,True,White,Safety Manager,False,"Denver, CO",2018-06-15,2018-09-14
+10857,True,36.0,1.5,True,White,Project Engineer,True,"Denver, CO",2021-10-10,2023-04-11
+10858,True,54.0,4.33,True,Hispanic or Latino,Project Manager,False,"Chicago, IL",2015-12-22,2020-04-22
+10859,True,36.0,0.83,True,Hispanic or Latino,Safety Manager,False,"St. Louis, MO",2020-09-06,2021-07-07
+10860,True,49.0,1.75,False,White,Project Manager,False,"St. Louis, MO",2016-04-04,2018-01-03
+10861,True,50.0,1.42,True,Two or More Races,Superintendent,False,"St. Louis, MO",2015-06-11,2016-11-09
+10862,True,52.0,0.92,True,Black or African American,Safety Manager,False,"Atlanta, GA",2017-05-15,2018-04-15
+10863,True,33.0,5.5,False,Hispanic or Latino,Superintendent,False,"Chicago, IL",2020-04-21,2025-10-21
+10864,True,50.0,0.75,False,Hispanic or Latino,Superintendent,False,"Denver, CO",2019-11-05,2020-08-05
+10865,True,40.0,3.33,True,White,Project Engineer,True,"Dallas, TX",2022-12-10,2026-04-11
+10866,False,58.0,8.9,False,White,Project Manager,False,"Atlanta, GA",2017-08-08,
+10867,True,33.0,0.08,True,White,Project Manager,False,"Atlanta, GA",2026-04-27,2026-05-27
+10868,True,33.0,0.58,True,White,Superintendent,False,"St. Louis, MO",2024-11-06,2025-06-07
+10869,True,41.0,4.75,True,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2020-12-10,2025-09-10
+10870,False,40.0,7.31,False,White,Project Engineer,False,"Chicago, IL",2019-03-09,
+10871,True,37.0,1.83,True,White,Project Engineer,True,"St. Louis, MO",2023-08-24,2025-06-24
+10872,True,30.0,2.17,False,White,Project Engineer,False,"St. Louis, MO",2021-05-17,2023-07-17
+10873,True,31.0,2.42,True,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2016-08-29,2019-01-29
+10874,True,29.0,6.25,False,White,Safety Manager,False,"Chicago, IL",2020-02-26,2026-05-28
+10875,False,32.0,1.02,True,Hispanic or Latino,Project Manager,True,"Chicago, IL",2025-06-25,
+10876,True,46.0,3.83,True,White,Project Manager,False,"Atlanta, GA",2020-08-19,2024-06-19
+10877,True,39.0,1.08,True,Hispanic or Latino,Project Engineer,True,"Phoenix, AZ",2020-07-03,2021-08-03
+10878,True,32.0,0.33,False,White,Project Engineer,False,"St. Louis, MO",2021-10-01,2022-01-31
+10879,True,43.0,5.83,True,Hispanic or Latino,Safety Manager,False,"St. Louis, MO",2018-09-28,2024-07-29
+10880,True,46.0,9.67,True,Two or More Races,Project Manager,True,"Atlanta, GA",2016-10-13,2026-06-14
+10881,False,60.0,0.49,False,White,Project Manager,False,"St. Louis, MO",2026-01-02,
+10882,True,56.0,1.25,False,White,Project Engineer,False,"St. Louis, MO",2017-03-23,2018-06-23
+10883,False,46.0,8.19,False,White,Project Engineer,False,"Dallas, TX",2018-04-22,
+10884,True,25.0,0.58,True,Hispanic or Latino,Safety Manager,False,"Dallas, TX",2024-11-07,2025-06-08
+10885,True,45.0,3.75,False,White,Safety Manager,False,"Dallas, TX",2015-09-24,2019-06-25
+10886,True,43.0,6.25,False,White,Superintendent,False,"Atlanta, GA",2016-05-13,2022-08-13
+10887,True,47.0,0.33,True,White,Project Manager,False,"Columbus, OH",2020-11-12,2021-03-14
+10888,True,64.0,0.08,True,White,Superintendent,False,"Columbus, OH",2017-08-01,2017-08-31
+10889,True,44.0,3.92,False,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2017-10-16,2021-09-16
+10890,True,30.0,0.17,True,Two or More Races,Superintendent,False,"Atlanta, GA",2017-08-25,2017-10-25
+10891,True,42.0,0.08,False,White,Project Engineer,False,"St. Louis, MO",2019-04-15,2019-05-15
+10892,True,28.0,3.83,True,Asian,Superintendent,False,"Dallas, TX",2019-12-12,2023-10-12
+10893,True,47.0,2.58,True,White,Project Manager,False,"Phoenix, AZ",2022-01-26,2024-08-27
+10894,False,50.0,4.49,True,Black or African American,Safety Manager,False,"Atlanta, GA",2022-01-02,
+10895,True,50.0,5.58,True,White,Project Engineer,False,"Dallas, TX",2015-01-10,2020-08-10
+10896,True,24.0,0.5,False,White,Superintendent,False,"Dallas, TX",2025-10-17,2026-04-18
+10897,False,38.0,3.7,False,Hispanic or Latino,Safety Manager,True,"Atlanta, GA",2022-10-20,
+10898,True,57.0,7.42,False,White,Project Engineer,False,"Chicago, IL",2016-01-01,2023-06-02
+10899,True,35.0,4.33,True,White,Project Manager,False,"St. Louis, MO",2018-10-17,2023-02-16
+10900,True,38.0,2.83,True,White,Project Manager,False,"Denver, CO",2019-09-02,2022-07-03
+10901,True,43.0,0.08,True,Black or African American,Superintendent,False,"Chicago, IL",2021-12-25,2022-01-24
+10902,True,49.0,0.5,True,White,Safety Manager,False,"Phoenix, AZ",2017-07-17,2018-01-16
+10903,True,45.0,0.75,True,White,Superintendent,False,"Chicago, IL",2018-03-16,2018-12-15
+10904,True,46.0,0.08,True,White,Superintendent,False,"St. Louis, MO",2019-06-02,2019-07-02
+10905,True,42.0,2.83,False,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2022-05-22,2025-03-22
+10906,True,38.0,0.5,True,Black or African American,Project Engineer,False,"Atlanta, GA",2019-10-02,2020-04-02
+10907,True,40.0,5.08,True,White,Project Manager,False,"Dallas, TX",2021-04-09,2026-05-10
+10908,False,41.0,2.31,False,White,Superintendent,False,"St. Louis, MO",2024-03-08,
+10909,True,34.0,2.42,False,White,Superintendent,False,"Phoenix, AZ",2018-07-18,2020-12-17
+10910,True,42.0,0.75,True,White,Superintendent,False,"Chicago, IL",2022-07-21,2023-04-21
+10911,True,46.0,4.08,False,White,Superintendent,False,"St. Louis, MO",2017-09-16,2021-10-17
+10912,False,40.0,0.16,False,White,Project Manager,False,"Atlanta, GA",2026-05-05,
+10913,True,50.0,3.0,True,White,Superintendent,False,"Chicago, IL",2015-08-11,2018-08-11
+10914,True,33.0,0.42,True,White,Project Manager,False,"Dallas, TX",2020-08-24,2021-01-23
+10915,True,30.0,1.0,True,White,Superintendent,False,"St. Louis, MO",2021-05-05,2022-05-05
+10916,True,47.0,0.25,True,Hispanic or Latino,Project Engineer,False,"Phoenix, AZ",2017-07-11,2017-10-10
+10917,True,45.0,2.42,True,White,Superintendent,False,"St. Louis, MO",2016-08-31,2019-01-31
+10918,True,41.0,0.33,True,White,Project Engineer,False,"Denver, CO",2022-07-16,2022-11-15
+10919,True,41.0,4.25,False,White,Project Manager,False,"St. Louis, MO",2016-05-25,2020-08-24
+10920,False,24.0,0.05,True,White,Superintendent,False,"Columbus, OH",2026-06-11,
+10921,False,41.0,2.87,True,White,Project Manager,False,"St. Louis, MO",2023-08-18,
+10922,True,44.0,1.42,False,Black or African American,Superintendent,False,"Dallas, TX",2017-08-13,2019-01-12
+10923,True,51.0,0.33,True,White,Safety Manager,False,"Atlanta, GA",2017-09-01,2018-01-01
+10924,True,50.0,0.17,False,White,Superintendent,False,"St. Louis, MO",2022-10-09,2022-12-09
+10925,False,47.0,0.97,True,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2025-07-10,
+10926,True,55.0,0.5,False,Asian,Safety Manager,False,"Dallas, TX",2016-11-18,2017-05-20
+10927,True,30.0,0.25,True,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2023-08-23,2023-11-22
+10928,True,32.0,1.33,False,Asian,Project Engineer,False,"Dallas, TX",2015-06-07,2016-10-06
+10929,False,32.0,2.05,True,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2024-06-11,
+10930,True,34.0,1.33,False,Black or African American,Superintendent,False,"Chicago, IL",2017-10-28,2019-02-27
+10931,False,27.0,2.74,False,Black or African American,Project Engineer,False,"St. Louis, MO",2023-10-06,
+10932,True,51.0,3.58,True,White,Project Manager,False,"Chicago, IL",2017-01-16,2020-08-17
+10933,True,30.0,0.25,True,White,Project Manager,False,"St. Louis, MO",2017-03-14,2017-06-13
+10934,True,48.0,3.08,True,White,Project Manager,False,"St. Louis, MO",2022-01-09,2025-02-08
+10935,True,49.0,2.08,True,White,Project Manager,False,"Chicago, IL",2023-01-02,2025-02-01
+10936,False,62.0,2.48,True,White,Project Engineer,False,"St. Louis, MO",2024-01-06,
+10937,True,54.0,3.75,False,Two or More Races,Superintendent,False,"St. Louis, MO",2017-05-11,2021-02-09
+10938,False,64.0,8.78,False,Black or African American,Safety Manager,False,"St. Louis, MO",2017-09-18,
+10939,True,30.0,0.08,True,White,Superintendent,False,"Denver, CO",2026-04-30,2026-05-30
+10940,True,36.0,3.58,True,White,Project Manager,False,"Chicago, IL",2020-09-10,2024-04-11
+10941,True,47.0,1.08,True,White,Project Engineer,False,"Chicago, IL",2024-11-19,2025-12-20
+10942,True,26.0,0.83,True,White,Superintendent,False,"St. Louis, MO",2024-11-19,2025-09-19
+10943,False,52.0,5.6,False,Hispanic or Latino,Project Engineer,True,"Chicago, IL",2020-11-25,
+10944,True,44.0,0.17,False,Black or African American,Superintendent,False,"Dallas, TX",2015-05-06,2015-07-06
+10945,True,31.0,0.75,True,White,Project Manager,False,"Dallas, TX",2016-11-24,2017-08-25
+10946,True,64.0,9.59,True,White,Project Manager,False,"Denver, CO",2015-07-24,2025-02-22
+10947,True,27.0,0.42,True,White,Safety Manager,False,"Columbus, OH",2025-01-08,2025-06-09
+10948,False,59.0,0.67,True,White,Superintendent,False,"Denver, CO",2025-10-29,
+10949,True,28.0,1.0,True,White,Superintendent,False,"St. Louis, MO",2021-06-17,2022-06-17
+10950,False,28.0,0.08,False,Asian,Project Manager,False,"Chicago, IL",2026-06-02,
+10951,True,39.0,0.42,False,White,Superintendent,False,"Denver, CO",2025-12-13,2026-05-14
+10952,True,45.0,0.92,True,White,Project Manager,False,"Atlanta, GA",2017-06-26,2018-05-27
+10953,True,28.0,1.33,True,White,Superintendent,False,"St. Louis, MO",2020-09-11,2022-01-11
+10954,False,38.0,0.53,False,White,Project Manager,False,"Columbus, OH",2025-12-20,
+10955,True,41.0,1.5,True,White,Project Manager,False,"Chicago, IL",2023-02-20,2024-08-21
+10956,False,42.0,2.13,True,Two or More Races,Safety Manager,False,"Atlanta, GA",2024-05-15,
+10957,False,24.0,3.22,True,Black or African American,Superintendent,False,"St. Louis, MO",2023-04-12,
+10958,True,37.0,4.25,True,White,Safety Manager,False,"Chicago, IL",2019-06-04,2023-09-03
+10959,True,40.0,3.17,False,Black or African American,Project Engineer,True,"Chicago, IL",2021-09-07,2024-11-07
+10960,True,49.0,3.0,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2020-07-23,2023-07-24
+10961,True,41.0,1.17,True,White,Superintendent,False,"St. Louis, MO",2022-07-22,2023-09-21
+10962,True,35.0,0.83,False,Hispanic or Latino,Project Manager,False,"Chicago, IL",2024-09-23,2025-07-24
+10963,False,36.0,4.26,False,White,Project Manager,False,"St. Louis, MO",2022-03-27,
+10964,True,57.0,1.92,False,White,Project Engineer,False,"Phoenix, AZ",2018-05-12,2020-04-11
+10965,True,38.0,0.33,True,Asian,Project Manager,False,"St. Louis, MO",2017-09-22,2018-01-22
+10966,False,42.0,3.35,True,White,Project Manager,True,"Phoenix, AZ",2023-02-24,
+10967,True,30.0,0.25,True,White,Superintendent,False,"Dallas, TX",2017-09-30,2017-12-30
+10968,False,54.0,2.75,False,Black or African American,Superintendent,False,"Denver, CO",2023-09-29,
+10969,True,48.0,0.92,True,White,Superintendent,False,"Chicago, IL",2018-04-23,2019-03-24
+10970,True,32.0,2.92,True,White,Safety Manager,False,"Chicago, IL",2015-11-28,2018-10-28
+10971,True,50.0,6.17,False,White,Project Manager,False,"Atlanta, GA",2017-09-12,2023-11-13
+10972,False,51.0,2.88,True,White,Superintendent,False,"Denver, CO",2023-08-14,
+10973,True,49.0,2.0,True,White,Project Engineer,False,"Phoenix, AZ",2020-06-06,2022-06-07
+10974,True,45.0,0.5,True,White,Superintendent,False,"St. Louis, MO",2018-09-27,2019-03-29
+10975,False,47.0,2.83,False,Black or African American,Project Engineer,False,"Atlanta, GA",2023-09-03,
+10976,True,36.0,5.83,False,White,Safety Manager,False,"St. Louis, MO",2019-07-05,2025-05-05
+10977,True,40.0,0.25,True,Hispanic or Latino,Superintendent,False,"Denver, CO",2020-06-29,2020-09-28
+10978,True,38.0,0.5,True,White,Superintendent,False,"Columbus, OH",2021-11-20,2022-05-22
+10979,True,46.0,4.84,True,Black or African American,Superintendent,False,"Chicago, IL",2017-08-07,2022-06-08
+10980,True,29.0,0.17,False,White,Superintendent,False,"Dallas, TX",2024-09-17,2024-11-17
+10981,True,57.0,3.25,True,White,Safety Manager,False,"St. Louis, MO",2017-06-08,2020-09-07
+10982,True,40.0,4.42,True,White,Superintendent,False,"Chicago, IL",2021-02-23,2025-07-25
+10983,True,35.0,3.75,True,White,Project Manager,False,"Phoenix, AZ",2017-08-01,2021-05-02
+10984,True,42.0,1.75,True,White,Superintendent,False,"Atlanta, GA",2018-08-21,2020-05-21
+10985,True,49.0,7.08,True,White,Superintendent,False,"Chicago, IL",2016-11-22,2023-12-23
+10986,True,38.0,1.42,True,White,Safety Manager,False,"Chicago, IL",2024-12-10,2026-05-11
+10987,True,48.0,2.0,True,White,Project Engineer,False,"Chicago, IL",2024-05-25,2026-05-26
+10988,True,42.0,4.5,True,Black or African American,Superintendent,False,"Denver, CO",2017-02-09,2021-08-11
+10989,True,30.0,0.33,True,White,Project Manager,False,"Phoenix, AZ",2025-01-14,2025-05-16
+10990,False,47.0,6.88,False,White,Project Manager,True,"St. Louis, MO",2019-08-13,
+10991,False,50.0,2.84,True,White,Project Engineer,False,"Columbus, OH",2023-08-30,
+10992,True,32.0,1.92,True,White,Project Manager,False,"Chicago, IL",2021-09-13,2023-08-14
+10993,True,28.0,0.33,True,Two or More Races,Superintendent,False,"Dallas, TX",2020-05-23,2020-09-22
+10994,True,38.0,0.08,False,White,Project Manager,False,"St. Louis, MO",2018-05-06,2018-06-05
+10995,True,38.0,0.25,True,Black or African American,Superintendent,False,"St. Louis, MO",2023-08-18,2023-11-17
+10996,True,35.0,5.17,True,White,Project Manager,False,"Dallas, TX",2018-04-04,2023-06-04
+10997,False,41.0,3.98,False,White,Project Manager,False,"Columbus, OH",2022-07-09,
+10998,True,37.0,0.08,True,White,Superintendent,False,"Phoenix, AZ",2017-03-12,2017-04-11
+10999,True,52.0,2.42,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2018-05-25,2020-10-24
+11000,True,32.0,3.75,True,Hispanic or Latino,Safety Manager,False,"Chicago, IL",2019-08-29,2023-05-30
+11001,True,39.0,5.33,True,Black or African American,Superintendent,False,"Phoenix, AZ",2015-02-07,2020-06-08
+11002,True,43.0,2.92,False,Asian,Superintendent,False,"Dallas, TX",2020-08-15,2023-07-16
+11003,False,45.0,2.68,True,White,Project Engineer,True,"Chicago, IL",2023-10-27,
+11004,True,46.0,0.92,False,White,Superintendent,False,"Phoenix, AZ",2024-07-15,2025-06-15
+11005,True,32.0,0.75,True,Black or African American,Safety Manager,False,"Chicago, IL",2024-09-29,2025-06-30
+11006,True,41.0,0.5,True,White,Project Manager,False,"Phoenix, AZ",2021-09-11,2022-03-13
+11007,True,52.0,0.92,True,White,Superintendent,False,"Phoenix, AZ",2015-10-17,2016-09-16
+11008,True,56.0,2.75,False,White,Superintendent,True,"Columbus, OH",2019-03-09,2021-12-08
+11009,True,38.0,0.83,True,White,Safety Manager,False,"Dallas, TX",2016-06-02,2017-04-02
+11010,False,29.0,4.12,True,White,Superintendent,False,"Atlanta, GA",2022-05-17,
+11011,True,46.0,2.92,False,White,Project Engineer,False,"St. Louis, MO",2020-11-19,2023-10-20
+11012,True,34.0,0.08,True,Two or More Races,Superintendent,False,"Chicago, IL",2026-01-15,2026-02-14
+11013,True,57.0,5.58,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2017-02-04,2022-09-05
+11014,False,37.0,1.15,True,White,Superintendent,False,"Phoenix, AZ",2025-05-06,
+11015,True,50.0,1.42,True,White,Project Manager,False,"St. Louis, MO",2015-10-28,2017-03-28
+11016,True,37.0,0.92,False,Two or More Races,Project Manager,False,"Denver, CO",2018-12-11,2019-11-11
+11017,True,44.0,1.0,True,White,Superintendent,False,"Chicago, IL",2020-12-08,2021-12-08
+11018,True,57.0,1.92,False,White,Superintendent,False,"Phoenix, AZ",2016-08-05,2018-07-06
+11019,True,44.0,2.0,True,White,Superintendent,False,"Phoenix, AZ",2016-05-17,2018-05-18
+11020,False,26.0,1.37,True,Black or African American,Project Engineer,False,"Chicago, IL",2025-02-15,
+11021,True,55.0,7.67,True,White,Safety Manager,False,"Phoenix, AZ",2015-07-25,2023-03-25
+11022,True,37.0,1.5,True,Black or African American,Project Engineer,False,"Atlanta, GA",2022-04-02,2023-10-02
+11023,True,40.0,2.67,False,White,Superintendent,True,"Phoenix, AZ",2022-08-14,2025-04-14
+11024,True,33.0,0.83,True,Asian,Project Manager,False,"Denver, CO",2022-06-22,2023-04-22
+11025,True,53.0,4.92,True,Hispanic or Latino,Project Engineer,False,"Phoenix, AZ",2017-11-10,2022-10-11
+11026,True,40.0,1.75,True,White,Project Manager,False,"Chicago, IL",2015-07-23,2017-04-22
+11027,True,35.0,0.25,True,Black or African American,Superintendent,False,"St. Louis, MO",2022-12-02,2023-03-03
+11028,True,44.0,2.17,False,White,Safety Manager,False,"Atlanta, GA",2018-08-18,2020-10-17
+11029,True,37.0,0.17,True,White,Project Engineer,False,"Columbus, OH",2023-11-07,2024-01-07
+11030,True,22.0,1.25,True,White,Project Manager,False,"St. Louis, MO",2025-02-24,2026-05-27
+11031,False,41.0,1.02,True,White,Superintendent,False,"Chicago, IL",2025-06-22,
+11032,True,34.0,0.75,True,White,Project Manager,False,"Denver, CO",2017-01-06,2017-10-07
+11033,True,45.0,2.0,False,White,Project Engineer,False,"Phoenix, AZ",2019-07-22,2021-07-22
+11034,True,40.0,0.33,True,White,Project Manager,False,"Chicago, IL",2018-11-12,2019-03-14
+11035,False,36.0,1.34,True,Black or African American,Project Manager,False,"Chicago, IL",2025-02-27,
+11036,True,32.0,0.17,True,Black or African American,Superintendent,False,"Atlanta, GA",2023-05-23,2023-07-23
+11037,True,27.0,0.75,False,Asian,Project Manager,False,"Chicago, IL",2025-02-24,2025-11-25
+11038,True,41.0,0.33,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2022-07-27,2022-11-26
+11039,True,49.0,0.75,False,Hispanic or Latino,Safety Manager,False,"Atlanta, GA",2015-02-24,2015-11-25
+11040,False,49.0,4.23,False,Hispanic or Latino,Project Manager,False,"Chicago, IL",2022-04-08,
+11041,True,45.0,2.08,True,White,Project Manager,False,"St. Louis, MO",2022-03-16,2024-04-15
+11042,True,34.0,1.08,True,White,Superintendent,False,"Chicago, IL",2021-10-09,2022-11-09
+11043,True,52.0,3.92,True,Black or African American,Project Engineer,False,"Atlanta, GA",2020-09-01,2024-08-02
+11044,False,58.0,1.65,False,White,Superintendent,False,"Denver, CO",2024-11-05,
+11045,True,46.0,0.25,True,White,Superintendent,False,"St. Louis, MO",2022-02-17,2022-05-19
+11046,True,41.0,0.25,True,White,Project Manager,False,"Phoenix, AZ",2019-09-30,2019-12-30
+11047,False,33.0,6.27,True,Hispanic or Latino,Project Engineer,False,"Dallas, TX",2020-03-25,
+11048,True,47.0,1.17,True,White,Safety Manager,False,"Chicago, IL",2016-08-20,2017-10-20
+11049,True,33.0,0.83,True,White,Superintendent,False,"St. Louis, MO",2016-08-26,2017-06-26
+11050,False,44.0,0.58,True,Black or African American,Project Engineer,False,"Chicago, IL",2025-12-01,
+11051,True,36.0,0.17,True,White,Project Engineer,False,"St. Louis, MO",2022-08-29,2022-10-29
+11052,True,39.0,0.67,True,White,Superintendent,False,"Chicago, IL",2018-10-17,2019-06-18
+11053,False,38.0,0.17,True,White,Superintendent,False,"St. Louis, MO",2026-05-01,
+11054,True,31.0,2.0,True,Asian,Safety Manager,False,"St. Louis, MO",2020-06-21,2022-06-22
+11055,True,29.0,0.92,True,White,Superintendent,False,"Columbus, OH",2018-07-17,2019-06-17
+11056,True,38.0,1.0,False,White,Safety Manager,False,"Columbus, OH",2020-11-02,2021-11-02
+11057,False,48.0,1.04,True,Hispanic or Latino,Safety Manager,False,"St. Louis, MO",2025-06-17,
+11058,True,32.0,0.92,True,White,Superintendent,False,"St. Louis, MO",2022-12-21,2023-11-21
+11059,True,52.0,5.67,True,White,Project Manager,False,"Chicago, IL",2018-12-01,2024-08-01
+11060,True,25.0,2.08,True,White,Project Engineer,False,"St. Louis, MO",2022-10-23,2024-11-22
+11061,True,42.0,2.0,True,White,Superintendent,False,"St. Louis, MO",2019-01-02,2021-01-02
+11062,True,44.0,1.08,True,White,Project Manager,False,"Phoenix, AZ",2022-03-06,2023-04-06
+11063,False,63.0,10.81,False,Black or African American,Project Manager,False,"St. Louis, MO",2015-09-09,
+11064,True,27.0,5.0,False,White,Superintendent,False,"Columbus, OH",2020-08-21,2025-08-21
+11065,False,36.0,1.33,True,Two or More Races,Superintendent,False,"Chicago, IL",2025-03-01,
+11066,True,29.0,0.5,False,Black or African American,Project Manager,False,"Phoenix, AZ",2025-07-30,2026-01-29
+11067,True,43.0,2.67,True,Black or African American,Superintendent,False,"Phoenix, AZ",2021-02-01,2023-10-03
+11068,True,41.0,2.5,True,White,Project Manager,False,"Chicago, IL",2016-12-04,2019-06-05
+11069,False,38.0,1.11,True,Black or African American,Project Manager,False,"Chicago, IL",2025-05-22,
+11070,True,37.0,1.08,True,White,Superintendent,False,"Denver, CO",2018-04-06,2019-05-07
+11071,True,37.0,0.17,True,White,Project Manager,False,"Chicago, IL",2020-04-05,2020-06-05
+11072,True,49.0,5.25,True,Hispanic or Latino,Superintendent,False,"Denver, CO",2016-06-19,2021-09-19
+11073,False,54.0,4.62,True,White,Superintendent,False,"Dallas, TX",2021-11-16,
+11074,False,43.0,5.03,False,White,Safety Manager,False,"Chicago, IL",2021-06-19,
+11075,True,44.0,3.0,False,Asian,Project Manager,True,"St. Louis, MO",2019-05-29,2022-05-29
+11076,True,43.0,0.33,False,White,Project Engineer,False,"Dallas, TX",2015-01-31,2015-06-02
+11077,True,51.0,0.33,True,White,Project Engineer,False,"Dallas, TX",2025-05-02,2025-09-01
+11078,True,26.0,3.25,True,White,Superintendent,False,"St. Louis, MO",2021-11-26,2025-02-25
+11079,True,29.0,0.92,True,White,Project Manager,False,"Chicago, IL",2018-02-16,2019-01-17
+11080,False,29.0,0.23,True,White,Project Manager,False,"Chicago, IL",2026-04-09,
+11081,True,47.0,0.25,False,White,Superintendent,False,"Columbus, OH",2019-11-20,2020-02-19
+11082,False,46.0,1.62,True,White,Project Manager,False,"St. Louis, MO",2024-11-18,
+11083,True,47.0,2.67,True,White,Project Manager,False,"St. Louis, MO",2020-11-05,2023-07-07
+11084,False,45.0,2.75,True,Asian,Superintendent,False,"Chicago, IL",2023-10-02,
+11085,False,39.0,2.47,False,White,Project Manager,False,"Atlanta, GA",2024-01-10,
+11086,True,37.0,0.17,True,Two or More Races,Project Engineer,False,"Phoenix, AZ",2020-12-25,2021-02-24
+11087,True,33.0,1.67,False,Hispanic or Latino,Superintendent,False,"Columbus, OH",2019-07-21,2021-03-21
+11088,True,44.0,0.5,False,White,Superintendent,False,"St. Louis, MO",2022-04-29,2022-10-29
+11089,False,32.0,5.25,False,Asian,Superintendent,False,"Chicago, IL",2021-04-01,
+11090,True,46.0,5.5,True,White,Project Manager,False,"St. Louis, MO",2019-02-20,2024-08-21
+11091,True,49.0,3.08,True,White,Safety Manager,False,"Chicago, IL",2019-01-24,2022-02-23
+11092,True,32.0,1.67,True,Asian,Superintendent,False,"Denver, CO",2024-06-20,2026-02-19
+11093,True,38.0,1.42,True,Black or African American,Superintendent,False,"St. Louis, MO",2020-04-02,2021-09-01
+11094,False,33.0,1.52,True,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2024-12-21,
+11095,True,51.0,0.42,False,White,Project Engineer,False,"Phoenix, AZ",2017-02-09,2017-07-11
+11096,True,44.0,3.67,True,White,Superintendent,False,"Denver, CO",2019-04-04,2022-12-03
+11097,True,34.0,0.83,True,White,Project Manager,False,"Denver, CO",2022-09-17,2023-07-18
+11098,False,39.0,1.08,True,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2025-06-01,
+11099,True,57.0,4.75,True,White,Superintendent,False,"St. Louis, MO",2018-02-13,2022-11-14
+11100,True,41.0,0.83,False,Hispanic or Latino,Project Manager,False,"Denver, CO",2023-02-22,2023-12-23
+11101,True,42.0,0.75,True,White,Project Engineer,False,"Chicago, IL",2021-01-23,2021-10-24
+11102,True,33.0,0.25,True,White,Project Manager,False,"Phoenix, AZ",2025-09-25,2025-12-25
+11103,True,34.0,0.33,True,Two or More Races,Superintendent,False,"St. Louis, MO",2019-08-07,2019-12-07
+11104,True,46.0,0.75,True,White,Project Manager,False,"Atlanta, GA",2016-03-08,2016-12-07
+11105,True,45.0,3.5,True,Asian,Project Manager,False,"Chicago, IL",2017-01-24,2020-07-25
+11106,True,39.0,0.25,True,Asian,Superintendent,True,"Chicago, IL",2020-10-05,2021-01-04
+11107,False,49.0,2.94,True,White,Project Manager,False,"Chicago, IL",2023-07-22,
+11108,True,37.0,0.25,False,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2023-05-16,2023-08-15
+11109,False,35.0,1.19,True,Black or African American,Project Manager,False,"St. Louis, MO",2025-04-22,
+11110,True,47.0,1.5,True,White,Safety Manager,False,"Denver, CO",2016-12-18,2018-06-19
+11111,False,46.0,5.71,True,Hispanic or Latino,Project Engineer,False,"Phoenix, AZ",2020-10-13,
+11112,True,28.0,4.42,False,Black or African American,Project Engineer,False,"St. Louis, MO",2019-08-15,2024-01-14
+11113,False,41.0,3.16,True,Asian,Superintendent,False,"Chicago, IL",2023-05-02,
+11114,False,49.0,1.73,True,Black or African American,Superintendent,False,"Phoenix, AZ",2024-10-08,
+11115,True,32.0,1.08,True,White,Superintendent,False,"Atlanta, GA",2020-05-06,2021-06-06
+11116,False,40.0,0.97,True,White,Superintendent,False,"Chicago, IL",2025-07-12,
+11117,True,41.0,0.42,True,White,Project Engineer,False,"Denver, CO",2016-09-28,2017-02-27
+11118,False,37.0,10.15,True,White,Safety Manager,False,"St. Louis, MO",2016-05-07,
+11119,False,39.0,1.02,True,White,Project Manager,True,"St. Louis, MO",2025-06-24,
+11120,False,36.0,0.53,False,White,Safety Manager,False,"Atlanta, GA",2025-12-18,
+11121,True,29.0,1.42,True,Hispanic or Latino,Project Manager,True,"Denver, CO",2018-06-13,2019-11-12
+11122,False,30.0,0.01,True,White,Project Manager,False,"Columbus, OH",2026-06-27,
+11123,True,48.0,0.92,False,Hispanic or Latino,Project Manager,True,"Phoenix, AZ",2021-06-25,2022-05-26
+11124,False,33.0,2.2,True,Two or More Races,Superintendent,False,"St. Louis, MO",2024-04-20,
+11125,True,35.0,1.42,False,White,Project Manager,False,"St. Louis, MO",2020-09-14,2022-02-13
+11126,True,37.0,2.08,True,White,Superintendent,True,"St. Louis, MO",2021-07-22,2023-08-22
+11127,False,33.0,0.58,False,Hispanic or Latino,Superintendent,False,"Chicago, IL",2025-12-02,
+11128,True,47.0,0.25,True,Asian,Project Manager,False,"St. Louis, MO",2021-09-17,2021-12-17
+11129,True,33.0,0.33,True,Black or African American,Project Manager,False,"Atlanta, GA",2021-06-11,2021-10-11
+11130,False,25.0,0.31,False,White,Project Manager,False,"Dallas, TX",2026-03-08,
+11131,True,42.0,1.0,True,Hispanic or Latino,Project Manager,False,"Chicago, IL",2024-10-14,2025-10-14
+11132,True,53.0,3.25,True,White,Superintendent,False,"Chicago, IL",2018-08-21,2021-11-20
+11133,False,50.0,8.36,True,White,Safety Manager,False,"St. Louis, MO",2018-02-20,
+11134,False,43.0,0.16,False,White,Project Engineer,False,"Chicago, IL",2026-05-04,
+11135,True,37.0,2.83,False,White,Safety Manager,False,"Atlanta, GA",2019-09-11,2022-07-12
+11136,True,28.0,0.25,True,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2021-09-19,2021-12-19
+11137,True,31.0,0.17,True,White,Project Manager,False,"St. Louis, MO",2025-08-12,2025-10-12
+11138,True,47.0,1.0,False,Asian,Project Manager,False,"St. Louis, MO",2015-02-07,2016-02-07
+11139,True,29.0,4.17,False,Asian,Project Engineer,False,"Atlanta, GA",2018-03-26,2022-05-26
+11140,True,40.0,4.17,False,Hispanic or Latino,Superintendent,False,"Chicago, IL",2019-09-09,2023-11-09
+11141,False,42.0,0.54,True,White,Project Engineer,False,"Chicago, IL",2025-12-17,
+11142,True,38.0,3.5,True,Asian,Superintendent,False,"St. Louis, MO",2018-11-10,2022-05-11
+11143,True,56.0,0.83,True,Hispanic or Latino,Safety Manager,False,"Phoenix, AZ",2024-04-14,2025-02-12
+11144,True,47.0,0.17,False,White,Safety Manager,False,"Chicago, IL",2022-03-23,2022-05-23
+11145,True,36.0,3.33,True,Asian,Superintendent,False,"Denver, CO",2015-04-03,2018-08-03
+11146,False,26.0,0.41,True,Asian,Project Manager,False,"Phoenix, AZ",2026-02-02,
+11147,True,37.0,1.33,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2019-11-22,2021-03-23
+11148,True,52.0,7.0,False,White,Safety Manager,False,"Chicago, IL",2016-05-06,2023-05-07
+11149,True,46.0,1.92,True,White,Project Engineer,False,"Denver, CO",2020-09-08,2022-08-09
+11150,True,38.0,0.33,True,White,Project Manager,False,"St. Louis, MO",2019-06-29,2019-10-29
+11151,True,41.0,0.5,True,White,Superintendent,False,"Atlanta, GA",2022-12-05,2023-06-06
+11152,True,47.0,0.92,True,White,Project Manager,False,"Dallas, TX",2022-12-18,2023-11-18
+11153,True,48.0,1.0,False,White,Project Engineer,True,"St. Louis, MO",2018-09-18,2019-09-18
+11154,True,23.0,0.42,True,White,Project Manager,False,"Phoenix, AZ",2025-10-27,2026-03-28
+11155,True,29.0,0.75,True,White,Project Manager,False,"Atlanta, GA",2023-12-21,2024-09-20
+11156,True,29.0,0.33,False,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2025-06-07,2025-10-07
+11157,False,22.0,1.2,True,White,Project Manager,True,"St. Louis, MO",2025-04-18,
+11158,False,43.0,0.47,True,White,Safety Manager,False,"Atlanta, GA",2026-01-11,
+11159,True,33.0,0.42,True,White,Superintendent,False,"Phoenix, AZ",2023-01-08,2023-06-09
+11160,True,39.0,0.42,True,White,Superintendent,False,"Dallas, TX",2017-10-08,2018-03-09
+11161,True,39.0,1.0,True,White,Superintendent,False,"Columbus, OH",2015-05-09,2016-05-08
+11162,False,45.0,6.17,True,White,Project Engineer,True,"Dallas, TX",2020-04-29,
+11163,True,43.0,2.0,True,White,Project Manager,False,"Chicago, IL",2024-02-19,2026-02-19
+11164,True,48.0,3.25,True,White,Superintendent,False,"Phoenix, AZ",2020-05-29,2023-08-29
+11165,False,54.0,7.03,True,White,Project Manager,False,"St. Louis, MO",2019-06-21,
+11166,True,32.0,0.08,False,White,Project Engineer,False,"Columbus, OH",2022-08-22,2022-09-21
+11167,True,61.0,2.33,True,White,Superintendent,False,"Chicago, IL",2015-09-07,2018-01-06
+11168,True,68.0,6.92,False,White,Project Manager,False,"St. Louis, MO",2016-12-17,2023-11-18
+11169,True,33.0,1.17,True,Hispanic or Latino,Safety Manager,False,"Atlanta, GA",2024-12-03,2026-02-02
+11170,True,42.0,0.5,True,White,Project Engineer,False,"Chicago, IL",2017-12-27,2018-06-28
+11171,True,43.0,1.67,False,White,Project Manager,False,"Chicago, IL",2024-04-17,2025-12-17
+11172,True,50.0,1.58,False,White,Superintendent,True,"Dallas, TX",2023-03-20,2024-10-18
+11173,True,40.0,0.83,True,Hispanic or Latino,Project Engineer,False,"Atlanta, GA",2019-05-26,2020-03-25
+11174,False,30.0,1.21,True,White,Project Engineer,False,"St. Louis, MO",2025-04-14,
+11175,True,63.0,3.83,False,Hispanic or Latino,Project Manager,False,"Dallas, TX",2017-12-19,2021-10-19
+11176,True,34.0,0.92,True,White,Project Engineer,False,"Atlanta, GA",2023-05-24,2024-04-23
+11177,False,21.0,0.11,True,Asian,Project Manager,False,"Chicago, IL",2026-05-21,
+11178,True,51.0,7.75,True,Black or African American,Project Engineer,False,"Atlanta, GA",2016-02-25,2023-11-26
+11179,False,46.0,0.97,True,White,Superintendent,False,"Denver, CO",2025-07-13,
+11180,True,54.0,2.33,True,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2023-03-04,2025-07-03
+11181,False,60.0,7.57,False,White,Project Manager,True,"Phoenix, AZ",2018-12-06,
+11182,True,71.0,7.67,True,White,Project Engineer,False,"Columbus, OH",2015-02-03,2022-10-04
+11183,False,31.0,0.25,True,White,Project Manager,False,"St. Louis, MO",2026-04-01,
+11184,True,37.0,1.42,True,Black or African American,Superintendent,False,"Chicago, IL",2016-05-26,2017-10-25
+11185,False,26.0,2.87,True,White,Project Manager,False,"Atlanta, GA",2023-08-17,
+11186,True,60.0,6.58,True,White,Superintendent,False,"Denver, CO",2017-07-10,2024-02-09
+11187,True,34.0,0.17,True,White,Superintendent,False,"Chicago, IL",2024-07-20,2024-09-19
+11188,True,31.0,0.33,True,White,Project Engineer,False,"Phoenix, AZ",2016-10-19,2017-02-18
+11189,True,30.0,0.42,True,White,Safety Manager,False,"St. Louis, MO",2017-10-07,2018-03-08
+11190,True,46.0,0.17,True,White,Project Manager,False,"St. Louis, MO",2017-02-18,2017-04-20
+11191,True,38.0,0.92,False,Two or More Races,Project Manager,False,"Columbus, OH",2020-07-31,2021-07-01
+11192,True,44.0,2.08,False,Hispanic or Latino,Project Manager,False,"Phoenix, AZ",2021-03-29,2023-04-29
+11193,True,32.0,0.33,True,White,Project Engineer,False,"St. Louis, MO",2022-05-11,2022-09-10
+11194,False,29.0,0.04,True,Black or African American,Project Manager,False,"Atlanta, GA",2026-06-15,
+11195,False,41.0,1.27,True,White,Project Manager,False,"St. Louis, MO",2025-03-24,
+11196,True,42.0,1.92,True,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2018-05-27,2020-04-26
+11197,True,52.0,9.42,True,Two or More Races,Project Manager,False,"Columbus, OH",2015-03-29,2024-08-28
+11198,True,40.0,2.42,True,Hispanic or Latino,Safety Manager,False,"Columbus, OH",2021-08-23,2024-01-23
+11199,False,34.0,1.39,False,Black or African American,Superintendent,False,"Chicago, IL",2025-02-10,
+11200,True,49.0,3.42,True,White,Project Engineer,False,"Atlanta, GA",2016-02-24,2019-07-26
+11201,True,38.0,1.42,True,Asian,Project Engineer,False,"Atlanta, GA",2021-11-22,2023-04-23
+11202,True,45.0,0.33,True,Two or More Races,Project Manager,False,"Chicago, IL",2019-12-23,2020-04-23
+11203,True,51.0,5.17,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2015-12-30,2021-02-28
+11204,True,38.0,0.83,True,White,Project Manager,False,"Chicago, IL",2019-04-16,2020-02-14
+11205,True,44.0,2.67,True,Black or African American,Superintendent,False,"St. Louis, MO",2017-01-06,2019-09-07
+11206,False,40.0,2.79,False,White,Superintendent,False,"Chicago, IL",2023-09-16,
+11207,True,52.0,4.67,True,White,Superintendent,False,"Atlanta, GA",2016-11-02,2021-07-04
+11208,True,40.0,1.08,True,White,Superintendent,False,"Chicago, IL",2024-07-14,2025-08-14
+11209,True,42.0,1.08,True,Hispanic or Latino,Project Manager,False,"Phoenix, AZ",2022-02-08,2023-03-11
+11210,False,43.0,3.13,False,White,Project Manager,False,"Columbus, OH",2023-05-13,
+11211,True,41.0,3.83,True,White,Project Manager,False,"Chicago, IL",2018-11-09,2022-09-09
+11212,True,47.0,1.75,False,Two or More Races,Superintendent,False,"St. Louis, MO",2018-10-30,2020-07-30
+11213,True,34.0,0.42,True,White,Superintendent,False,"Denver, CO",2021-06-16,2021-11-15
+11214,True,25.0,1.5,False,White,Superintendent,False,"St. Louis, MO",2022-05-29,2023-11-28
+11215,True,51.0,2.17,True,Asian,Project Manager,False,"Chicago, IL",2015-05-08,2017-07-07
+11216,True,30.0,4.25,True,White,Project Engineer,False,"Chicago, IL",2017-06-13,2021-09-12
+11217,False,36.0,0.53,False,Two or More Races,Project Engineer,False,"St. Louis, MO",2025-12-20,
+11218,True,51.0,0.92,True,Black or African American,Project Manager,False,"Columbus, OH",2025-02-20,2026-01-21
+11219,True,53.0,1.17,True,White,Superintendent,False,"St. Louis, MO",2015-08-19,2016-10-18
+11220,True,30.0,1.08,True,White,Superintendent,False,"Chicago, IL",2023-05-26,2024-06-25
+11221,True,44.0,1.0,True,White,Superintendent,False,"St. Louis, MO",2024-09-22,2025-09-22
+11222,False,39.0,1.14,True,White,Project Manager,False,"St. Louis, MO",2025-05-10,
+11223,True,36.0,1.08,True,White,Safety Manager,False,"Chicago, IL",2018-05-21,2019-06-21
+11224,True,39.0,0.08,False,White,Superintendent,False,"Dallas, TX",2022-09-01,2022-10-01
+11225,True,37.0,2.75,False,Black or African American,Project Engineer,False,"St. Louis, MO",2020-12-06,2023-09-07
+11226,True,40.0,0.17,True,White,Superintendent,False,"Denver, CO",2019-06-24,2019-08-24
+11227,True,44.0,0.67,True,White,Project Engineer,False,"St. Louis, MO",2021-09-09,2022-05-11
+11228,True,26.0,3.5,True,White,Superintendent,False,"St. Louis, MO",2022-04-12,2025-10-11
+11229,True,54.0,4.5,False,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2015-02-27,2019-08-29
+11230,True,58.0,2.75,True,Black or African American,Superintendent,False,"St. Louis, MO",2022-09-12,2025-06-13
+11231,True,43.0,0.17,True,White,Project Manager,False,"Columbus, OH",2017-07-08,2017-09-07
+11232,False,28.0,0.67,False,White,Project Manager,False,"Denver, CO",2025-10-30,
+11233,False,37.0,5.37,False,White,Superintendent,False,"St. Louis, MO",2021-02-17,
+11234,False,48.0,1.09,True,White,Superintendent,False,"Columbus, OH",2025-05-28,
+11235,True,40.0,1.0,True,Asian,Superintendent,False,"Atlanta, GA",2017-02-25,2018-02-25
+11236,True,45.0,4.17,True,Hispanic or Latino,Safety Manager,False,"Chicago, IL",2021-03-22,2025-05-22
+11237,False,62.0,6.26,True,Asian,Superintendent,False,"Atlanta, GA",2020-03-28,
+11238,True,39.0,3.58,False,White,Superintendent,False,"Atlanta, GA",2016-05-28,2019-12-28
+11239,True,40.0,2.42,True,White,Project Engineer,False,"Chicago, IL",2023-12-26,2026-05-27
+11240,True,35.0,2.0,True,White,Project Engineer,False,"Chicago, IL",2022-07-12,2024-07-12
+11241,False,44.0,10.64,True,Two or More Races,Superintendent,False,"Denver, CO",2015-11-10,
+11242,True,41.0,0.5,True,White,Project Manager,False,"St. Louis, MO",2022-02-20,2022-08-22
+11243,False,30.0,1.16,True,White,Superintendent,False,"Chicago, IL",2025-05-03,
+11244,False,41.0,1.45,True,Hispanic or Latino,Project Engineer,True,"Columbus, OH",2025-01-19,
+11245,True,48.0,10.08,True,Hispanic or Latino,Superintendent,True,"Dallas, TX",2016-05-22,2026-06-22
+11246,False,47.0,1.36,True,White,Superintendent,False,"St. Louis, MO",2025-02-21,
+11247,True,48.0,5.0,True,White,Superintendent,False,"Atlanta, GA",2020-05-18,2025-05-18
+11248,True,46.0,3.92,True,White,Safety Manager,False,"Atlanta, GA",2019-11-25,2023-10-26
+11249,True,57.0,4.84,False,White,Project Engineer,False,"Phoenix, AZ",2017-12-31,2022-11-01
+11250,True,44.0,0.25,True,White,Project Manager,False,"Denver, CO",2016-07-19,2016-10-18
+11251,False,43.0,0.77,True,White,Superintendent,False,"Phoenix, AZ",2025-09-23,
+11252,True,35.0,0.5,True,White,Superintendent,False,"Chicago, IL",2021-07-21,2022-01-20
+11253,True,54.0,5.0,True,White,Superintendent,False,"St. Louis, MO",2021-04-02,2026-04-02
+11254,False,31.0,0.6,False,White,Project Manager,False,"St. Louis, MO",2025-11-25,
+11255,True,55.0,1.5,True,White,Superintendent,False,"St. Louis, MO",2016-12-24,2018-06-25
+11256,True,37.0,0.75,True,White,Superintendent,True,"Chicago, IL",2019-12-29,2020-09-28
+11257,False,38.0,0.19,True,White,Project Engineer,False,"Columbus, OH",2026-04-22,
+11258,False,31.0,3.69,True,White,Safety Manager,False,"Chicago, IL",2022-10-24,
+11259,True,39.0,5.58,True,White,Superintendent,False,"Atlanta, GA",2016-09-07,2022-04-08
+11260,True,34.0,0.08,False,White,Project Manager,False,"Atlanta, GA",2020-05-28,2020-06-27
+11261,True,46.0,4.42,True,White,Safety Manager,False,"St. Louis, MO",2020-03-07,2024-08-06
+11262,True,41.0,0.08,False,White,Superintendent,False,"St. Louis, MO",2026-01-19,2026-02-18
+11263,True,52.0,5.42,True,Two or More Races,Project Manager,False,"St. Louis, MO",2017-03-17,2022-08-17
+11264,True,45.0,2.58,True,White,Project Manager,False,"St. Louis, MO",2021-09-05,2024-04-06
+11265,True,39.0,1.0,False,White,Project Manager,False,"Phoenix, AZ",2022-02-04,2023-02-04
+11266,True,50.0,0.17,True,White,Project Engineer,False,"Dallas, TX",2019-11-12,2020-01-12
+11267,False,59.0,8.55,False,Asian,Superintendent,False,"Chicago, IL",2017-12-11,
+11268,True,42.0,0.17,False,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2017-12-15,2018-02-14
+11269,True,41.0,2.5,True,White,Superintendent,False,"Dallas, TX",2015-04-24,2017-10-23
+11270,True,53.0,0.83,True,White,Superintendent,False,"Dallas, TX",2015-01-13,2015-11-13
+11271,False,59.0,3.81,True,Hispanic or Latino,Project Manager,False,"Chicago, IL",2022-09-08,
+11272,True,46.0,2.58,True,White,Safety Manager,False,"Denver, CO",2016-02-13,2018-09-14
+11273,True,41.0,1.17,True,Hispanic or Latino,Project Manager,False,"Chicago, IL",2019-03-24,2020-05-23
+11274,True,33.0,0.08,True,White,Superintendent,False,"St. Louis, MO",2021-05-06,2021-06-05
+11275,True,37.0,3.17,True,White,Project Manager,False,"Columbus, OH",2019-12-11,2023-02-10
+11276,True,32.0,2.42,False,White,Project Manager,False,"Phoenix, AZ",2022-01-03,2024-06-04
+11277,True,39.0,0.67,True,White,Safety Manager,False,"Dallas, TX",2015-12-01,2016-08-01
+11278,False,50.0,4.44,True,White,Superintendent,False,"St. Louis, MO",2022-01-23,
+11279,False,59.0,10.52,True,White,Superintendent,False,"Dallas, TX",2015-12-23,
+11280,True,41.0,1.83,True,White,Safety Manager,False,"Denver, CO",2023-04-11,2025-02-09
+11281,True,49.0,3.17,True,Black or African American,Superintendent,False,"St. Louis, MO",2015-09-24,2018-11-24
+11282,True,52.0,5.0,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2018-12-22,2023-12-22
+11283,True,43.0,1.25,True,White,Project Engineer,False,"Chicago, IL",2020-12-21,2022-03-23
+11284,True,49.0,1.92,True,White,Superintendent,False,"Chicago, IL",2015-08-12,2017-07-12
+11285,False,43.0,0.7,True,White,Project Manager,False,"Chicago, IL",2025-10-17,
+11286,False,40.0,3.05,False,White,Project Manager,False,"Columbus, OH",2023-06-13,
+11287,False,50.0,0.73,True,White,Project Manager,False,"Denver, CO",2025-10-09,
+11288,True,70.0,1.67,True,White,Superintendent,False,"St. Louis, MO",2016-03-02,2017-11-01
+11289,False,41.0,4.41,True,White,Project Manager,False,"Dallas, TX",2022-02-01,
+11290,False,45.0,4.63,True,White,Project Manager,False,"Atlanta, GA",2021-11-13,
+11291,True,32.0,0.58,True,Black or African American,Project Manager,False,"Denver, CO",2024-07-22,2025-02-20
+11292,True,36.0,1.92,True,Black or African American,Superintendent,False,"St. Louis, MO",2023-02-15,2025-01-15
+11293,True,42.0,0.08,True,White,Superintendent,False,"St. Louis, MO",2022-03-08,2022-04-07
+11294,False,43.0,2.14,False,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2024-05-12,
+11295,True,42.0,2.67,False,White,Project Manager,False,"Chicago, IL",2019-04-30,2021-12-29
+11296,True,35.0,6.17,True,White,Superintendent,True,"Dallas, TX",2018-08-19,2024-10-19
+11297,True,51.0,3.33,True,White,Safety Manager,False,"St. Louis, MO",2016-10-03,2020-02-03
+11298,False,32.0,0.05,True,White,Superintendent,False,"St. Louis, MO",2026-06-13,
+11299,True,46.0,3.92,True,White,Project Manager,False,"St. Louis, MO",2021-12-23,2025-11-23
+11300,True,38.0,0.08,False,Hispanic or Latino,Safety Manager,True,"Chicago, IL",2023-08-27,2023-09-26
+11301,False,37.0,1.2,True,White,Superintendent,False,"Phoenix, AZ",2025-04-20,
+11302,True,45.0,2.67,True,White,Project Manager,False,"Phoenix, AZ",2018-09-19,2021-05-20
+11303,True,29.0,6.08,True,White,Project Manager,False,"Chicago, IL",2018-07-12,2024-08-11
+11304,True,56.0,2.25,True,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2018-08-06,2020-11-05
+11305,False,30.0,0.88,False,White,Superintendent,False,"Chicago, IL",2025-08-14,
+11306,True,46.0,2.75,True,White,Superintendent,False,"Chicago, IL",2019-12-31,2022-10-01
+11307,True,53.0,5.92,True,Black or African American,Project Manager,False,"Chicago, IL",2015-08-19,2021-07-19
+11308,True,38.0,1.92,True,White,Superintendent,False,"Denver, CO",2020-03-28,2022-02-26
+11309,True,29.0,0.83,True,White,Superintendent,False,"St. Louis, MO",2022-04-28,2023-02-26
+11310,True,44.0,0.33,True,White,Superintendent,False,"Chicago, IL",2024-10-06,2025-02-05
+11311,True,34.0,3.42,False,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2021-04-14,2024-09-13
+11312,False,42.0,5.76,True,White,Project Manager,True,"Dallas, TX",2020-09-26,
+11313,True,46.0,4.42,False,Hispanic or Latino,Superintendent,False,"Chicago, IL",2021-06-24,2025-11-23
+11314,True,35.0,0.5,True,Hispanic or Latino,Safety Manager,False,"St. Louis, MO",2024-11-24,2025-05-26
+11315,True,30.0,3.42,False,White,Project Engineer,False,"Dallas, TX",2018-11-30,2022-05-01
+11316,True,38.0,2.25,True,White,Superintendent,True,"St. Louis, MO",2019-06-06,2021-09-05
+11317,False,46.0,4.12,True,Black or African American,Superintendent,True,"Chicago, IL",2022-05-18,
+11318,True,31.0,0.17,False,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2025-06-20,2025-08-20
+11319,True,55.0,0.75,True,White,Superintendent,False,"Phoenix, AZ",2016-02-07,2016-11-07
+11320,True,31.0,5.83,True,Black or African American,Project Manager,False,"Phoenix, AZ",2018-08-06,2024-06-06
+11321,True,31.0,0.33,True,White,Superintendent,False,"Atlanta, GA",2023-10-06,2024-02-05
+11322,True,31.0,0.17,True,Black or African American,Project Manager,False,"St. Louis, MO",2016-11-30,2017-01-30
+11323,True,34.0,3.67,True,Hispanic or Latino,Project Manager,False,"Columbus, OH",2020-11-28,2024-07-29
+11324,True,53.0,1.33,False,White,Superintendent,False,"Dallas, TX",2023-06-16,2024-10-15
+11325,False,44.0,2.35,True,White,Safety Manager,False,"St. Louis, MO",2024-02-24,
+11326,False,39.0,5.37,True,White,Safety Manager,False,"Atlanta, GA",2021-02-17,
+11327,True,41.0,0.08,False,White,Superintendent,False,"Dallas, TX",2016-05-12,2016-06-11
+11328,True,54.0,2.67,False,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2019-11-01,2022-07-02
+11329,True,47.0,1.08,True,Hispanic or Latino,Safety Manager,False,"Denver, CO",2015-12-08,2017-01-07
+11330,True,37.0,1.08,True,White,Superintendent,False,"St. Louis, MO",2017-06-19,2018-07-20
+11331,True,54.0,0.67,True,Hispanic or Latino,Superintendent,False,"Columbus, OH",2022-07-07,2023-03-08
+11332,True,33.0,0.25,False,White,Superintendent,False,"Atlanta, GA",2018-12-26,2019-03-27
+11333,True,43.0,0.17,True,White,Superintendent,False,"Dallas, TX",2021-07-20,2021-09-19
+11334,True,47.0,2.0,True,White,Superintendent,False,"Chicago, IL",2021-03-08,2023-03-09
+11335,True,54.0,7.42,True,White,Safety Manager,False,"Phoenix, AZ",2017-12-18,2025-05-19
+11336,True,65.0,4.58,False,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2015-10-07,2020-05-07
+11337,True,52.0,0.25,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2018-06-11,2018-09-10
+11338,True,31.0,0.42,True,Hispanic or Latino,Safety Manager,False,"Chicago, IL",2025-07-08,2025-12-07
+11339,False,50.0,2.93,True,Asian,Superintendent,False,"Dallas, TX",2023-07-27,
+11340,True,49.0,0.75,True,Two or More Races,Project Engineer,False,"Dallas, TX",2016-05-01,2017-01-30
+11341,True,27.0,0.5,True,White,Superintendent,False,"St. Louis, MO",2024-07-27,2025-01-26
+11342,False,27.0,0.16,True,White,Project Manager,False,"Denver, CO",2026-05-03,
+11343,True,38.0,2.75,False,White,Project Engineer,False,"St. Louis, MO",2017-01-30,2019-11-01
+11344,True,27.0,0.33,True,White,Superintendent,False,"Columbus, OH",2020-03-17,2020-07-17
+11345,True,50.0,2.75,False,White,Superintendent,False,"St. Louis, MO",2016-08-16,2019-05-18
+11346,True,52.0,2.75,True,White,Project Engineer,False,"Columbus, OH",2015-01-01,2017-10-02
+11347,True,46.0,0.92,False,White,Safety Manager,False,"Chicago, IL",2021-10-28,2022-09-28
+11348,True,34.0,2.08,True,Two or More Races,Safety Manager,False,"Phoenix, AZ",2021-05-04,2023-06-04
+11349,True,39.0,0.58,False,White,Safety Manager,False,"St. Louis, MO",2023-01-05,2023-08-06
+11350,True,55.0,4.92,True,White,Superintendent,False,"St. Louis, MO",2018-12-15,2023-11-15
+11351,False,42.0,2.22,False,White,Project Manager,False,"St. Louis, MO",2024-04-10,
+11352,True,44.0,1.42,True,White,Project Engineer,False,"Atlanta, GA",2017-05-07,2018-10-06
+11353,False,33.0,2.95,False,White,Project Engineer,False,"Columbus, OH",2023-07-20,
+11354,True,45.0,1.83,True,White,Superintendent,False,"Dallas, TX",2017-11-17,2019-09-18
+11355,True,52.0,2.67,True,White,Project Manager,False,"Atlanta, GA",2022-07-19,2025-03-19
+11356,True,40.0,2.42,True,Hispanic or Latino,Project Manager,False,"Chicago, IL",2022-06-26,2024-11-25
+11357,True,63.0,0.08,True,White,Superintendent,False,"Chicago, IL",2020-02-17,2020-03-18
+11358,False,63.0,5.44,False,White,Safety Manager,True,"Denver, CO",2021-01-20,
+11359,False,44.0,1.45,True,Black or African American,Safety Manager,False,"Atlanta, GA",2025-01-19,
+11360,True,29.0,2.33,False,Asian,Project Engineer,False,"Denver, CO",2019-10-18,2022-02-16
+11361,False,35.0,1.31,True,Asian,Superintendent,False,"St. Louis, MO",2025-03-10,
+11362,True,54.0,0.67,True,Two or More Races,Project Engineer,False,"Dallas, TX",2020-09-13,2021-05-15
+11363,False,32.0,1.37,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2025-02-15,
+11364,True,36.0,1.33,True,Hispanic or Latino,Project Engineer,False,"Phoenix, AZ",2020-08-22,2021-12-22
+11365,True,44.0,0.25,True,Asian,Superintendent,False,"Chicago, IL",2018-07-28,2018-10-27
+11366,True,64.0,0.33,False,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2022-11-07,2023-03-09
+11367,True,42.0,0.25,True,White,Project Engineer,False,"Atlanta, GA",2016-01-23,2016-04-23
+11368,True,30.0,6.75,True,White,Project Engineer,False,"St. Louis, MO",2017-12-24,2024-09-24
+11369,True,45.0,1.83,True,White,Project Manager,False,"St. Louis, MO",2020-09-23,2022-07-25
+11370,True,49.0,0.25,False,Black or African American,Project Manager,False,"St. Louis, MO",2017-09-18,2017-12-18
+11371,False,49.0,6.0,False,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2020-07-02,
+11372,True,42.0,0.42,True,Black or African American,Project Engineer,False,"Columbus, OH",2021-03-12,2021-08-11
+11373,True,50.0,2.25,True,Asian,Project Manager,False,"St. Louis, MO",2015-03-02,2017-06-01
+11374,True,37.0,1.67,True,White,Superintendent,False,"St. Louis, MO",2021-06-15,2023-02-14
+11375,True,51.0,0.75,True,Asian,Project Manager,False,"Denver, CO",2020-07-13,2021-04-13
+11376,True,43.0,2.58,True,White,Superintendent,True,"Phoenix, AZ",2019-10-04,2022-05-05
+11377,True,52.0,3.42,True,White,Project Engineer,False,"Denver, CO",2015-06-11,2018-11-10
+11378,True,38.0,8.42,True,White,Project Manager,True,"Phoenix, AZ",2017-12-18,2026-05-19
+11379,True,59.0,2.67,True,White,Project Manager,False,"St. Louis, MO",2016-07-05,2019-03-06
+11380,True,39.0,0.17,False,White,Superintendent,False,"Denver, CO",2025-05-13,2025-07-13
+11381,True,37.0,0.67,True,White,Project Engineer,False,"Atlanta, GA",2021-02-10,2021-10-12
+11382,False,38.0,1.37,True,Black or African American,Superintendent,False,"Atlanta, GA",2025-02-14,
+11383,False,33.0,6.98,True,Asian,Superintendent,False,"Chicago, IL",2019-07-10,
+11384,False,31.0,0.22,True,White,Superintendent,False,"Atlanta, GA",2026-04-12,
+11385,False,48.0,3.75,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2022-10-02,
+11386,False,45.0,2.54,True,Two or More Races,Superintendent,False,"Denver, CO",2023-12-17,
+11387,False,44.0,0.29,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2026-03-16,
+11388,False,45.0,2.51,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2023-12-27,
+11389,True,39.0,0.75,True,White,Superintendent,False,"Dallas, TX",2021-06-09,2022-03-10
+11390,True,42.0,2.75,True,White,Project Manager,False,"Atlanta, GA",2021-05-15,2024-02-14
+11391,True,64.0,2.92,True,Asian,Project Engineer,False,"Chicago, IL",2015-06-01,2018-05-01
+11392,True,44.0,1.67,True,Black or African American,Project Manager,False,"St. Louis, MO",2017-08-16,2019-04-17
+11393,False,26.0,3.98,True,White,Project Manager,False,"Atlanta, GA",2022-07-10,
+11394,True,41.0,1.42,True,Black or African American,Project Manager,False,"Dallas, TX",2021-02-22,2022-07-24
+11395,True,41.0,2.92,True,Hispanic or Latino,Project Engineer,False,"Dallas, TX",2017-07-19,2020-06-18
+11396,True,44.0,6.08,True,White,Superintendent,False,"Dallas, TX",2017-11-21,2023-12-22
+11397,True,41.0,0.92,False,Hispanic or Latino,Superintendent,False,"Columbus, OH",2021-07-23,2022-06-23
+11398,True,31.0,1.5,True,Hispanic or Latino,Superintendent,False,"Columbus, OH",2022-10-15,2024-04-15
+11399,True,46.0,2.5,False,White,Project Manager,False,"St. Louis, MO",2020-03-08,2022-09-07
+11400,True,42.0,1.67,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2018-03-22,2019-11-21
+11401,False,42.0,1.19,True,White,Superintendent,False,"Columbus, OH",2025-04-24,
+11402,True,38.0,0.5,True,Hispanic or Latino,Project Manager,False,"Dallas, TX",2018-08-31,2019-03-02
+11403,True,34.0,3.5,False,White,Project Manager,False,"St. Louis, MO",2019-08-12,2023-02-10
+11404,True,43.0,2.58,True,White,Project Manager,False,"St. Louis, MO",2015-09-21,2018-04-22
+11405,False,51.0,0.16,True,Hispanic or Latino,Superintendent,True,"St. Louis, MO",2026-05-04,
+11406,True,25.0,1.83,True,White,Project Engineer,False,"St. Louis, MO",2022-11-01,2024-09-01
+11407,True,51.0,3.42,True,White,Safety Manager,False,"Atlanta, GA",2021-08-17,2025-01-16
+11408,True,45.0,3.25,True,White,Project Manager,False,"Dallas, TX",2016-11-10,2020-02-10
+11409,True,57.0,3.67,True,White,Project Engineer,False,"Atlanta, GA",2015-01-24,2018-09-24
+11410,True,41.0,8.17,True,White,Project Manager,False,"Phoenix, AZ",2017-06-01,2025-08-01
+11411,False,41.0,2.09,True,Asian,Superintendent,False,"Dallas, TX",2024-05-27,
+11412,True,47.0,7.5,True,White,Superintendent,False,"Chicago, IL",2018-12-17,2026-06-18
+11413,False,59.0,3.87,True,White,Project Manager,False,"Chicago, IL",2022-08-19,
+11414,True,40.0,4.0,True,Asian,Superintendent,False,"Denver, CO",2020-08-21,2024-08-21
+11415,False,41.0,2.74,False,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2023-10-04,
+11416,True,40.0,2.0,True,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2015-11-12,2017-11-12
+11417,False,39.0,0.64,False,Black or African American,Project Manager,False,"Atlanta, GA",2025-11-08,
+11418,True,32.0,1.67,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2023-08-30,2025-04-30
+11419,True,43.0,1.17,True,Black or African American,Project Manager,False,"Dallas, TX",2017-02-26,2018-04-28
+11420,False,40.0,1.3,True,Asian,Project Engineer,False,"Dallas, TX",2025-03-13,
+11421,False,41.0,0.41,True,Black or African American,Superintendent,False,"Atlanta, GA",2026-01-31,
+11422,True,32.0,1.33,False,White,Project Manager,False,"Dallas, TX",2021-10-14,2023-02-13
+11423,True,39.0,3.67,True,Asian,Superintendent,False,"St. Louis, MO",2015-06-17,2019-02-15
+11424,True,55.0,0.42,False,White,Project Manager,False,"Chicago, IL",2017-10-12,2018-03-13
+11425,True,41.0,0.92,True,Hispanic or Latino,Superintendent,True,"St. Louis, MO",2016-07-20,2017-06-20
+11426,True,37.0,0.42,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2026-01-14,2026-06-15
+11427,True,37.0,3.17,True,White,Project Engineer,False,"Phoenix, AZ",2022-11-30,2026-01-30
+11428,True,32.0,0.75,True,White,Superintendent,False,"Chicago, IL",2015-06-11,2016-03-11
+11429,True,41.0,4.84,True,White,Project Manager,False,"Chicago, IL",2019-12-31,2024-10-31
+11430,True,44.0,0.25,False,White,Superintendent,False,"St. Louis, MO",2016-06-15,2016-09-14
+11431,True,61.0,2.67,False,White,Safety Manager,False,"Denver, CO",2016-10-17,2019-06-18
+11432,True,29.0,0.25,False,White,Safety Manager,False,"Chicago, IL",2018-09-09,2018-12-09
+11433,True,36.0,1.83,True,Hispanic or Latino,Superintendent,False,"Dallas, TX",2021-06-23,2023-04-24
+11434,True,48.0,2.83,True,White,Safety Manager,False,"St. Louis, MO",2019-10-11,2022-08-11
+11435,True,34.0,1.17,True,White,Superintendent,False,"Chicago, IL",2023-01-15,2024-03-16
+11436,True,32.0,0.75,True,Asian,Project Manager,False,"Phoenix, AZ",2015-01-31,2015-11-01
+11437,True,47.0,0.58,True,White,Project Engineer,False,"Dallas, TX",2020-10-07,2021-05-08
+11438,True,44.0,0.83,False,Two or More Races,Superintendent,False,"Chicago, IL",2019-07-06,2020-05-05
+11439,True,37.0,1.0,True,White,Superintendent,False,"St. Louis, MO",2017-03-09,2018-03-09
+11440,True,32.0,0.17,True,Hispanic or Latino,Superintendent,False,"Denver, CO",2021-06-06,2021-08-06
+11441,True,38.0,2.67,True,White,Superintendent,False,"Chicago, IL",2017-05-27,2020-01-26
+11442,False,38.0,1.42,True,White,Project Manager,False,"St. Louis, MO",2025-01-29,
+11443,True,44.0,1.5,True,Hispanic or Latino,Project Manager,False,"Columbus, OH",2016-04-05,2017-10-05
+11444,False,31.0,0.51,True,White,Project Engineer,True,"Atlanta, GA",2025-12-28,
+11445,False,44.0,4.55,True,Black or African American,Safety Manager,False,"Phoenix, AZ",2021-12-11,
+11446,True,54.0,2.92,False,White,Project Manager,False,"Phoenix, AZ",2017-04-09,2020-03-09
+11447,True,32.0,0.75,False,White,Safety Manager,False,"Dallas, TX",2024-05-23,2025-02-21
+11448,True,56.0,0.08,True,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2019-08-01,2019-08-31
+11449,True,41.0,0.08,False,Two or More Races,Project Engineer,False,"St. Louis, MO",2021-05-07,2021-06-06
+11450,True,42.0,0.42,True,Black or African American,Project Engineer,False,"St. Louis, MO",2025-09-27,2026-02-26
+11451,False,42.0,3.11,False,Hispanic or Latino,Project Manager,False,"Dallas, TX",2023-05-21,
+11452,True,47.0,1.5,True,White,Project Engineer,False,"St. Louis, MO",2019-01-15,2020-07-16
+11453,True,42.0,0.25,False,White,Project Engineer,False,"Chicago, IL",2021-05-31,2021-08-30
+11454,True,32.0,0.17,False,White,Project Engineer,False,"Phoenix, AZ",2015-04-04,2015-06-04
+11455,False,27.0,0.37,False,Black or African American,Project Engineer,False,"St. Louis, MO",2026-02-17,
+11456,False,43.0,0.18,True,White,Project Manager,True,"Chicago, IL",2026-04-25,
+11457,True,27.0,0.17,True,Hispanic or Latino,Safety Manager,False,"Dallas, TX",2025-03-27,2025-05-27
+11458,True,42.0,1.33,False,White,Superintendent,False,"Denver, CO",2020-10-23,2022-02-22
+11459,True,31.0,0.17,False,Asian,Project Manager,False,"St. Louis, MO",2016-10-28,2016-12-28
+11460,True,35.0,0.25,True,White,Project Engineer,False,"Chicago, IL",2021-12-01,2022-03-02
+11461,False,60.0,10.76,True,Black or African American,Safety Manager,False,"Atlanta, GA",2015-09-27,
+11462,True,39.0,1.67,True,White,Superintendent,False,"Chicago, IL",2024-10-18,2026-06-19
+11463,True,37.0,3.0,False,White,Superintendent,False,"Dallas, TX",2016-10-20,2019-10-21
+11464,True,36.0,0.92,True,White,Project Engineer,True,"Chicago, IL",2019-05-27,2020-04-26
+11465,True,31.0,2.08,False,White,Superintendent,False,"Columbus, OH",2016-06-11,2018-07-12
+11466,False,40.0,0.81,False,White,Superintendent,False,"St. Louis, MO",2025-09-07,
+11467,True,43.0,0.33,True,Black or African American,Superintendent,False,"St. Louis, MO",2016-01-22,2016-05-23
+11468,True,48.0,1.5,False,White,Project Engineer,False,"Dallas, TX",2020-04-08,2021-10-08
+11469,True,52.0,1.33,True,White,Safety Manager,False,"Atlanta, GA",2016-04-07,2017-08-07
+11470,True,41.0,0.58,True,White,Superintendent,False,"Dallas, TX",2017-07-17,2018-02-15
+11471,True,37.0,0.17,True,White,Project Manager,False,"Chicago, IL",2015-08-11,2015-10-11
+11472,True,32.0,0.67,False,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2018-02-22,2018-10-24
+11473,True,39.0,1.92,True,Asian,Superintendent,False,"Chicago, IL",2018-08-03,2020-07-03
+11474,True,44.0,1.58,False,White,Project Engineer,False,"Chicago, IL",2017-07-08,2019-02-06
+11475,True,53.0,0.08,True,White,Project Engineer,False,"Dallas, TX",2020-11-03,2020-12-03
+11476,True,34.0,3.83,True,Hispanic or Latino,Project Manager,False,"Dallas, TX",2018-05-01,2022-03-01
+11477,False,45.0,5.74,True,White,Safety Manager,False,"Chicago, IL",2020-10-04,
+11478,False,26.0,0.59,True,White,Project Manager,False,"Atlanta, GA",2025-11-27,
+11479,True,41.0,2.58,True,Hispanic or Latino,Project Manager,False,"Phoenix, AZ",2015-05-13,2017-12-12
+11480,True,52.0,1.75,False,White,Project Manager,False,"Denver, CO",2016-01-22,2017-10-22
+11481,False,45.0,6.09,True,Black or African American,Project Manager,False,"St. Louis, MO",2020-05-27,
+11482,True,36.0,0.17,True,White,Safety Manager,False,"St. Louis, MO",2020-03-10,2020-05-10
+11483,True,39.0,1.25,False,White,Superintendent,False,"St. Louis, MO",2016-12-09,2018-03-11
+11484,True,56.0,0.75,True,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2015-04-18,2016-01-17
+11485,True,34.0,0.33,False,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2025-11-30,2026-04-01
+11486,False,32.0,0.34,True,Asian,Superintendent,False,"Chicago, IL",2026-02-27,
+11487,True,34.0,1.25,False,Black or African American,Superintendent,False,"Atlanta, GA",2017-12-28,2019-03-30
+11488,False,59.0,1.71,False,Black or African American,Superintendent,False,"Columbus, OH",2024-10-13,
+11489,False,51.0,0.22,True,White,Superintendent,False,"St. Louis, MO",2026-04-11,
+11490,True,49.0,0.42,True,White,Superintendent,False,"Dallas, TX",2016-12-08,2017-05-09
+11491,True,58.0,0.42,True,White,Superintendent,False,"Chicago, IL",2023-01-04,2023-06-05
+11492,True,47.0,0.33,False,White,Project Engineer,False,"St. Louis, MO",2018-04-15,2018-08-15
+11493,True,40.0,1.67,True,White,Superintendent,True,"Denver, CO",2018-01-03,2019-09-04
+11494,True,46.0,1.67,False,Hispanic or Latino,Safety Manager,False,"Phoenix, AZ",2020-03-10,2021-11-09
+11495,True,53.0,0.75,True,Black or African American,Project Manager,False,"St. Louis, MO",2021-11-09,2022-08-10
+11496,True,36.0,4.58,True,White,Safety Manager,True,"St. Louis, MO",2015-07-01,2020-01-30
+11497,True,53.0,0.83,True,White,Superintendent,False,"St. Louis, MO",2019-04-25,2020-02-23
+11498,True,54.0,6.17,True,White,Project Manager,False,"Chicago, IL",2018-06-13,2024-08-13
+11499,True,60.0,2.5,True,White,Superintendent,False,"Columbus, OH",2015-03-16,2017-09-14
+11500,False,41.0,1.15,True,White,Superintendent,False,"Atlanta, GA",2025-05-08,
+11501,False,48.0,3.48,True,Two or More Races,Superintendent,False,"Chicago, IL",2023-01-06,
+11502,True,29.0,0.58,True,White,Project Manager,False,"Atlanta, GA",2018-02-03,2018-09-04
+11503,False,35.0,0.14,False,White,Project Manager,False,"Atlanta, GA",2026-05-10,
+11504,False,48.0,2.7,False,White,Safety Manager,False,"Columbus, OH",2023-10-19,
+11505,True,49.0,1.5,True,White,Superintendent,False,"St. Louis, MO",2018-12-03,2020-06-03
+11506,True,40.0,1.42,False,White,Superintendent,False,"St. Louis, MO",2024-12-09,2026-05-10
+11507,True,33.0,5.33,False,Hispanic or Latino,Superintendent,False,"Columbus, OH",2017-12-15,2023-04-16
+11508,True,44.0,1.67,True,Black or African American,Safety Manager,False,"Chicago, IL",2016-04-03,2017-12-03
+11509,True,24.0,0.08,True,Black or African American,Superintendent,False,"Phoenix, AZ",2023-06-25,2023-07-25
+11510,True,41.0,1.17,True,White,Safety Manager,False,"Atlanta, GA",2018-11-02,2020-01-02
+11511,True,48.0,1.75,False,White,Superintendent,False,"Dallas, TX",2017-01-26,2018-10-27
+11512,True,37.0,1.83,True,Hispanic or Latino,Project Manager,False,"Phoenix, AZ",2020-05-25,2022-03-26
+11513,False,41.0,0.9,True,White,Superintendent,False,"St. Louis, MO",2025-08-05,
+11514,True,43.0,4.5,False,White,Superintendent,False,"Chicago, IL",2019-05-02,2023-11-01
+11515,False,46.0,2.35,False,White,Superintendent,False,"Columbus, OH",2024-02-23,
+11516,True,38.0,1.92,False,Hispanic or Latino,Project Manager,False,"Denver, CO",2021-11-12,2023-10-13
+11517,True,28.0,1.67,True,Black or African American,Project Manager,False,"Dallas, TX",2019-07-08,2021-03-08
+11518,True,32.0,3.58,True,White,Project Manager,False,"Columbus, OH",2018-03-12,2021-10-11
+11519,True,37.0,1.67,True,White,Superintendent,False,"Atlanta, GA",2018-08-25,2020-04-25
+11520,False,36.0,0.22,False,Asian,Project Manager,False,"Chicago, IL",2026-04-11,
+11521,True,42.0,4.92,False,Black or African American,Project Engineer,False,"Denver, CO",2021-02-15,2026-01-16
+11522,True,30.0,1.0,True,White,Project Manager,False,"Denver, CO",2025-05-25,2026-05-25
+11523,False,40.0,2.7,True,White,Superintendent,False,"St. Louis, MO",2023-10-18,
+11524,True,40.0,3.75,True,White,Superintendent,False,"Chicago, IL",2016-12-30,2020-09-30
+11525,True,43.0,0.75,True,Two or More Races,Superintendent,False,"St. Louis, MO",2025-05-04,2026-02-02
+11526,True,33.0,0.17,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2017-06-16,2017-08-16
+11527,True,56.0,2.58,True,Black or African American,Project Engineer,False,"Chicago, IL",2016-01-10,2018-08-11
+11528,True,48.0,1.08,True,White,Safety Manager,False,"Dallas, TX",2016-08-03,2017-09-03
+11529,True,42.0,0.67,True,White,Project Manager,False,"Columbus, OH",2016-01-03,2016-09-03
+11530,True,35.0,1.33,True,White,Project Engineer,False,"St. Louis, MO",2017-05-15,2018-09-14
+11531,True,44.0,0.58,False,Asian,Project Engineer,False,"Atlanta, GA",2023-11-07,2024-06-07
+11532,False,33.0,2.19,True,White,Superintendent,False,"Chicago, IL",2024-04-23,
+11533,True,53.0,1.25,False,Two or More Races,Superintendent,True,"Denver, CO",2015-05-07,2016-08-06
+11534,True,62.0,3.67,True,White,Safety Manager,False,"Phoenix, AZ",2017-07-07,2021-03-07
+11535,False,39.0,1.22,False,White,Superintendent,False,"Atlanta, GA",2025-04-13,
+11536,True,44.0,1.42,False,White,Superintendent,False,"Atlanta, GA",2020-04-19,2021-09-18
+11537,True,46.0,3.83,True,White,Superintendent,False,"St. Louis, MO",2021-05-17,2025-03-17
+11538,True,40.0,0.83,True,White,Project Engineer,False,"Chicago, IL",2018-10-12,2019-08-12
+11539,False,57.0,3.18,True,White,Superintendent,False,"St. Louis, MO",2023-04-26,
+11540,True,45.0,2.67,True,White,Project Manager,False,"Dallas, TX",2016-08-23,2019-04-24
+11541,False,54.0,11.11,True,White,Safety Manager,False,"Phoenix, AZ",2015-05-23,
+11542,True,49.0,0.33,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2017-07-06,2017-11-05
+11543,True,39.0,2.33,True,Two or More Races,Project Manager,False,"Chicago, IL",2019-04-06,2021-08-05
+11544,True,54.0,2.33,True,Hispanic or Latino,Project Engineer,False,"Dallas, TX",2021-04-13,2023-08-13
+11545,True,43.0,0.75,True,Asian,Project Manager,False,"St. Louis, MO",2023-05-15,2024-02-13
+11546,True,33.0,0.08,True,White,Safety Manager,False,"St. Louis, MO",2024-12-19,2025-01-18
+11547,False,39.0,8.07,True,White,Project Manager,False,"Chicago, IL",2018-06-05,
+11548,True,30.0,3.58,True,Asian,Superintendent,True,"Chicago, IL",2017-07-01,2021-01-30
+11549,True,36.0,0.83,False,Black or African American,Project Engineer,False,"Dallas, TX",2018-06-14,2019-04-14
+11550,False,47.0,1.87,True,Hispanic or Latino,Project Manager,True,"Columbus, OH",2024-08-18,
+11551,True,50.0,4.58,False,White,Project Engineer,False,"Denver, CO",2021-06-23,2026-01-22
+11552,True,37.0,0.25,True,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2018-08-07,2018-11-06
+11553,True,47.0,2.08,True,White,Superintendent,False,"Columbus, OH",2022-08-12,2024-09-11
+11554,False,46.0,0.41,True,White,Project Manager,False,"Phoenix, AZ",2026-02-01,
+11555,True,55.0,5.92,True,White,Safety Manager,True,"St. Louis, MO",2015-03-12,2021-02-09
+11556,False,53.0,3.76,True,White,Safety Manager,False,"Phoenix, AZ",2022-09-25,
+11557,True,30.0,0.33,False,White,Superintendent,True,"St. Louis, MO",2017-01-11,2017-05-13
+11558,True,46.0,6.83,True,Hispanic or Latino,Safety Manager,False,"Phoenix, AZ",2019-03-20,2026-01-18
+11559,True,32.0,2.42,True,White,Project Manager,False,"Dallas, TX",2023-02-01,2025-07-03
+11560,True,52.0,1.17,True,Black or African American,Superintendent,False,"Chicago, IL",2018-02-02,2019-04-04
+11561,True,38.0,2.25,False,White,Superintendent,False,"Atlanta, GA",2019-04-27,2021-07-27
+11562,True,47.0,2.0,True,Black or African American,Superintendent,False,"Columbus, OH",2017-06-11,2019-06-12
+11563,True,56.0,0.67,True,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2015-09-22,2016-05-23
+11564,True,30.0,0.75,True,White,Project Engineer,False,"Chicago, IL",2019-04-02,2020-01-01
+11565,True,35.0,1.92,False,White,Safety Manager,False,"St. Louis, MO",2023-01-04,2024-12-04
+11566,True,34.0,0.83,False,White,Superintendent,False,"St. Louis, MO",2023-10-24,2024-08-23
+11567,False,39.0,2.47,True,Black or African American,Project Manager,False,"Columbus, OH",2024-01-12,
+11568,True,24.0,0.25,True,White,Project Manager,False,"Dallas, TX",2025-08-30,2025-11-29
+11569,True,48.0,0.25,True,Black or African American,Safety Manager,False,"Chicago, IL",2022-10-04,2023-01-03
+11570,False,55.0,0.76,True,White,Superintendent,False,"Atlanta, GA",2025-09-25,
+11571,True,46.0,5.0,False,Hispanic or Latino,Project Manager,False,"Phoenix, AZ",2015-06-19,2020-06-18
+11572,True,52.0,2.42,True,Hispanic or Latino,Safety Manager,False,"St. Louis, MO",2016-12-26,2019-05-28
+11573,True,22.0,0.17,True,White,Superintendent,False,"Chicago, IL",2025-05-20,2025-07-20
+11574,True,36.0,4.75,True,White,Project Engineer,False,"Atlanta, GA",2016-11-27,2021-08-28
+11575,True,48.0,1.67,True,White,Superintendent,False,"Dallas, TX",2021-11-25,2023-07-27
+11576,True,46.0,2.42,True,White,Safety Manager,False,"St. Louis, MO",2019-04-08,2021-09-07
+11577,False,47.0,4.02,True,Asian,Superintendent,False,"Atlanta, GA",2022-06-24,
+11578,True,58.0,7.58,True,White,Project Manager,False,"Columbus, OH",2017-02-02,2024-09-03
+11579,True,41.0,1.08,True,White,Project Manager,False,"Chicago, IL",2023-05-03,2024-06-02
+11580,True,42.0,0.58,True,White,Project Manager,False,"St. Louis, MO",2018-07-26,2019-02-24
+11581,True,32.0,0.08,True,Asian,Safety Manager,False,"Dallas, TX",2026-05-31,2026-06-30
+11582,True,40.0,1.75,True,White,Project Engineer,False,"Atlanta, GA",2024-02-17,2025-11-17
+11583,True,23.0,0.5,True,Asian,Superintendent,True,"St. Louis, MO",2024-10-28,2025-04-29
+11584,True,58.0,0.67,True,White,Project Engineer,False,"Phoenix, AZ",2018-07-15,2019-03-16
+11585,True,25.0,0.08,True,White,Superintendent,False,"Chicago, IL",2022-08-17,2022-09-16
+11586,True,29.0,0.33,False,White,Project Manager,False,"Atlanta, GA",2019-05-12,2019-09-11
+11587,True,46.0,3.25,True,White,Project Engineer,False,"Atlanta, GA",2017-11-08,2021-02-07
+11588,True,52.0,4.67,True,White,Project Manager,False,"Columbus, OH",2019-12-28,2024-08-28
+11589,True,48.0,4.42,True,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2019-11-10,2024-04-10
+11590,False,60.0,9.96,True,White,Project Engineer,False,"St. Louis, MO",2016-07-15,
+11591,False,34.0,1.58,False,Asian,Project Engineer,False,"Chicago, IL",2024-11-30,
+11592,True,37.0,0.42,True,White,Project Engineer,True,"Chicago, IL",2019-11-12,2020-04-12
+11593,True,46.0,4.42,True,White,Superintendent,False,"Chicago, IL",2021-05-29,2025-10-28
+11594,True,28.0,1.17,True,White,Project Manager,False,"St. Louis, MO",2024-04-10,2025-06-10
+11595,True,41.0,0.17,True,Black or African American,Superintendent,False,"Atlanta, GA",2023-05-27,2023-07-27
+11596,True,51.0,6.17,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2016-02-29,2022-05-01
+11597,True,49.0,0.17,True,Black or African American,Superintendent,False,"Atlanta, GA",2016-09-03,2016-11-03
+11598,True,27.0,0.92,True,White,Project Manager,False,"St. Louis, MO",2020-07-16,2021-06-16
+11599,True,44.0,1.17,False,Hispanic or Latino,Project Engineer,False,"Phoenix, AZ",2016-03-18,2017-05-18
+11600,True,26.0,1.08,True,White,Superintendent,False,"St. Louis, MO",2021-05-22,2022-06-22
+11601,True,47.0,0.33,True,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2023-03-18,2023-07-18
+11602,True,41.0,0.42,True,White,Safety Manager,False,"Chicago, IL",2017-11-30,2018-05-01
+11603,False,50.0,5.39,True,Hispanic or Latino,Project Manager,False,"Phoenix, AZ",2021-02-09,
+11604,False,57.0,9.3,True,Asian,Project Engineer,False,"Chicago, IL",2017-03-12,
+11605,True,31.0,0.17,False,Black or African American,Superintendent,False,"Chicago, IL",2019-08-03,2019-10-03
+11606,True,51.0,1.83,False,White,Project Engineer,False,"St. Louis, MO",2019-05-07,2021-03-07
+11607,True,50.0,7.42,False,White,Safety Manager,False,"St. Louis, MO",2016-03-18,2023-08-18
+11608,True,51.0,1.5,True,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2024-05-02,2025-11-01
+11609,True,31.0,0.08,True,Hispanic or Latino,Safety Manager,False,"Atlanta, GA",2020-07-11,2020-08-10
+11610,False,25.0,0.13,True,White,Superintendent,False,"Chicago, IL",2026-05-15,
+11611,True,35.0,2.0,True,White,Project Engineer,False,"Dallas, TX",2020-11-30,2022-12-01
+11612,False,21.0,0.39,True,White,Project Engineer,False,"Columbus, OH",2026-02-07,
+11613,True,43.0,0.83,False,White,Superintendent,False,"St. Louis, MO",2020-06-18,2021-04-18
+11614,True,37.0,2.92,False,White,Project Engineer,False,"St. Louis, MO",2018-08-10,2021-07-10
+11615,True,49.0,4.42,False,White,Safety Manager,False,"Atlanta, GA",2015-03-07,2019-08-06
+11616,True,46.0,2.83,True,White,Superintendent,False,"Atlanta, GA",2019-05-07,2022-03-07
+11617,True,51.0,6.42,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2018-06-05,2024-11-04
+11618,False,25.0,0.64,False,Hispanic or Latino,Project Engineer,False,"Columbus, OH",2025-11-08,
+11619,False,47.0,4.73,False,Asian,Superintendent,False,"St. Louis, MO",2021-10-08,
+11620,False,51.0,9.08,False,White,Superintendent,True,"Dallas, TX",2017-05-31,
+11621,True,33.0,0.5,True,Black or African American,Project Engineer,False,"Columbus, OH",2020-02-10,2020-08-11
+11622,True,39.0,0.83,False,White,Safety Manager,False,"St. Louis, MO",2017-10-26,2018-08-26
+11623,True,28.0,1.67,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2021-04-10,2022-12-10
+11624,False,49.0,1.98,False,White,Superintendent,False,"Dallas, TX",2024-07-07,
+11625,False,49.0,0.54,False,White,Superintendent,False,"Chicago, IL",2025-12-14,
+11626,True,33.0,3.0,True,White,Safety Manager,True,"Phoenix, AZ",2021-09-05,2024-09-05
+11627,True,37.0,1.0,True,Black or African American,Project Manager,False,"Chicago, IL",2024-09-22,2025-09-22
+11628,False,40.0,1.35,True,White,Project Manager,False,"St. Louis, MO",2025-02-23,
+11629,True,45.0,2.5,True,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2023-11-27,2026-05-28
+11630,True,45.0,7.0,False,White,Superintendent,False,"Phoenix, AZ",2016-01-26,2023-01-26
+11631,True,60.0,8.58,False,White,Superintendent,False,"Chicago, IL",2017-04-27,2025-11-26
+11632,True,36.0,1.0,True,White,Superintendent,False,"Phoenix, AZ",2017-12-26,2018-12-26
+11633,True,53.0,3.42,True,White,Safety Manager,True,"Atlanta, GA",2016-09-03,2020-02-03
+11634,True,46.0,0.42,True,White,Superintendent,True,"Phoenix, AZ",2017-04-18,2017-09-17
+11635,True,45.0,5.42,True,White,Project Manager,False,"Chicago, IL",2019-11-23,2025-04-24
+11636,True,37.0,0.67,True,Hispanic or Latino,Project Engineer,False,"Chicago, IL",2018-12-24,2019-08-25
+11637,False,22.0,0.82,True,White,Project Engineer,False,"Dallas, TX",2025-09-06,
+11638,False,32.0,1.25,True,White,Superintendent,False,"Chicago, IL",2025-03-31,
+11639,False,45.0,5.17,True,White,Project Engineer,False,"Dallas, TX",2021-05-01,
+11640,False,29.0,1.05,True,White,Project Engineer,False,"Atlanta, GA",2025-06-13,
+11641,True,32.0,1.0,True,White,Project Manager,False,"Chicago, IL",2015-08-24,2016-08-23
+11642,True,41.0,0.5,True,Black or African American,Project Manager,False,"Chicago, IL",2019-03-19,2019-09-18
+11643,True,43.0,2.5,False,Hispanic or Latino,Superintendent,False,"Dallas, TX",2019-03-02,2021-08-31
+11644,True,33.0,2.75,True,White,Project Engineer,False,"St. Louis, MO",2020-05-15,2023-02-14
+11645,True,44.0,1.92,True,White,Superintendent,False,"St. Louis, MO",2017-11-02,2019-10-03
+11646,True,49.0,1.5,True,White,Safety Manager,True,"Phoenix, AZ",2016-07-02,2018-01-01
+11647,True,44.0,0.83,True,White,Superintendent,False,"Chicago, IL",2020-02-22,2020-12-22
+11648,False,49.0,5.26,True,Hispanic or Latino,Superintendent,False,"Columbus, OH",2021-03-27,
+11649,False,47.0,0.69,True,White,Superintendent,False,"Phoenix, AZ",2025-10-21,
+11650,False,35.0,0.31,True,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2026-03-11,
+11651,True,34.0,0.92,True,White,Superintendent,False,"Chicago, IL",2020-09-27,2021-08-28
+11652,True,30.0,0.33,False,White,Superintendent,False,"St. Louis, MO",2017-04-13,2017-08-13
+11653,True,46.0,0.17,True,White,Project Manager,False,"St. Louis, MO",2025-01-16,2025-03-18
+11654,True,42.0,2.33,False,White,Project Manager,False,"Phoenix, AZ",2023-09-02,2026-01-01
+11655,True,54.0,6.42,True,Two or More Races,Project Engineer,False,"Dallas, TX",2017-10-04,2024-03-05
+11656,True,39.0,0.5,False,Black or African American,Project Manager,False,"Atlanta, GA",2015-07-08,2016-01-07
+11657,False,38.0,0.87,True,White,Project Manager,True,"St. Louis, MO",2025-08-19,
+11658,True,38.0,0.08,False,White,Superintendent,False,"Columbus, OH",2016-08-14,2016-09-13
+11659,True,30.0,1.67,True,White,Superintendent,False,"Columbus, OH",2024-08-09,2026-04-10
+11660,True,34.0,0.17,True,Black or African American,Superintendent,False,"Chicago, IL",2015-09-06,2015-11-06
+11661,False,35.0,0.77,True,White,Project Engineer,False,"St. Louis, MO",2025-09-23,
+11662,True,46.0,1.17,True,Asian,Superintendent,False,"Denver, CO",2020-09-13,2021-11-13
+11663,False,44.0,0.74,False,White,Superintendent,True,"St. Louis, MO",2025-10-04,
+11664,True,48.0,1.5,True,Two or More Races,Superintendent,False,"Columbus, OH",2016-04-24,2017-10-24
+11665,True,44.0,0.5,True,White,Project Manager,False,"Chicago, IL",2015-02-19,2015-08-21
+11666,False,59.0,4.81,False,White,Superintendent,False,"St. Louis, MO",2021-09-07,
+11667,True,58.0,0.25,True,White,Project Manager,False,"Chicago, IL",2018-03-11,2018-06-10
+11668,True,53.0,5.5,True,White,Project Manager,False,"Atlanta, GA",2018-07-09,2024-01-08
+11669,True,42.0,2.5,True,Hispanic or Latino,Safety Manager,False,"St. Louis, MO",2021-05-05,2023-11-04
+11670,False,55.0,8.24,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2018-04-03,
+11671,True,35.0,1.92,True,White,Project Engineer,False,"Chicago, IL",2020-09-24,2022-08-25
+11672,True,28.0,1.17,False,White,Superintendent,False,"Chicago, IL",2022-11-03,2024-01-03
+11673,True,47.0,0.83,True,Asian,Superintendent,False,"Dallas, TX",2020-06-15,2021-04-15
+11674,True,39.0,0.33,True,White,Superintendent,False,"Dallas, TX",2024-10-28,2025-02-27
+11675,True,48.0,0.67,True,Black or African American,Project Engineer,False,"Chicago, IL",2023-06-06,2024-02-05
+11676,True,32.0,0.17,True,White,Project Manager,False,"Chicago, IL",2023-04-14,2023-06-14
+11677,False,41.0,2.59,True,Black or African American,Superintendent,True,"St. Louis, MO",2023-11-28,
+11678,True,35.0,4.67,True,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2017-02-17,2021-10-19
+11679,True,43.0,0.17,True,Asian,Safety Manager,False,"Denver, CO",2016-02-04,2016-04-05
+11680,True,41.0,1.0,True,White,Superintendent,False,"Denver, CO",2025-04-18,2026-04-18
+11681,True,44.0,3.92,True,White,Superintendent,False,"Atlanta, GA",2016-12-31,2020-12-01
+11682,True,29.0,1.08,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2024-11-20,2025-12-21
+11683,True,28.0,2.83,False,White,Safety Manager,False,"St. Louis, MO",2021-06-01,2024-04-01
+11684,True,43.0,0.5,True,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2015-09-09,2016-03-10
+11685,True,31.0,2.08,True,Black or African American,Superintendent,False,"Columbus, OH",2022-01-07,2024-02-07
+11686,True,32.0,2.58,True,Hispanic or Latino,Project Engineer,False,"Dallas, TX",2017-09-07,2020-04-08
+11687,True,44.0,0.42,True,White,Project Engineer,False,"St. Louis, MO",2018-03-14,2018-08-13
+11688,True,37.0,2.42,True,Black or African American,Safety Manager,False,"Atlanta, GA",2017-09-13,2020-02-13
+11689,True,51.0,3.0,True,White,Project Manager,False,"Phoenix, AZ",2022-09-30,2025-09-30
+11690,True,62.0,6.92,True,White,Superintendent,False,"St. Louis, MO",2018-05-22,2025-04-22
+11691,False,51.0,4.66,True,White,Project Engineer,False,"St. Louis, MO",2021-11-02,
+11692,False,68.0,7.62,False,Hispanic or Latino,Project Manager,False,"Chicago, IL",2018-11-17,
+11693,True,28.0,0.25,True,Two or More Races,Superintendent,False,"St. Louis, MO",2023-04-02,2023-07-02
+11694,True,23.0,1.33,True,White,Superintendent,True,"St. Louis, MO",2024-08-02,2025-12-02
+11695,True,37.0,0.75,True,Two or More Races,Superintendent,False,"Chicago, IL",2023-09-02,2024-06-02
+11696,True,23.0,0.58,True,White,Project Manager,False,"Columbus, OH",2024-08-29,2025-03-30
+11697,True,45.0,3.17,True,White,Project Manager,False,"St. Louis, MO",2018-04-29,2021-06-29
+11698,False,45.0,1.21,True,White,Project Engineer,False,"Denver, CO",2025-04-16,
+11699,False,44.0,1.46,True,White,Superintendent,False,"Phoenix, AZ",2025-01-15,
+11700,False,46.0,2.15,True,White,Project Manager,False,"Dallas, TX",2024-05-08,
+11701,True,45.0,4.5,True,Asian,Safety Manager,False,"Denver, CO",2015-03-26,2019-09-25
+11702,True,37.0,2.25,True,White,Project Manager,False,"Dallas, TX",2024-02-21,2026-05-23
+11703,True,44.0,0.92,True,White,Superintendent,False,"St. Louis, MO",2020-04-15,2021-03-16
+11704,False,37.0,1.85,True,Hispanic or Latino,Superintendent,False,"Phoenix, AZ",2024-08-25,
+11705,True,55.0,1.25,True,White,Project Manager,False,"Denver, CO",2015-12-28,2017-03-29
+11706,True,42.0,2.5,True,White,Project Manager,False,"Dallas, TX",2016-03-06,2018-09-05
+11707,False,40.0,5.18,True,White,Superintendent,False,"Atlanta, GA",2021-04-26,
+11708,True,37.0,2.58,True,White,Project Manager,False,"St. Louis, MO",2019-04-14,2021-11-13
+11709,True,45.0,0.25,True,Hispanic or Latino,Project Engineer,False,"Atlanta, GA",2025-12-16,2026-03-17
+11710,True,46.0,3.92,True,White,Project Engineer,False,"Dallas, TX",2017-10-28,2021-09-28
+11711,True,44.0,0.92,False,White,Superintendent,False,"Dallas, TX",2019-09-19,2020-08-19
+11712,True,40.0,0.42,True,White,Superintendent,False,"Dallas, TX",2017-03-03,2017-08-02
+11713,False,21.0,0.2,True,White,Superintendent,False,"Dallas, TX",2026-04-18,
+11714,True,39.0,1.42,False,White,Superintendent,False,"St. Louis, MO",2019-05-22,2020-10-20
+11715,True,32.0,1.0,True,White,Project Engineer,False,"St. Louis, MO",2015-10-19,2016-10-18
+11716,False,40.0,4.83,True,Black or African American,Superintendent,False,"Chicago, IL",2021-09-01,
+11717,True,30.0,0.67,False,Asian,Superintendent,False,"St. Louis, MO",2021-02-01,2021-10-03
+11718,False,53.0,6.43,False,White,Superintendent,False,"Chicago, IL",2020-01-27,
+11719,True,38.0,0.17,True,White,Superintendent,False,"Denver, CO",2018-01-25,2018-03-27
+11720,True,45.0,1.83,True,White,Superintendent,False,"Chicago, IL",2016-10-04,2018-08-05
+11721,False,37.0,6.08,True,White,Project Engineer,False,"Phoenix, AZ",2020-06-03,
+11722,True,29.0,0.58,False,White,Superintendent,False,"Dallas, TX",2022-01-28,2022-08-29
+11723,True,33.0,1.58,False,White,Project Manager,False,"Chicago, IL",2015-05-06,2016-12-04
+11724,True,28.0,0.08,True,Black or African American,Project Manager,False,"Dallas, TX",2019-10-09,2019-11-08
+11725,True,38.0,3.75,False,White,Project Engineer,False,"Dallas, TX",2018-07-22,2022-04-22
+11726,True,32.0,2.92,True,White,Safety Manager,True,"Chicago, IL",2015-05-26,2018-04-25
+11727,True,56.0,0.08,True,Black or African American,Project Engineer,False,"Chicago, IL",2016-02-16,2016-03-17
+11728,True,29.0,1.25,True,White,Project Manager,False,"Dallas, TX",2021-02-21,2022-05-24
+11729,True,34.0,0.5,False,White,Superintendent,False,"St. Louis, MO",2022-10-13,2023-04-14
+11730,False,43.0,8.39,True,Asian,Project Engineer,False,"Chicago, IL",2018-02-10,
+11731,True,41.0,4.92,True,Asian,Superintendent,False,"Phoenix, AZ",2019-01-11,2023-12-12
+11732,False,50.0,4.14,True,Hispanic or Latino,Superintendent,False,"Columbus, OH",2022-05-10,
+11733,True,37.0,1.75,True,Black or African American,Superintendent,True,"Chicago, IL",2024-07-27,2026-04-27
+11734,True,33.0,0.58,True,White,Project Manager,False,"Chicago, IL",2024-10-23,2025-05-24
+11735,True,38.0,0.42,True,White,Superintendent,False,"Phoenix, AZ",2023-07-24,2023-12-23
+11736,False,56.0,6.79,True,White,Superintendent,False,"Dallas, TX",2019-09-17,
+11737,True,54.0,0.67,True,White,Safety Manager,False,"St. Louis, MO",2015-06-02,2016-02-01
+11738,True,29.0,0.33,True,White,Superintendent,False,"Chicago, IL",2018-08-26,2018-12-26
+11739,True,43.0,4.17,True,Black or African American,Safety Manager,False,"Dallas, TX",2017-09-02,2021-11-02
+11740,True,28.0,1.0,True,White,Project Manager,False,"Atlanta, GA",2025-04-14,2026-04-14
+11741,True,45.0,0.08,False,White,Project Manager,False,"St. Louis, MO",2017-04-30,2017-05-30
+11742,True,47.0,0.42,False,Hispanic or Latino,Superintendent,False,"Atlanta, GA",2020-07-12,2020-12-11
+11743,True,44.0,1.42,True,White,Superintendent,False,"St. Louis, MO",2018-03-15,2019-08-14
+11744,True,48.0,2.08,True,White,Superintendent,False,"Atlanta, GA",2019-02-13,2021-03-15
+11745,False,51.0,0.18,True,Black or African American,Project Manager,False,"Dallas, TX",2026-04-27,
+11746,True,32.0,1.42,False,Asian,Project Engineer,False,"St. Louis, MO",2015-02-15,2016-07-16
+11747,False,36.0,0.61,False,White,Superintendent,True,"Chicago, IL",2025-11-22,
+11748,True,42.0,0.58,True,White,Superintendent,False,"St. Louis, MO",2020-05-17,2020-12-16
+11749,True,44.0,1.42,True,Two or More Races,Project Engineer,False,"Chicago, IL",2022-08-08,2024-01-07
+11750,False,38.0,0.58,True,White,Safety Manager,False,"Atlanta, GA",2025-12-01,
+11751,True,50.0,2.0,True,Hispanic or Latino,Project Engineer,False,"Dallas, TX",2020-01-17,2022-01-17
+11752,True,39.0,2.5,False,White,Project Manager,False,"Dallas, TX",2023-06-12,2025-12-11
+11753,True,43.0,0.5,True,Asian,Superintendent,False,"Chicago, IL",2023-11-03,2024-05-04
+11754,True,25.0,1.58,True,White,Superintendent,False,"Dallas, TX",2023-08-20,2025-03-20
+11755,True,40.0,0.92,True,White,Superintendent,False,"Denver, CO",2023-06-26,2024-05-26
+11756,True,27.0,1.42,False,White,Superintendent,False,"St. Louis, MO",2024-08-21,2026-01-20
+11757,True,52.0,0.42,True,Black or African American,Project Engineer,True,"Chicago, IL",2015-01-22,2015-06-23
+11758,False,52.0,0.31,True,White,Project Manager,False,"Chicago, IL",2026-03-08,
+11759,True,41.0,0.33,True,White,Safety Manager,False,"Atlanta, GA",2020-07-28,2020-11-27
+11760,False,46.0,6.5,True,Black or African American,Superintendent,False,"Dallas, TX",2019-12-31,
+11761,True,45.0,0.5,True,White,Superintendent,False,"Dallas, TX",2024-09-18,2025-03-20
+11762,True,59.0,8.75,True,Two or More Races,Superintendent,False,"St. Louis, MO",2015-04-28,2024-01-27
+11763,True,54.0,1.58,True,White,Superintendent,False,"Denver, CO",2015-02-24,2016-09-24
+11764,True,57.0,0.08,False,Black or African American,Project Manager,False,"Denver, CO",2016-09-27,2016-10-27
+11765,True,39.0,0.83,True,White,Project Manager,False,"Chicago, IL",2018-04-13,2019-02-11
+11766,True,40.0,2.08,False,White,Superintendent,False,"St. Louis, MO",2021-10-12,2023-11-12
+11767,True,31.0,0.75,True,White,Superintendent,False,"St. Louis, MO",2018-01-20,2018-10-21
+11768,True,60.0,0.08,False,White,Superintendent,False,"St. Louis, MO",2022-06-15,2022-07-15
+11769,False,26.0,0.73,True,White,Project Manager,False,"Columbus, OH",2025-10-08,
+11770,False,45.0,0.95,True,Hispanic or Latino,Superintendent,True,"Chicago, IL",2025-07-18,
+11771,True,48.0,9.75,False,White,Superintendent,False,"Denver, CO",2015-05-09,2025-02-06
+11772,True,47.0,0.5,True,White,Project Engineer,True,"Chicago, IL",2016-01-05,2016-07-06
+11773,True,35.0,1.58,False,White,Superintendent,False,"Denver, CO",2017-10-07,2019-05-08
+11774,False,36.0,0.06,True,White,Superintendent,False,"Chicago, IL",2026-06-10,
+11775,False,40.0,3.08,False,White,Superintendent,True,"Phoenix, AZ",2023-06-02,
+11776,True,43.0,3.42,True,White,Project Manager,False,"St. Louis, MO",2023-01-05,2026-06-06
+11777,True,41.0,0.75,True,Hispanic or Latino,Project Manager,False,"Denver, CO",2018-09-29,2019-06-30
+11778,True,47.0,1.25,True,White,Project Engineer,False,"Denver, CO",2017-02-23,2018-05-26
+11779,True,32.0,2.92,True,Hispanic or Latino,Safety Manager,False,"Chicago, IL",2022-09-26,2025-08-26
+11780,True,54.0,4.25,True,White,Safety Manager,False,"Phoenix, AZ",2019-04-05,2023-07-05
+11781,True,33.0,0.58,True,White,Safety Manager,False,"Chicago, IL",2023-06-06,2024-01-05
+11782,False,66.0,5.59,False,White,Superintendent,False,"Chicago, IL",2020-11-27,
+11783,False,34.0,1.25,True,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2025-04-01,
+11784,False,32.0,2.14,False,White,Superintendent,False,"Chicago, IL",2024-05-11,
+11785,False,44.0,5.82,False,White,Project Manager,False,"Chicago, IL",2020-09-03,
+11786,True,40.0,0.92,True,Black or African American,Project Engineer,False,"St. Louis, MO",2021-09-22,2022-08-23
+11787,True,56.0,7.08,True,White,Superintendent,False,"Chicago, IL",2016-11-26,2023-12-27
+11788,True,50.0,0.42,True,Two or More Races,Project Manager,False,"Denver, CO",2023-06-17,2023-11-16
+11789,True,34.0,2.25,True,Black or African American,Project Engineer,False,"Dallas, TX",2023-01-04,2025-04-05
+11790,False,30.0,0.25,False,White,Superintendent,False,"Chicago, IL",2026-04-01,
+11791,True,38.0,4.33,True,Hispanic or Latino,Project Manager,False,"Phoenix, AZ",2018-01-23,2022-05-25
+11792,True,44.0,2.42,True,Black or African American,Superintendent,False,"Denver, CO",2023-05-31,2025-10-30
+11793,True,55.0,1.42,True,White,Safety Manager,True,"Dallas, TX",2016-03-20,2017-08-19
+11794,True,49.0,1.0,False,Two or More Races,Superintendent,False,"St. Louis, MO",2019-06-10,2020-06-09
+11795,True,39.0,1.58,True,White,Project Manager,False,"Denver, CO",2022-06-25,2024-01-24
+11796,True,45.0,1.17,True,White,Superintendent,True,"Atlanta, GA",2018-06-01,2019-08-01
+11797,True,52.0,1.83,True,White,Project Engineer,False,"St. Louis, MO",2016-03-14,2018-01-13
+11798,True,54.0,2.75,True,White,Project Engineer,False,"Atlanta, GA",2020-11-13,2023-08-15
+11799,True,44.0,4.75,True,White,Project Manager,False,"Dallas, TX",2018-03-12,2022-12-11
+11800,True,57.0,0.67,False,Asian,Superintendent,False,"Chicago, IL",2016-09-30,2017-06-01
+11801,True,38.0,0.33,True,Hispanic or Latino,Superintendent,False,"Dallas, TX",2022-02-06,2022-06-08
+11802,True,48.0,2.08,True,White,Project Engineer,True,"St. Louis, MO",2016-10-07,2018-11-07
+11803,True,57.0,2.25,True,White,Project Manager,False,"Atlanta, GA",2016-06-07,2018-09-07
+11804,True,40.0,2.75,True,White,Superintendent,False,"Columbus, OH",2015-06-06,2018-03-07
+11805,False,22.0,0.98,True,Two or More Races,Project Manager,False,"Denver, CO",2025-07-09,
+11806,True,38.0,0.58,True,White,Safety Manager,False,"Denver, CO",2015-07-21,2016-02-19
+11807,True,40.0,0.33,True,White,Project Manager,False,"Columbus, OH",2021-01-24,2021-05-26
+11808,False,27.0,0.47,False,Black or African American,Project Manager,False,"St. Louis, MO",2026-01-12,
+11809,True,37.0,1.5,True,Hispanic or Latino,Safety Manager,False,"St. Louis, MO",2024-09-16,2026-03-18
+11810,True,55.0,0.75,True,Asian,Safety Manager,False,"Dallas, TX",2020-09-18,2021-06-19
+11811,True,36.0,2.58,False,White,Superintendent,False,"St. Louis, MO",2023-07-17,2026-02-15
+11812,False,48.0,0.37,True,White,Safety Manager,False,"Atlanta, GA",2026-02-17,
+11813,True,49.0,1.33,False,White,Project Manager,False,"St. Louis, MO",2021-03-18,2022-07-18
+11814,True,35.0,2.0,False,White,Safety Manager,False,"Chicago, IL",2018-10-20,2020-10-20
+11815,True,51.0,1.83,True,White,Project Engineer,False,"Dallas, TX",2020-06-07,2022-04-08
+11816,True,49.0,1.83,True,Black or African American,Project Engineer,False,"St. Louis, MO",2021-11-29,2023-09-30
+11817,False,47.0,1.75,True,Hispanic or Latino,Superintendent,False,"Dallas, TX",2024-09-28,
+11818,True,46.0,0.17,True,Two or More Races,Superintendent,False,"St. Louis, MO",2018-11-02,2019-01-02
+11819,True,44.0,0.08,True,White,Project Engineer,False,"Atlanta, GA",2021-05-03,2021-06-02
+11820,False,35.0,2.95,True,White,Superintendent,False,"Columbus, OH",2023-07-18,
+11821,True,36.0,0.58,True,Hispanic or Latino,Safety Manager,False,"Chicago, IL",2019-10-14,2020-05-14
+11822,True,37.0,0.5,True,White,Project Manager,False,"St. Louis, MO",2025-05-02,2025-11-01
+11823,True,49.0,2.92,True,White,Project Engineer,False,"Atlanta, GA",2020-07-22,2023-06-22
+11824,True,39.0,0.58,True,Asian,Safety Manager,False,"St. Louis, MO",2018-02-15,2018-09-16
+11825,False,53.0,2.06,False,Two or More Races,Superintendent,False,"Atlanta, GA",2024-06-09,
+11826,True,34.0,1.25,True,Black or African American,Superintendent,False,"St. Louis, MO",2025-02-03,2026-05-06
+11827,False,45.0,5.37,True,White,Superintendent,False,"St. Louis, MO",2021-02-14,
+11828,True,27.0,0.17,True,White,Superintendent,False,"Columbus, OH",2024-01-06,2024-03-07
+11829,False,57.0,5.89,True,White,Safety Manager,False,"Columbus, OH",2020-08-09,
+11830,False,45.0,1.88,True,White,Project Manager,True,"Dallas, TX",2024-08-13,
+11831,True,50.0,1.83,False,White,Safety Manager,True,"Chicago, IL",2024-03-04,2026-01-03
+11832,True,33.0,5.33,True,White,Project Manager,False,"Chicago, IL",2019-05-29,2024-09-27
+11833,True,52.0,0.17,True,White,Project Manager,False,"St. Louis, MO",2024-02-26,2024-04-27
+11834,True,50.0,5.25,True,White,Project Manager,False,"Columbus, OH",2017-03-10,2022-06-10
+11835,False,33.0,1.76,True,Black or African American,Project Manager,False,"Columbus, OH",2024-09-26,
+11836,False,36.0,2.54,True,White,Superintendent,False,"St. Louis, MO",2023-12-16,
+11837,True,27.0,2.33,True,Hispanic or Latino,Safety Manager,False,"Chicago, IL",2023-02-10,2025-06-11
+11838,False,40.0,5.36,False,White,Project Manager,False,"St. Louis, MO",2021-02-19,
+11839,True,54.0,4.75,True,Two or More Races,Project Manager,False,"Phoenix, AZ",2017-06-19,2022-03-20
+11840,True,36.0,0.5,True,White,Safety Manager,False,"Chicago, IL",2019-06-03,2019-12-03
+11841,True,48.0,6.5,True,White,Safety Manager,False,"Dallas, TX",2018-10-05,2025-04-05
+11842,False,28.0,1.62,True,White,Project Manager,False,"St. Louis, MO",2024-11-18,
+11843,True,25.0,0.83,True,White,Project Engineer,False,"Dallas, TX",2022-03-22,2023-01-20
+11844,True,41.0,0.58,True,White,Superintendent,False,"St. Louis, MO",2020-07-12,2021-02-10
+11845,True,53.0,2.92,True,White,Project Engineer,False,"St. Louis, MO",2023-07-13,2026-06-12
+11846,True,52.0,0.67,False,Black or African American,Project Manager,False,"Columbus, OH",2022-09-09,2023-05-11
+11847,True,32.0,0.25,False,Black or African American,Project Manager,False,"Denver, CO",2025-01-11,2025-04-12
+11848,True,58.0,8.08,True,White,Project Engineer,False,"Atlanta, GA",2016-07-20,2024-08-20
+11849,False,47.0,0.94,True,White,Safety Manager,False,"Atlanta, GA",2025-07-23,
+11850,True,49.0,1.83,True,White,Project Manager,True,"Chicago, IL",2017-05-25,2019-03-26
+11851,True,44.0,0.5,True,White,Project Manager,False,"Columbus, OH",2016-05-20,2016-11-19
+11852,False,49.0,3.12,True,Hispanic or Latino,Project Engineer,False,"Columbus, OH",2023-05-17,
+11853,True,46.0,0.33,True,Asian,Project Manager,True,"Atlanta, GA",2016-02-05,2016-06-06
+11854,True,36.0,1.0,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2023-10-09,2024-10-08
+11855,False,50.0,4.02,True,Hispanic or Latino,Safety Manager,False,"Atlanta, GA",2022-06-23,
+11856,True,33.0,1.0,True,White,Superintendent,False,"Columbus, OH",2023-12-30,2024-12-29
+11857,True,48.0,2.58,True,Black or African American,Project Engineer,False,"Dallas, TX",2021-06-26,2024-01-26
+11858,True,58.0,5.17,False,Hispanic or Latino,Project Manager,False,"Chicago, IL",2018-08-12,2023-10-12
+11859,False,32.0,1.51,True,Hispanic or Latino,Project Manager,False,"Denver, CO",2024-12-26,
+11860,True,40.0,1.5,True,White,Superintendent,False,"Denver, CO",2024-03-31,2025-09-30
+11861,True,49.0,0.42,True,Black or African American,Superintendent,False,"Chicago, IL",2018-04-27,2018-09-26
+11862,True,25.0,0.92,True,White,Project Manager,False,"Phoenix, AZ",2022-07-15,2023-06-15
+11863,True,39.0,1.5,True,White,Safety Manager,False,"Columbus, OH",2019-03-22,2020-09-20
+11864,False,38.0,6.89,True,Black or African American,Project Manager,False,"Chicago, IL",2019-08-09,
+11865,True,40.0,2.0,False,Hispanic or Latino,Superintendent,False,"Denver, CO",2018-06-04,2020-06-04
+11866,True,37.0,5.42,True,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2018-07-31,2023-12-31
+11867,True,56.0,1.17,True,White,Superintendent,False,"St. Louis, MO",2018-03-12,2019-05-12
+11868,True,35.0,2.0,True,Hispanic or Latino,Safety Manager,False,"Chicago, IL",2019-08-14,2021-08-14
+11869,True,44.0,0.42,True,Black or African American,Safety Manager,True,"Atlanta, GA",2017-05-06,2017-10-05
+11870,False,44.0,2.15,False,Asian,Project Manager,False,"Chicago, IL",2024-05-07,
+11871,True,57.0,0.83,True,White,Safety Manager,False,"Chicago, IL",2019-11-18,2020-09-17
+11872,True,31.0,1.67,True,White,Safety Manager,False,"Phoenix, AZ",2017-01-31,2018-10-02
+11873,True,31.0,3.08,True,White,Project Manager,False,"Chicago, IL",2019-04-28,2022-05-28
+11874,False,31.0,3.56,False,White,Project Engineer,False,"St. Louis, MO",2022-12-09,
+11875,True,42.0,0.5,True,Hispanic or Latino,Project Engineer,False,"St. Louis, MO",2017-06-12,2017-12-12
+11876,False,51.0,6.57,True,White,Superintendent,False,"Dallas, TX",2019-12-07,
+11877,True,45.0,0.67,False,Two or More Races,Safety Manager,False,"Chicago, IL",2016-07-22,2017-03-23
+11878,True,40.0,2.08,True,Black or African American,Superintendent,False,"St. Louis, MO",2023-07-16,2025-08-15
+11879,True,61.0,7.0,True,Hispanic or Latino,Superintendent,True,"Columbus, OH",2015-11-14,2022-11-14
+11880,True,34.0,1.25,True,Hispanic or Latino,Superintendent,False,"Columbus, OH",2025-03-24,2026-06-24
+11881,True,48.0,0.17,True,Two or More Races,Safety Manager,False,"Chicago, IL",2016-09-17,2016-11-17
+11882,True,61.0,0.42,True,White,Safety Manager,False,"Chicago, IL",2019-10-01,2020-03-01
+11883,True,45.0,0.92,True,White,Superintendent,False,"Chicago, IL",2024-10-17,2025-09-17
+11884,True,37.0,0.17,False,White,Safety Manager,False,"St. Louis, MO",2020-09-18,2020-11-18
+11885,True,35.0,0.25,True,White,Project Manager,False,"Chicago, IL",2021-05-28,2021-08-27
+11886,False,51.0,5.17,True,White,Superintendent,False,"Chicago, IL",2021-04-29,
+11887,True,35.0,1.17,True,Hispanic or Latino,Superintendent,False,"Dallas, TX",2017-01-12,2018-03-14
+11888,True,38.0,4.75,True,White,Project Manager,False,"St. Louis, MO",2016-12-19,2021-09-19
+11889,True,50.0,1.25,True,White,Project Engineer,False,"Columbus, OH",2019-10-23,2021-01-22
+11890,False,55.0,7.4,False,Hispanic or Latino,Superintendent,False,"Chicago, IL",2019-02-06,
+11891,True,53.0,0.17,True,Two or More Races,Safety Manager,False,"Atlanta, GA",2024-07-01,2024-08-31
+11892,True,37.0,1.17,True,Hispanic or Latino,Superintendent,False,"Denver, CO",2016-09-24,2017-11-24
+11893,True,46.0,5.0,True,White,Superintendent,False,"Dallas, TX",2021-02-25,2026-02-25
+11894,True,31.0,3.08,True,Hispanic or Latino,Project Engineer,True,"Chicago, IL",2016-07-02,2019-08-02
+11895,True,40.0,1.25,False,White,Superintendent,False,"Chicago, IL",2015-03-18,2016-06-17
+11896,False,64.0,4.07,True,White,Safety Manager,False,"St. Louis, MO",2022-06-04,
+11897,False,51.0,1.04,False,White,Project Manager,False,"Chicago, IL",2025-06-17,
+11898,False,43.0,0.13,False,White,Project Manager,False,"Atlanta, GA",2026-05-16,
+11899,True,33.0,0.08,True,Asian,Project Engineer,False,"Chicago, IL",2021-04-15,2021-05-15
+11900,True,30.0,2.92,True,White,Project Manager,False,"Atlanta, GA",2021-06-08,2024-05-08
+11901,True,54.0,7.58,True,White,Safety Manager,False,"Chicago, IL",2018-08-11,2026-03-12
+11902,True,42.0,0.75,False,Hispanic or Latino,Project Engineer,False,"Denver, CO",2019-07-01,2020-03-31
+11903,True,32.0,1.42,False,Hispanic or Latino,Superintendent,False,"Chicago, IL",2023-02-10,2024-07-11
+11904,True,49.0,1.17,True,White,Project Manager,False,"Chicago, IL",2020-06-09,2021-08-09
+11905,True,51.0,6.83,True,White,Safety Manager,False,"Chicago, IL",2018-11-12,2025-09-12
+11906,True,33.0,0.83,True,White,Safety Manager,False,"Dallas, TX",2023-12-18,2024-10-17
+11907,True,42.0,1.83,True,White,Superintendent,False,"Phoenix, AZ",2017-12-21,2019-10-22
+11908,False,60.0,2.73,False,White,Safety Manager,False,"St. Louis, MO",2023-10-07,
+11909,True,32.0,1.25,True,Black or African American,Superintendent,False,"Dallas, TX",2022-04-27,2023-07-28
+11910,False,48.0,2.01,True,White,Project Manager,False,"St. Louis, MO",2024-06-27,
+11911,True,33.0,0.33,True,White,Project Engineer,True,"Phoenix, AZ",2023-03-17,2023-07-17
+11912,True,39.0,0.17,False,White,Superintendent,False,"Chicago, IL",2016-07-18,2016-09-17
+11913,True,34.0,0.92,True,Two or More Races,Superintendent,False,"Denver, CO",2019-02-04,2020-01-05
+11914,True,45.0,2.83,True,Asian,Superintendent,False,"Phoenix, AZ",2017-04-15,2020-02-14
+11915,True,38.0,0.67,False,Hispanic or Latino,Project Manager,False,"St. Louis, MO",2024-10-19,2025-06-20
+11916,True,54.0,2.25,True,White,Project Engineer,False,"St. Louis, MO",2015-08-01,2017-10-31
+11917,True,40.0,0.58,True,White,Project Engineer,False,"Denver, CO",2016-08-15,2017-03-16
+11918,True,45.0,0.5,True,Asian,Project Manager,False,"St. Louis, MO",2021-06-24,2021-12-24
+11919,True,36.0,4.08,True,White,Project Manager,False,"Phoenix, AZ",2022-04-01,2026-05-02
+11920,False,30.0,0.25,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2026-04-01,
+11921,True,48.0,0.92,True,Black or African American,Safety Manager,False,"Chicago, IL",2020-07-17,2021-06-17
+11922,True,48.0,4.42,True,White,Superintendent,False,"Columbus, OH",2019-03-20,2023-08-19
+11923,True,33.0,3.67,True,White,Project Manager,False,"St. Louis, MO",2016-01-05,2019-09-05
+11924,True,44.0,4.08,True,White,Project Manager,False,"Chicago, IL",2020-09-13,2024-10-14
+11925,True,27.0,3.67,True,Black or African American,Superintendent,False,"Atlanta, GA",2020-05-09,2024-01-08
+11926,True,34.0,0.17,True,White,Superintendent,False,"Atlanta, GA",2019-01-26,2019-03-28
+11927,True,61.0,0.92,True,Hispanic or Latino,Safety Manager,False,"St. Louis, MO",2016-12-30,2017-11-30
+11928,False,50.0,2.25,True,White,Project Engineer,True,"Columbus, OH",2024-03-30,
+11929,True,41.0,0.92,False,Hispanic or Latino,Safety Manager,False,"Columbus, OH",2020-12-05,2021-11-05
+11930,False,43.0,0.57,True,White,Superintendent,False,"St. Louis, MO",2025-12-04,
+11931,True,59.0,8.08,False,Hispanic or Latino,Superintendent,False,"Chicago, IL",2015-05-26,2023-06-26
+11932,True,55.0,2.42,True,White,Project Manager,False,"Denver, CO",2023-05-14,2025-10-13
+11933,True,57.0,4.33,False,Two or More Races,Superintendent,False,"Atlanta, GA",2021-09-21,2026-01-21
+11934,True,36.0,0.75,True,White,Superintendent,False,"St. Louis, MO",2019-11-02,2020-08-02
+11935,True,44.0,2.67,True,Hispanic or Latino,Safety Manager,True,"Atlanta, GA",2018-07-19,2021-03-19
+11936,True,45.0,4.42,True,White,Safety Manager,False,"St. Louis, MO",2018-03-06,2022-08-05
+11937,True,32.0,0.42,True,White,Project Manager,False,"Atlanta, GA",2015-01-21,2015-06-22
+11938,True,32.0,2.5,False,Hispanic or Latino,Project Manager,False,"Chicago, IL",2023-07-28,2026-01-26
+11939,True,51.0,2.75,True,Black or African American,Project Manager,False,"St. Louis, MO",2015-10-19,2018-07-20
+11940,False,39.0,4.56,True,White,Safety Manager,False,"Denver, CO",2021-12-08,
+11941,True,39.0,1.25,True,White,Superintendent,False,"Chicago, IL",2018-02-19,2019-05-22
+11942,True,34.0,0.5,False,White,Superintendent,False,"Denver, CO",2018-09-19,2019-03-21
+11943,True,37.0,0.58,False,Hispanic or Latino,Project Manager,False,"Chicago, IL",2020-04-07,2020-11-06
+11944,True,46.0,3.58,True,Asian,Superintendent,False,"Phoenix, AZ",2016-05-07,2019-12-07
+11945,True,42.0,1.08,True,Two or More Races,Project Engineer,True,"Chicago, IL",2017-12-15,2019-01-15
+11946,False,49.0,2.75,True,Hispanic or Latino,Project Engineer,False,"Phoenix, AZ",2023-09-30,
+11947,True,54.0,3.5,False,White,Project Engineer,False,"St. Louis, MO",2015-04-10,2018-10-09
+11948,True,32.0,0.58,False,White,Safety Manager,True,"Chicago, IL",2018-02-16,2018-09-17
+11949,False,44.0,0.11,False,Black or African American,Superintendent,False,"Atlanta, GA",2026-05-22,
+11950,True,43.0,0.33,False,White,Superintendent,False,"Denver, CO",2019-06-07,2019-10-07
+11951,True,53.0,2.0,True,White,Safety Manager,False,"Columbus, OH",2016-08-09,2018-08-10
+11952,True,33.0,1.33,True,White,Superintendent,False,"Chicago, IL",2023-04-27,2024-08-26
+11953,True,49.0,2.5,True,Asian,Superintendent,False,"Dallas, TX",2021-08-20,2024-02-19
+11954,True,39.0,2.67,True,Black or African American,Safety Manager,True,"Phoenix, AZ",2017-06-15,2020-02-14
+11955,False,54.0,8.56,False,White,Project Engineer,False,"St. Louis, MO",2017-12-10,
+11956,True,43.0,0.83,True,White,Superintendent,False,"St. Louis, MO",2019-06-08,2020-04-07
+11957,True,37.0,0.5,True,White,Superintendent,False,"St. Louis, MO",2023-06-04,2023-12-04
+11958,True,33.0,0.58,True,Hispanic or Latino,Superintendent,False,"St. Louis, MO",2017-12-26,2018-07-27
+11959,True,32.0,1.67,True,Asian,Superintendent,False,"Atlanta, GA",2016-07-06,2018-03-07
+11960,True,52.0,0.17,True,White,Safety Manager,False,"Dallas, TX",2018-09-29,2018-11-29
+11961,True,32.0,0.75,True,White,Project Manager,False,"St. Louis, MO",2020-10-13,2021-07-14
+11962,True,27.0,1.17,True,Black or African American,Safety Manager,False,"St. Louis, MO",2024-02-26,2025-04-27
+11963,False,51.0,11.21,True,White,Safety Manager,False,"Dallas, TX",2015-04-15,
+11964,True,46.0,1.67,True,Asian,Safety Manager,False,"Dallas, TX",2016-12-25,2018-08-26
+11965,True,52.0,0.58,False,White,Project Engineer,False,"Chicago, IL",2015-01-12,2015-08-13
+11966,True,35.0,1.75,True,White,Project Manager,False,"St. Louis, MO",2015-01-09,2016-10-09
+11967,True,26.0,0.17,True,White,Safety Manager,False,"Phoenix, AZ",2021-07-26,2021-09-25
+11968,True,38.0,1.08,False,White,Project Manager,False,"Dallas, TX",2016-02-12,2017-03-14
+11969,False,46.0,0.66,True,White,Project Manager,False,"Chicago, IL",2025-11-02,
+11970,True,43.0,1.33,True,Hispanic or Latino,Superintendent,False,"Chicago, IL",2019-11-03,2021-03-04
+11971,False,43.0,2.76,True,Hispanic or Latino,Project Manager,False,"Dallas, TX",2023-09-27,
+11972,True,47.0,2.5,True,White,Superintendent,False,"St. Louis, MO",2020-09-06,2023-03-08
+11973,True,47.0,4.25,True,White,Project Manager,False,"St. Louis, MO",2016-12-15,2021-03-16
+11974,False,39.0,1.36,True,White,Superintendent,False,"Denver, CO",2025-02-20,
+11975,True,45.0,3.58,True,Hispanic or Latino,Project Engineer,True,"Chicago, IL",2015-07-09,2019-02-07
+11976,True,46.0,2.08,False,White,Project Manager,False,"Chicago, IL",2018-02-08,2020-03-10
+11977,True,46.0,0.25,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2019-01-01,2019-04-02
+11978,True,34.0,1.92,True,White,Superintendent,False,"Chicago, IL",2022-02-01,2024-01-02
+11979,True,52.0,3.25,True,White,Project Manager,False,"Phoenix, AZ",2015-01-23,2018-04-24
+11980,False,37.0,0.58,False,White,Superintendent,False,"Denver, CO",2025-12-01,
+11981,True,37.0,0.58,False,White,Project Manager,False,"Atlanta, GA",2024-04-08,2024-11-07
+11982,False,38.0,2.8,True,White,Safety Manager,False,"Phoenix, AZ",2023-09-11,
+11983,True,52.0,1.58,True,White,Superintendent,False,"St. Louis, MO",2018-03-25,2019-10-24
+11984,True,42.0,0.17,True,Black or African American,Safety Manager,False,"St. Louis, MO",2019-02-22,2019-04-24
+11985,True,48.0,0.5,True,Asian,Superintendent,False,"Columbus, OH",2025-07-23,2026-01-22
+11986,True,28.0,0.58,True,White,Superintendent,False,"Dallas, TX",2025-10-28,2026-05-29
+11987,False,42.0,1.36,True,White,Project Manager,False,"St. Louis, MO",2025-02-21,
+11988,True,25.0,1.0,False,Two or More Races,Project Engineer,False,"St. Louis, MO",2023-05-14,2024-05-13
+11989,True,44.0,0.92,True,White,Project Manager,False,"St. Louis, MO",2018-11-22,2019-10-23
+11990,True,40.0,5.67,True,Black or African American,Safety Manager,False,"Atlanta, GA",2017-03-31,2022-11-30
+11991,True,39.0,2.33,False,Two or More Races,Project Manager,False,"Chicago, IL",2019-08-24,2021-12-23
+11992,True,29.0,0.17,True,Hispanic or Latino,Project Engineer,False,"Phoenix, AZ",2024-12-14,2025-02-13
+11993,True,44.0,4.58,False,White,Superintendent,True,"St. Louis, MO",2018-09-12,2023-04-13
+11994,False,48.0,6.94,True,Black or African American,Project Engineer,False,"Chicago, IL",2019-07-23,
+11995,True,30.0,0.25,False,White,Project Engineer,False,"Dallas, TX",2017-08-03,2017-11-02
+11996,True,37.0,0.67,True,White,Project Engineer,False,"Denver, CO",2024-04-23,2024-12-23
+11997,False,41.0,2.58,False,Hispanic or Latino,Superintendent,True,"St. Louis, MO",2023-12-02,
+11998,True,49.0,1.75,False,Asian,Superintendent,False,"Phoenix, AZ",2018-03-01,2019-11-30
+11999,False,46.0,6.83,True,Hispanic or Latino,Project Manager,False,"Atlanta, GA",2019-08-31,
+12000,True,32.0,0.17,True,White,Superintendent,False,"Columbus, OH",2020-03-29,2020-05-29

@@ -1,0 +1,8 @@
+{
+    "project_number": "int64",
+    "project_start": "datetime64[ns]",
+    "project_end": "datetime64[ns]",
+    "location": "object",
+    "priority_project": "bool",
+    "budget": "float64"
+}

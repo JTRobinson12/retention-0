@@ -1,0 +1,13 @@
+{
+    "employee_number": "int64",
+    "terminated": "bool",
+    "age": "float64",
+    "tenure_years": "float64",
+    "male": "bool",
+    "ethnicity": "object",
+    "role": "object",
+    "rehire": "bool",
+    "home_location": "object",
+    "employment_start": "datetime64[ns]",
+    "employment_end": "datetime64[ns]"
+}

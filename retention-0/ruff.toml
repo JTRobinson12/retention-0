@@ -1,0 +1,60 @@
+line-length = 120
+indent-width = 4
+target-version = "py311"
+extend-exclude = ["*.ipynb"]
+src = ["lib"]
+preview = true
+
+[lint]
+select = [
+    "A", # flake8-builtins
+    "C4", # flake8-comprehensions
+    "RET", # flake8-return
+    "SIM", #flake8-simplify
+    "ARG", #flake8-unused-arguments
+    "PTH", #flake8-use-pathlib
+    "NPY", # NumPy specific rules
+    "D", # pydocstyle
+    "E4", #pycodestyle
+    "E7",
+    "E9",
+    "F", # pyflakes
+    "N", # pep8-naming
+    "UP", # pyupgrade
+]
+ignore = [
+    "D100", # undocumented public module
+    "D104", # undocumented punlic package
+    "D107", # undocumented punlic init
+]
+extend-select = [
+    # isort
+    "I001",
+    # pycodestyle
+    "E101", # mixed spaces and tabs
+    "E111", # indentation with invalid multiple
+    "E112", # expected an indented block
+    "E113", # unexpected indentation
+    "E117", # over-indented
+    "E2",
+    "E3",
+    "E501",
+    "W191", # Indentation with tabs
+    "W29", # trailing whitespace, missing new lines, white space in blank lines
+    # ruff-specific rules
+    "RUF008", # appropriate dataclass usage
+    "RUF009", # appropriate dataclass usage
+    "RUF100" # flag unneeded noqa
+]
+
+[lint.isort]
+# These are installed dependencies (data-science-core), not local lib/ packages.
+# Pin them third-party so import sorting matches CI regardless of stray local lib/ folders.
+known-third-party = ["features", "functionals", "plum", "predictions", "training"]
+
+[lint.per-file-ignores]
+"__init__.py" = ["F401", "I001"]
+"*/tests/test*.py" = ["D103"]
+
+[lint.pydocstyle]
+convention = "numpy"
